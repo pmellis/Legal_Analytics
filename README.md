@@ -9,4 +9,4 @@ This repo is for the storage of my assignments and projects related to Legal Ana
 
 ##Why?
 
-"For the rational study of the law the black-letter man may be the man of the present, but the <strong>man of the future</strong> is the man of statistics and the master of ~~economics~~ [computer stuff]." Oliver Wendell Holmes, Jr., <a href="http://www.constitution.org/lrev/owh/path_law.htm">The Path of the Law</a>, 10 Harv. L. Rev. 457, 469 (1897)(emphasis added).
+"For the rational study of the law the black-letter man may be the man of the present, but the <strong>man of the future</strong> is the man of statistics and the master of ~~economics~~ [computer stuff]." Oliver Wendell Holmes, Jr., <a href="http://www.constitution.org/lrev/owh/path_law.htm"><em>The Path of the Law</em></a>, 10 Harv. L. Rev. 457, 469 (1897).
