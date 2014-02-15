@@ -2,8 +2,6 @@
 
 # Blog available at http://patellis.wordpress.com/2013/12/19/open-source-e-discovery-and-document-management/
 
-
-
 # Load requisite packages
 library(tm)
 library(ggplot2)
@@ -58,4 +56,3 @@ fit <- cmdscale(dist.mat.lsa, eig = TRUE, k = 2)
 points <- data.frame(x = fit$points[, 1], y = fit$points[, 2])
 ggplot(points, aes(x = x, y = y)) + geom_point(data = points, aes(x = x, y = y, 
     color = df$view)) + geom_text(data = points, aes(x = x, y = y - 0.2, label = row.names(df)))
-
