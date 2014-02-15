@@ -59,7 +59,3 @@ points <- data.frame(x = fit$points[, 1], y = fit$points[, 2])
 ggplot(points, aes(x = x, y = y)) + geom_point(data = points, aes(x = x, y = y, 
     color = df$view)) + geom_text(data = points, aes(x = x, y = y - 0.2, label = row.names(df)))
 
-   
-
-
-
