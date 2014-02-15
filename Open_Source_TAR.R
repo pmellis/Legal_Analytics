@@ -32,3 +32,34 @@ corpus <- tm_map(corpus, stemDocument, language = "english")
 corpus  # check corpus
 
 # Mini-Enron corpus with 9 text documents
+
+# Compute a term-document matrix that contains occurrance of terms in each email
+# Compute distance between pairs of documents and scale the multidimentional semantic space (MDS) onto two dimensions
+td.mat <- as.matrix(TermDocumentMatrix(corpus))
+dist.mat <- dist(t(as.matrix(td.mat)))
+dist.mat  # check distance matrix
+
+# Compute distance between pairs of documents and scale the multidimentional semantic space onto two dimensions
+fit <- cmdscale(dist.mat, eig = TRUE, k = 2)
+points <- data.frame(x = fit$points[, 1], y = fit$points[, 2])
+ggplot(points, aes(x = x, y = y)) + geom_point(data = points, aes(x = x, y = y, 
+    color = df$view)) + geom_text(data = points, aes(x = x, y = y - 0.2, label = row.names(df)))
+    
+# Results are acceptable. Let's try with Latent Semantic Analysis (LSA).
+    
+# MDS with LSA
+td.mat.lsa <- lw_bintf(td.mat) * gw_idf(td.mat)  # weighting
+lsaSpace <- lsa(td.mat.lsa)  # create LSA space
+dist.mat.lsa <- dist(t(as.textmatrix(lsaSpace)))  # compute distance matrix
+dist.mat.lsa  # check distance mantrix
+
+# MDS
+fit <- cmdscale(dist.mat.lsa, eig = TRUE, k = 2)
+points <- data.frame(x = fit$points[, 1], y = fit$points[, 2])
+ggplot(points, aes(x = x, y = y)) + geom_point(data = points, aes(x = x, y = y, 
+    color = df$view)) + geom_text(data = points, aes(x = x, y = y - 0.2, label = row.names(df)))
+
+   
+
+
+
