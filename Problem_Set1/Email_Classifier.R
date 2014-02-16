@@ -3,6 +3,7 @@
 # By:              Patrick Ellis
 # Prompt:          Please Replicate the Spam versus Ham Classifier Example from Chapter 3 of Machine Learning for Hackers  
 # Data Used:       Email messages contained in data/ directory, source: http://spamassassin.apache.org/publiccorpus/
+# Results:         See Legal_Analytics_Spring2014 / Problem_Set1 / Email_Outputs.md
 
 # Load packages
 library('tm')
@@ -38,8 +39,7 @@ ggsave(plot = ex1,
        height = 10,
        width = 10)
 
-# Return a single element vector of just the email body
-# Words as features
+# Return a single element vector of just the email body (words as features)
 get.msg <- function(path)
 {
   con <- file(path, open = "rb", encoding = "latin1")
@@ -51,7 +51,6 @@ get.msg <- function(path)
 }
 
 # Generate TDM from the corpus of SPAM email.
-# TDM is used to create the feature set used to train our classifier.
 get.tdm <- function(doc.vec)
 {
   control <- list(stopwords = TRUE,
@@ -77,16 +76,9 @@ count.word <- function(path, term)
   msg.tdm <- TermDocumentMatrix(msg.corpus, control)
   word.freq <- rowSums(as.matrix(msg.tdm))
   term.freq <- word.freq[which(names(word.freq) == term)]
-  # We use ifelse here because term.freq = NA if nothing is found
   return(ifelse(length(term.freq) > 0, term.freq, 0))
 }
 
-# This is the our workhorse function for classifying email.  It takes 
-# two required parameters: a file path to an email to classify, and
-# a data frame of the trained data.  The function also takes two 
-# optional parameters.  First, a prior over the probability that an email
-# is SPAM, which we set to 0.5 (naive), and constant value for the
-# probability on words in the email that are not in our training data.
 # The function returns the naive Bayes probability that the given email
 # is SPAM.  
 classify.email <- function(path, training.df, prior = 0.5, c = 1e-6)
@@ -110,17 +102,13 @@ classify.email <- function(path, training.df, prior = 0.5, c = 1e-6)
   }
 }
 
-
-# With all of our support functions written, we can perform the classification.
-# First, we create document corpus for spam messages
-
 # Get all the SPAM-y email into a single vector
 spam.docs <- dir(spam.path)
 spam.docs <- spam.docs[which(spam.docs != "cmds")]
 all.spam <- sapply(spam.docs,
                    function(p) get.msg(file.path(spam.path, p)))
 
-# Create a DocumentTermMatrix from that vector
+# Create a Document TDM from that vector
 spam.tdm <- get.tdm(all.spam)
 
 # Create a data frame that provides the feature set from the training SPAM data
