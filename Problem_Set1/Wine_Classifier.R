@@ -23,8 +23,7 @@ corrplot(cor(wine[, -c(13, 15)]), method = "number", tl.cex = 0.5)
 
 set.seed(1234) #so that the indices will be the same when re-run
 trainIndices <- createDataPartition(wine$good, p = 0.8, list = F)
-wanted <- !colnames(wine) %in% c("free.sulfur.dioxide", "density", "quality",
-+                               "color", "white")
+wanted <- !colnames(wine) %in% c("free.sulfur.dioxide", "density", "quality", "color", "white")
 wine_train <- wine[trainIndices, wanted] #remove quality and color, as well as density and others
 wine_test <- wine[-trainIndices, wanted]
 
