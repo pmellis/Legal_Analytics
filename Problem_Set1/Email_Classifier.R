@@ -42,8 +42,8 @@ ggsave(plot = ex1,
 # Return a single element vector of just the email body (words as features)
 get.msg <- function(path)
 {
-  con <- file(path, open = "rb", encoding = "latin1") # You should use "rb" if you're opening non-text files, 
-  text <- readLines(con)                              # because in this case, the translations are not appropriate.
+  con <- file(path, open = "rb", encoding = "latin1") # You should use "rb" (rather than "rt") if you're opening non-text 
+  text <- readLines(con)                              # files, because in this case, the translations are not appropriate.
   # The message always begins after the first full line break
    msg <- text[seq(which(text == "")[1] + 1, length(text), 1)]
   close(con)
