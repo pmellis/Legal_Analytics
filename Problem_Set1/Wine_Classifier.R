@@ -29,9 +29,9 @@ wine_test <- wine[-trainIndices, wanted]
 
 # 10-fold cross validation; set up a set of values for k
 set.seed(1234)
-cv_opts = trainControl(method="cv", number=10)
-knn_opts = data.frame(.k=c(seq(3, 11, 2), 25, 51, 101)) #odd to avoid ties
-results_knn = train(good~., data=wine_train, method="knn",
+cv_opts <- trainControl(method="cv", number=10)
+knn_opts <- data.frame(.k=c(seq(3, 11, 2), 25, 51, 101)) #odd to avoid ties
+results_knn <- train(good~., data=wine_train, method="knn",
 +                     preProcess="range", trControl=cv_opts,
 +                     tuneGrid = knn_opts)
 
