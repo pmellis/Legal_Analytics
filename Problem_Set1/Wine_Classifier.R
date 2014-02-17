@@ -43,5 +43,29 @@ results_knn <- train(good~., data=wine_train, method="knn",preProcess="range", t
 preds_knn = predict(results_knn, wine_test[,-10])
 confusionMatrix(preds_knn, wine_test[,10], positive='Good')
 
-# Generatate dot-plot to rank variable importance
-dotPlot(varImp(results_knn))
+# Test performance output
+Confusion Matrix and Statistics
+
+          Reference
+Prediction Bad Good
+      Bad  285  162
+      Good 191  660
+                                         
+               Accuracy : 0.728          
+                 95% CI : (0.703, 0.7521)
+    No Information Rate : 0.6333         
+    P-Value [Acc > NIR] : 2.762e-13      
+                                         
+                  Kappa : 0.4069         
+ Mcnemar's Test P-Value : 0.1361         
+                                         
+            Sensitivity : 0.8029         
+            Specificity : 0.5987         
+         Pos Pred Value : 0.7756         
+         Neg Pred Value : 0.6376         
+             Prevalence : 0.6333         
+         Detection Rate : 0.5085         
+   Detection Prevalence : 0.6556         
+      Balanced Accuracy : 0.7008         
+                                         
+       'Positive' Class : Good   
