@@ -32,7 +32,6 @@ wine_trainplot = predict(preProcess(wine_train[,-10], method="range"),
 wine_train[,-10])
 featurePlot(wine_trainplot, wine_train$good, "box")
 
-
 # 10-fold cross validation; set up a set of values for k
 set.seed(1234)
 cv_opts <- trainControl(method="cv", number=10)
