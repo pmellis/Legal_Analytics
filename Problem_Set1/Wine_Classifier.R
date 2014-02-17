@@ -4,7 +4,7 @@
 # Prompt:          Please Replicate the Wine Quality Classifier
 # Data Used:       Available at http://www.nd.edu/~mclark19/learn/data/goodwine.csv
 
-# Load packages
+# Load packages (will load requireds as well)
 library(doSNOW) # Foreach parallel adaptor for the snow package.
 library(corrplot) # Visualization of a correlation matrix.
 library(caret) # Classification and Regression Training. 
