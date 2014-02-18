@@ -6,6 +6,7 @@
 library(tm)
 library(ggplot2)
 library(lsa)
+library(SnowballC)
 
 # Place Enron email snippets into a single vector.
 text <- c(
