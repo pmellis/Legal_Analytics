@@ -9,14 +9,14 @@ classify	points	A,	B,	C,	D,	E,	F,	G.
 
 =================================
 
-###Space
+##Space
 
-![plot]()
+![plot](http://patellis.files.wordpress.com/2014/03/g11.png)
 
-###Classification Tree
+##Classification Tree
 
-![plot]()
+![plot](http://patellis.files.wordpress.com/2014/03/g2.png)
 
-###Likely Classifications
+##Likely Classifications
 
-![plot]()
+![plot](http://patellis.files.wordpress.com/2014/03/g3.png)
