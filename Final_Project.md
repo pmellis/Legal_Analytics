@@ -1,3 +1,1 @@
-#Analyzing Judicial Sentiment on SCOTUS
-
-On March 24, 2014, the United States Supreme Court heard oral argument in *Sebelius v. Hobby Lobby Stores, Inc.*, a case which presented the issue of whether the Religious Freedom Restoration Act of 1993 (RFRA), which provides that the government “shall not substantially burden a person’s exercise of religion” unless that burden is the least restrictive means to further a compelling governmental interest, allows a for-profit corporation to deny its employees the health coverage of contraceptives to which the employees are otherwise entitled by federal law, based on the religious objections of the corporation’s owners.
+#Coming soon . . . 
