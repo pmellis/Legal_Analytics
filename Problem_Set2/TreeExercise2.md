@@ -126,7 +126,7 @@ plot(bodyfat_rpart)
 text(bodyfat_rpart, use.n = T)
 ```
 
-![plot(http://patellis.files.wordpress.com/2014/03/rplot092.png)
+![plot](http://patellis.files.wordpress.com/2014/03/rplot092.png)
 
 ```{r}
 opt <- which.min(bodyfat_rpart$cptable[, "xerror"])
