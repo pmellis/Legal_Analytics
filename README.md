@@ -13,4 +13,4 @@ This repository is for the storage of my projects and assignments related to Leg
 
 Oliver Wendell Holmes, Jr., <a href="http://www.constitution.org/lrev/owh/path_law.htm"><em>The Path of the Law</em></a>, 10 Harv. L. Rev. 457, 469 (1897).
 
-![pic](http://upload.wikimedia.org/wikipedia/commons/e/e6/Justice_Oliver_Wendell_Holmes_at_desk.jpg)
+![pic](http://patellis.files.wordpress.com/2014/03/justice_oliver_wendell_holmes_at_desk.jpg)
