@@ -1,4 +1,4 @@
-Classification Trees Exercise 2 
+Classification Trees Exercise 3 
 ================================
 
 **By:** [Patrick Ellis](http://patellis.wordpress.com/)
