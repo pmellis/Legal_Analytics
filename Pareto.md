@@ -1,7 +1,7 @@
 Pareto Analysis with R
 ============================
 
-[Data:](http://www.uscourts.gov/uscourts/Statistics/StatisticalTablesForTheFederalJudiciary/2013/june/B05Jun13.pdf) U.S.	Courts	of	Appeals—Appeals	Terminated	on	the	Merits,	by	Circuit, 
+**[Data**:](http://www.uscourts.gov/uscourts/Statistics/StatisticalTablesForTheFederalJudiciary/2013/june/B05Jun13.pdf) U.S.	Courts	of	Appeals—Appeals	Terminated	on	the	Merits,	by	Circuit, 
 During	the	12-Month	Period	Ending	June	30,	2013
 
 ```{r}
