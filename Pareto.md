@@ -29,4 +29,4 @@ abline(h=(sum(Appellate_Disposition)*.8),col="blue",lwd=1)
 ```
 
 ![pic](http://patellis.files.wordpress.com/2014/04/rplot01.png)
-)
+
