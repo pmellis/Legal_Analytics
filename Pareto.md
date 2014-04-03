@@ -1,7 +1,10 @@
+###Pareto Analysis with R
+
 [Data:](http://www.uscourts.gov/uscourts/Statistics/StatisticalTablesForTheFederalJudiciary/2013/june/B05Jun13.pdf) U.S.	Courts	of	Appeals—Appeals	Terminated	on	the	Merits,	by	Circuit, 
 During	the	12-Month	Period	Ending	June	30,	2013
 
 ```{r}
+library(qcc)
 Appellate_Disposition <- c(23689,2753,2249,516,68)
 names(Appellate_Disposition) <- c("Affirmed", "Dismissed", "Reversed", "Remanded", "Other")
 pareto.chart(Appellate_Disposition, ylab = "Frequency", col=heat.colors(length(Appellate_Disposition)))
