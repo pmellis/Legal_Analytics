@@ -1,6 +1,12 @@
 Pareto Analysis with R
 ============================
 
+The 80-20 rule states that 80% of outcomes can be attributed to 20% of the causes for a given event. In business, the 80-20 rule is used to help managers identify problems and determine which operating factors are most important and should receive the most attention based on an efficient use of resources. Resources should be allocated to addressing the input factors have the most effect on a company's final results. It is also known as the "Pareto principle", the "principle of factor sparsity" and the "law of the vital few." 
+
+Does it apply in law? Let's find out by doing a Pareto analysis on U.S. Court of Appeals decisions and their outcomes based on the merits.
+
+==============================
+
 [**Data**:](http://www.uscourts.gov/uscourts/Statistics/StatisticalTablesForTheFederalJudiciary/2013/june/B05Jun13.pdf) U.S.	Courts	of	Appeals—Appeals	Terminated	on	the	Merits,	by	Circuit, 
 During	the	12-Month	Period	Ending	June	30,	2013
 
