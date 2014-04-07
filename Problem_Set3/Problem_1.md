@@ -4,6 +4,8 @@
 
 Please reproduce the example shown [**here**](http://rforwork.info/2012/12/23/binary-classification-a-comparison-of-titanic-proportions-between-logistic-regression-random-forests-and-conditional-trees/).
 
+##GLM
+
 ```{r}
 titanic.train <- read.csv("http://biostat.mc.vanderbilt.edu/wiki/pub/Main/DataSets/titanic3.csv")
 titanic.survival.train = glm(survived ~ pclass + sex + pclass:sex + age + sibsp, 
@@ -41,6 +43,8 @@ AIC: 945.32
 Number of Fisher Scoring iterations: 5
 ```
 
+##Random Forest
+
 ```{r}
 library(randomForest)
 titanic.survival.train.rf = randomForest(as.factor(survived) ~ pclass + sex + 
@@ -74,6 +78,8 @@ sex    252.10317 334.05962            340.59486        141.32336
 age    108.29028  77.87397            138.84501         67.40527
 sibsp   80.20135 -24.90378             56.87116         18.13886
 ```
+
+##Conditional Tree
 
 ```{r}
 library(party)
@@ -116,4 +122,4 @@ Number of observations:  1309
 plot(titanic.survival.train.ctree)
 ```
 
-[pic](http://patellis.wordpress.com/wp-admin/post.php?post=1519&action=edit)
+![pic](http://patellis.wordpress.com/wp-admin/post.php?post=1519&action=edit)
