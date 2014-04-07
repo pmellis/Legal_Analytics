@@ -1,5 +1,11 @@
-##Problem 1: Random Forests, GLM and Conditional Trees  
+##Problem 3: H-Clustering and K Means 
 
 =======================================================
 
-Please reproduce the example shown [**here**](http://rforwork.info/2012/12/23/binary-classification-a-comparison-of-titanic-proportions-between-logistic-regression-random-forests-and-conditional-trees/).
+Please replicate hierarchical clustering section 2 from [this page](http://www.stat.berkeley.edu/classes/s133/Cluster2a.html).
+
+
+Please replicate this K-Means [example](http://www.r-statistics.com/2013/08/k-means-clustering-from-r-in-action/). 
+
+
+
