@@ -2,7 +2,7 @@
 
 =======================================================
 
-Please reproduce the example shown [here](http://rforwork.info/2012/12/23/binary-classification-a-comparison-of-titanic-proportions-between-logistic-regression-random-forests-and-conditional-trees/).
+Please reproduce the example shown [**here**](http://rforwork.info/2012/12/23/binary-classification-a-comparison-of-titanic-proportions-between-logistic-regression-random-forests-and-conditional-trees/).
 
 ```{r}
 library(randomForest, party)
@@ -43,19 +43,35 @@ Number of Fisher Scoring iterations: 5
 ```
 
 ```{r}
+titanic.survival.train.rf = randomForest(as.factor(survived) ~ pclass + sex + 
+    age + sibsp, data = titanic.train, ntree = 5000, importance = TRUE, na.action = na.omit)
+titanic.survival.train.rf
+```
 
+```
+Call:
+ randomForest(formula = as.factor(survived) ~ pclass + sex + age +      sibsp, data = titanic.train, ntree = 5000, importance = TRUE,      na.action = na.omit) 
+               Type of random forest: classification
+                     Number of trees: 5000
+No. of variables tried at each split: 2
+
+        OOB estimate of  error rate: 18.93%
+Confusion matrix:
+    0   1 class.error
+0 566  53  0.08562197
+1 145 282  0.33957845
 ```
 
 ```{r}
-
+importance(titanic.survival.train.rf)
 ```
 
-```{r}
-
 ```
-
-```{r}
-
+               0         1 MeanDecreaseAccuracy MeanDecreaseGini
+pclass  88.55623 136.20184            142.41658         54.75469
+sex    252.10317 334.05962            340.59486        141.32336
+age    108.29028  77.87397            138.84501         67.40527
+sibsp   80.20135 -24.90378             56.87116         18.13886
 ```
 
 ```{r}
