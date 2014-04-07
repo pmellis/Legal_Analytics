@@ -122,4 +122,4 @@ Number of observations:  1309
 plot(titanic.survival.train.ctree)
 ```
 
-![pic](http://patellis.wordpress.com/wp-admin/post.php?post=1519&action=edit)
+![pic](http://patellis.files.wordpress.com/2014/04/rplot1.png)
