@@ -8,7 +8,7 @@ Please reproduce the example shown [**here**](http://rforwork.info/2012/12/23/bi
 library(randomForest, party)
 titanic.train <- read.csv("http://biostat.mc.vanderbilt.edu/wiki/pub/Main/DataSets/titanic3.csv")
 titanic.survival.train = glm(survived ~ pclass + sex + pclass:sex + age + sibsp, 
-    family = binomial(logit), data = titanic.train)
+    family = binomial(logit), titanic.train)
 summary(titanic.survival.train)
 ```
 
@@ -50,7 +50,8 @@ titanic.survival.train.rf
 
 ```
 Call:
- randomForest(formula = as.factor(survived) ~ pclass + sex + age +      sibsp, data = titanic.train, ntree = 5000, importance = TRUE,      na.action = na.omit) 
+ randomForest(formula = as.factor(survived) ~ pclass + sex + age + 
+    sibsp, data = titanic.train, ntree = 5000, importance = TRUE, na.action = na.omit) 
                Type of random forest: classification
                      Number of trees: 5000
 No. of variables tried at each split: 2
