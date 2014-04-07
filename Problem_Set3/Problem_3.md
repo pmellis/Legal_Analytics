@@ -36,7 +36,9 @@ cars.hclust = hclust(cars.dist)
 plot(cars.hclust, labels = cars$Car, main = "Default from hclust")
 ```
 
-![pic]()
+![pic](http://patellis.files.wordpress.com/2014/04/rplot2.png)
+
+Fix ledger . . .
 
 ```{r}
 
