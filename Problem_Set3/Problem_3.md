@@ -275,28 +275,78 @@ In the plot of Hubert index, we seek a significant knee that corresponds to a si
 ![pic](http://patellis.files.wordpress.com/2014/04/rplot012.png)
 
 ```{r}
+table(nc$Best.n[1, ])
+```
 
+```
+ 0  2  3  8 13 14 15 
+ 2  3 14  1  2  1  1 
 ```
 
 ```{r}
+barplot(table(nc$Best.n[1, ]), xlab = "Numer of Clusters", ylab = "Number of Criteria", 
+    main = "Number of Clusters Chosen by 26 Criteria")
+```
 
+![pic](http://patellis.files.wordpress.com/2014/04/rplot02.png)
+
+```{r}
+set.seed(1234)
+fit.km <- kmeans(df, 3, nstart = 25)
+fit.km$size
+```
+
+```
+[1] 62 65 51
 ```
 
 ```{r}
-
+fit.km$centers
 ```
 
 ```{r}
-
+Alcohol      Malic        Ash Alcalinity   Magnesium     Phenols  Flavanoids
+1  0.8328826 -0.3029551  0.3636801 -0.6084749  0.57596208  0.88274724  0.97506900
+2 -0.9234669 -0.3929331 -0.4931257  0.1701220 -0.49032869 -0.07576891  0.02075402
+3  0.1644436  0.8690954  0.1863726  0.5228924 -0.07526047 -0.97657548 -1.21182921
+  Nonflavanoids Proanthocyanins      Color        Hue   Dilution    Proline
+1   -0.56050853      0.57865427  0.1705823  0.4726504  0.7770551  1.1220202
+2   -0.03343924      0.05810161 -0.8993770  0.4605046  0.2700025 -0.7517257
+3    0.72402116     -0.77751312  0.9388902 -1.1615122 -1.2887761 -0.4059428
 ```
 
 ```{r}
-
+aggregate(wine[-1], by = list(cluster = fit.km$cluster), mean)
 ```
 
+```
+ cluster  Alcohol    Malic      Ash Alcalinity Magnesium  Phenols Flavanoids
+1       1 13.67677 1.997903 2.466290   17.46290 107.96774 2.847581  3.0032258
+2       2 12.25092 1.897385 2.231231   20.06308  92.73846 2.247692  2.0500000
+3       3 13.13412 3.307255 2.417647   21.24118  98.66667 1.683922  0.8188235
+  Nonflavanoids Proanthocyanins    Color       Hue Dilution   Proline
+1     0.2920968        1.922097 5.453548 1.0654839 3.163387 1100.2258
+2     0.3576923        1.624154 2.973077 1.0627077 2.803385  510.1692
+3     0.4519608        1.145882 7.234706 0.6919608 1.696667  619.0588
+```
 
+```{r}
+ct.km <- table(wine$Type, fit.km$cluster)
+ct.km
+```
 
+```
+ 1  2  3
+  1 59  0  0
+  2  3 65  3
+  3  0  0 48
+```
 
+```{r}
+randIndex(ct.km)
+```
 
-
-
+```
+ARI 
+0.897495
+```
