@@ -1,6 +1,6 @@
 ##Problem 3: H-Clustering and K Means 
 
-###Please replicate hierarchical clustering section 2 from [this page](http://www.stat.berkeley.edu/classes/s133/Cluster2a.html).
+###3.1: Please replicate hierarchical clustering section 2 from [this page](http://www.stat.berkeley.edu/classes/s133/Cluster2a.html).
 
 ```{r}
 cars <- read.delim("http://www.stat.berkeley.edu/classes/s133/data/cars.tab")
@@ -216,7 +216,7 @@ Cluster Freq  MPG Weight Drive_Ratio Horsepower Displacement Cylinders
 4       4   10 20.7  3.105        2.96      112.5          173         6
 ```
 
-###Please replicate this K-Means [example](http://www.r-statistics.com/2013/08/k-means-clustering-from-r-in-action/). 
+###3.2: Please replicate this K-Means [example](http://www.r-statistics.com/2013/08/k-means-clustering-from-r-in-action/). 
 
 ```{r}
 library(rattle)
