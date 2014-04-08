@@ -220,5 +220,83 @@ Cluster Freq  MPG Weight Drive_Ratio Horsepower Displacement Cylinders
 
 ###Please replicate this K-Means [example](http://www.r-statistics.com/2013/08/k-means-clustering-from-r-in-action/). 
 
+```{r}
+library(rattle)
+library(NbClust)
+library(flexclust)
+wssplot <- function(data, nc = 15, seed = 1234) {
++     wss <- (nrow(data) - 1) * sum(apply(data, 2, var))
++     for (i in 2:nc) {
++         set.seed(seed)
++         wss[i] <- sum(kmeans(data, centers = i)$withinss)
++     }
++     plot(1:nc, wss, type = "b", xlab = "Number of Clusters", ylab = "Within groups sum of squares")
+
+data(wine, package = "rattle")
+head(wine)
+```
+
+```
+ Type Alcohol Malic  Ash Alcalinity Magnesium Phenols Flavanoids Nonflavanoids
+1    1   14.23  1.71 2.43       15.6       127    2.80       3.06          0.28
+2    1   13.20  1.78 2.14       11.2       100    2.65       2.76          0.26
+3    1   13.16  2.36 2.67       18.6       101    2.80       3.24          0.30
+4    1   14.37  1.95 2.50       16.8       113    3.85       3.49          0.24
+5    1   13.24  2.59 2.87       21.0       118    2.80       2.69          0.39
+6    1   14.20  1.76 2.45       15.2       112    3.27       3.39          0.34
+  Proanthocyanins Color  Hue Dilution Proline
+1            2.29  5.64 1.04     3.92    1065
+2            1.28  4.38 1.05     3.40    1050
+3            2.81  5.68 1.03     3.17    1185
+4            2.18  7.80 0.86     3.45    1480
+5            1.82  4.32 1.04     2.93     735
+6            1.97  6.75 1.05     2.85    1450
+```
+
+```{r}
+df <- scale(wine[-1])
+wssplot(df)
+```
+
+![pic](http://patellis.files.wordpress.com/2014/04/rplot3.png)
+
+```{r}
+set.seed(1234)
+nc <- NbClust(df, min.nc = 2, max.nc = 15, method = "kmeans")
+```
+
+```
+In the plot of Hubert index, we seek a significant knee that corresponds to a significant increase of the value of the measure i.e the significant peak in Hubert index second differences plot."
+[1] "*** : The D index is a graphical method of determining the number of clusters. In the plot of D index, we seek a significant knee (the significant peak in Dindex second differences plot) that corresponds to a significant increase of the value of the measure."
+[1] "Pseudot2 and Frey indices can be applied only to hierarchical methods "
+[1] "All 178 observations were used."
+```
+
+![pic](http://patellis.files.wordpress.com/2014/04/rplot012.png)
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+
+
+
+
 
 
