@@ -4,6 +4,22 @@
 
 Please reproduce the example shown [**here**](http://rforwork.info/2012/12/23/binary-classification-a-comparison-of-titanic-proportions-between-logistic-regression-random-forests-and-conditional-trees/).
 
+```{r}
+load(url("http://biostat.mc.vanderbilt.edu/wiki/pub/Main/DataSets/titanic3.sav"))
+dim(titanic3)
+```
+
+```
+[1] 1309   14
+```
+
+```{r}
+set.seed(1234)
+ind <- sample(2, nrow(titanic3), replace = TRUE, prob = c(0.5, 0.5))
+titanic.train <- titanic3[ind == 1, ]
+titanic.test <- titanic3[ind == 2, ]
+```
+
 ##GLM
 
 ```{r}
@@ -20,27 +36,29 @@ glm(formula = survived ~ pclass + sex + pclass:sex + age + sibsp,
 
 Deviance Residuals: 
     Min       1Q   Median       3Q      Max  
--3.1988  -0.6761  -0.4864   0.4863   2.3708  
+-3.1909  -0.6174  -0.4401   0.4189   2.3564  
 
 Coefficients:
-                Estimate Std. Error z value Pr(>|z|)    
-(Intercept)     7.719650   0.743102  10.388  < 2e-16 ***
-pclass         -2.210132   0.243548  -9.075  < 2e-16 ***
-sexmale        -6.016085   0.687673  -8.748  < 2e-16 ***
-age            -0.042212   0.006994  -6.035 1.59e-09 ***
-sibsp          -0.314971   0.099782  -3.157   0.0016 ** 
-pclass:sexmale  1.449179   0.261579   5.540 3.02e-08 ***
+                  Estimate Std. Error z value Pr(>|z|)    
+(Intercept)        5.43907    0.88464   6.148 7.83e-10 ***
+pclass2nd         -2.17403    0.84839  -2.563  0.01039 *  
+pclass3rd         -4.07038    0.79710  -5.107 3.28e-07 ***
+sexmale           -4.45588    0.77614  -5.741 9.41e-09 ***
+age               -0.04379    0.01046  -4.188 2.82e-05 ***
+sibsp             -0.26690    0.14665  -1.820  0.06877 .  
+pclass2nd:sexmale  0.66065    0.92499   0.714  0.47509    
+pclass3rd:sexmale  2.44578    0.84068   2.909  0.00362 ** 
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 (Dispersion parameter for binomial family taken to be 1)
 
-    Null deviance: 1414.62  on 1045  degrees of freedom
-Residual deviance:  933.32  on 1040  degrees of freedom
-  (263 observations deleted due to missingness)
-AIC: 945.32
+    Null deviance: 721.33  on 536  degrees of freedom
+Residual deviance: 447.44  on 529  degrees of freedom
+  (125 observations deleted due to missingness)
+AIC: 463.44
 
-Number of Fisher Scoring iterations: 5
+Number of Fisher Scoring iterations: 6
 ```
 
 ##Random Forest
@@ -48,23 +66,22 @@ Number of Fisher Scoring iterations: 5
 ```{r}
 library(randomForest)
 titanic.survival.train.rf = randomForest(as.factor(survived) ~ pclass + sex + 
-    age + sibsp, data = titanic.train, ntree = 5000, importance = TRUE, na.action = na.omit)
++ age + sibsp, data = titanic.train, ntree = 5000, importance = TRUE, na.action = na.omit)
 titanic.survival.train.rf
 ```
 
 ```
 Call:
- randomForest(formula = as.factor(survived) ~ pclass + sex + age + 
-    sibsp, data = titanic.train, ntree = 5000, importance = TRUE, na.action = na.omit) 
+ randomForest(formula = as.factor(survived) ~ pclass + sex + age +      sibsp, data = titanic.train, ntree = 5000, importance = TRUE,      na.action = na.omit) 
                Type of random forest: classification
                      Number of trees: 5000
 No. of variables tried at each split: 2
 
-        OOB estimate of  error rate: 18.93%
+        OOB estimate of  error rate: 17.5%
 Confusion matrix:
     0   1 class.error
-0 566  53  0.08562197
-1 145 282  0.33957845
+0 290  34   0.1049383
+1  60 153   0.2816901
 ```
 
 ```{r}
