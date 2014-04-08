@@ -1,7 +1,5 @@
 ##Problem 3: H-Clustering and K Means 
 
-=======================================================
-
 ###Please replicate hierarchical clustering section 2 from [this page](http://www.stat.berkeley.edu/classes/s133/Cluster2a.html).
 
 ```{r}
