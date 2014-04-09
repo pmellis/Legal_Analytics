@@ -1,4 +1,4 @@
-Legal_Analytics_Spring2014
+Legal Analytics
 ==========================
 
 ###What?
