@@ -1,5 +1,8 @@
 ##Problem 2: PlyR Practice
 
+Replicate this [example](http://www.stat.ubc.ca/~jenny/STAT545A/block04_dataAggregation.html).
+
+
 ```{r}
 gdURL <- "http://www.stat.ubc.ca/~jenny/notOcto/STAT545A/examples/gapminder/data/gapminderDataFiveYear.txt"
 gDat <- read.delim(file = gdURL)
