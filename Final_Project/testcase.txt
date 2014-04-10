@@ -1,0 +1,1966 @@
+*CLEME:	<Mister> [= Mr.] Chief Justice , and may it please the Court : +/.
+50	@G:	---
+51	*CLEME:	When a Federal Government agency compelled employers to provide
+52		something as religiously sensitive as contraception , it knew that free
+53		exercise in <R_F_R_A> [= RFRA] claims would soon follow .
+54	@G:	---
+55	*CLEME:	In particular , the agency itself provided exemptions and
+56		accommodations for the religious exercise of a subset +/.
+57	*SOTO:	Is your claim limited to sensitive materials like contraceptives or
+58		does it include items like blood transfusion , vaccines ?
+59	*SOTO:	For some religions , products made of pork ?
+60	*SOTO:	Is any claim under your theory that has a religious basis , could an
+61		employer preclude the use of those items as well ?
+62	*CLEME:	+, Well , Justice Sotomayor , the first step in the analysis would be
+63		to ask whether or not there's a substantial burden on religious
+64		exercise .
+65	@G:	---
+66	*CLEME:	I do think this case is , in a sense , easier than most of the examples
+67		that you've brought up because here's one where it's so religiously
+68		sensitive , so fraught with religious controversy , that the agency
+69		itself provides a certain number of exemptions and accommodations .
+70	*CLEME:	So that's one way , I think , that you'd address the first step of the
+71		question here .
+72	*KAGA:	Well , I mean , just take one of the things that Justice Sotomayor
+73		asked about , which is vaccinations , because there are many people who
+74		have religious objections to vaccinations .
+75	*KAGA:	So suppose an employer does and (.) and refuses to fund or wants not to
+76		fund vaccinations for her employees , what (.) what happens then ?
+77	*CLEME:	Well , if we assume we get past the substantial burden step of the
+78		analysis , then the next step of the analysis is the compelling
+79		interest and least restrictive alternatives analysis .
+80	*CLEME:	And every case would have to be analyzed on its own .
+81	*CLEME:	I do think in the context of vaccinations , the government may have a
+82		stronger compelling interest than it does in this context because there
+83		are notions of herd immunity and the like that give the government a
+84		particularly compelling interest in trying to maximize the number +/.
+85	*KAGA:	Blood transfusions ?
+86	*CLEME:	+, Blood transfusions .
+87	*CLEME:	Again , each one of these cases , I think would have to be evaluated on
+88		its own and apply the compelling interest-least restrictive alternative
+89		test and the substantial burdens part of the test .
+90	*KAGA:	So really , every medical treatment .
+91	*KAGA:	And Justice Sotomayor is quite right that there are quite a number of
+92		medical treatments that difference religious groups object to .
+93	*KAGA:	So one religious group could opt out of this and another religious
+94		group could opt out of that and everything would be piecemeal and
+95		nothing would be uniform .
+96	*CLEME:	Well (.) well , Justice Kagan , nothing could be clearer than when
+97		Congress passed <R_F_R_A> [= RFRA] Congress made a judgment that
+98		<R_F_R_A> [= RFRA] was going to apply to all manner of Federal
+99		statutes .
+100	*CLEME:	And I think what the Congress +/.
+101	*GINS:	<Mister> [= Mr.] Clement , maybe it seemed clear then , but since
+102		<R_F_R_A> [= RFRA] , just as before <R_F_R_A> [= RFRA] , Congress has
+103		continued to write into Federal legislation specific religious
+104		exemptions for some , but not everybody , for individuals , sometimes
+105		religious institutions .
+106	*GINS:	So if it was all that clear that <R_F_R_A> [= RFRA] took care of it
+107		all , why did Congress continue after <R_F_R_A> [= RFRA] to pass these
+108		laws focusing the exemption on an individual , religious institution ?
+109	*GINS:	Those , as I take your argument , all of those laws (.) and there are
+110		more than half a dozen (.) were unnecessary .
+111	*GINS:	Once <R_F_R_A> [= RFRA] was on the books , Congress didn't have to do
+112		that any more .
+113	*CLEME:	+, Well , Justice Ginsburg , I'm not sure that they were all
+114		unnecessary .
+115	*CLEME:	And of course , in a variety of contexts , Congress may proceed on a
+116		belt and suspenders matters .
+117	*CLEME:	So I think there's really two different questions .
+118	*CLEME:	One is when Congress passed <R_F_R_A> [= RFRA] , was <R_F_R_A> [= RFRA]
+119		just done with creating other exemptions .
+120	*CLEME:	And I think the answer to that is no .
+121	*CLEME:	But I think the question that Justice Kagan's question brought up is ,
+122		was Congress evident and did Congress specifically consider whether
+123		<R_F_R_A> [= RFRA] would apply across the board to all the provisions
+124		of <eighteen> [= 18] <U_S_C> [= U.S.C.] , or rather all the provisions of
+125		the United States Code .
+126	*CLEME:	And Congress could not have been clearer that it was passing a statute
+127		that it wanted to apply to all preexisting statutes and to all
+128		subsequent statutes unless Congress specifically provided otherwise .
+129	*KENN:	You were beginning by giving us a framework for your argument .
+130	*KENN:	Do I think of this as a statutory case ?
+131	*KENN:	Of course , the First Amendment is on the stage at some point here ,
+132		but I take it you can prevail just on the question of statutory
+133		interpretation , and if that is so , are there any statutory rules that
+134		work in your favor , that is to say , avoiding a constitutional
+135		question or how do we think about this case , primarily as a statutory
+136		case ?
+137	*CLEME:	Obviously , one of my clients has before you right now a free exercise
+138		claim and my other client has a free exercise claim that's live in the
+139		lower courts .
+140	*CLEME:	So those issues are preserved .
+141	*CLEME:	But I , think , as your question points out , this Court really , first
+142		and foremost , can decide this on the basis of the Federal statute ,
+143		and the Ashwander principles of constitutional avoidance seem like they
+144		would be sort of fully applicable to the Court's consideration of that
+145		question .
+146	*CLEME:	And then , of course , the normal principles of statutory construction
+147		would certainly point you to the answer to the first objection the
+148		government raises , which is do persons include for-profit corporations
+149		because +/.
+150	*KAGA:	<Mister> [= Mr.] Clement , isn't this a special kind of statute ?
+151	*KAGA:	Because this is a statute that specifically refers back to a body of
+152		constitutional law .
+153	*KAGA:	It basically says we want to get right back to the place that we were
+154		with respect to religious claims before Employment Division <v@l> [=
+155		v.] Smith .
+156	*KAGA:	And so we have (.) it's not (.) you know , it's a statute that directs
+157		us to a body of constitutional law .
+158	@G:	---
+159	*KAGA:	That body of constitutional law is , I think , very different from the
+160		one you portray in your brief .
+161	@G:	---
+162	*KAGA:	It suggests that accommodations should be made sometimes , but rarely ,
+163		and subject to a (.) to a balancing analysis , not to a compelling
+164		interest standard in the way we would use it for , say , race
+165		discrimination .
+166	*KAGA:	So , you know , what's (.) what's the response to that ?
+167	*CLEME:	+, Well , first , Justice Kagan , let me take a little bit of an issue
+168		with your premise and let me try to responsive to your question anyways
+169		after I do that .
+170	*CLEME:	How I'd like to take issue with your premise is that when Congress
+171		first passed the statute <R_F_R_A> [= RFRA] , it talked about free
+172		exercise as defined in the Court's cases .
+173	*CLEME:	And then at the time that it passed <R_L_U_I_P_A> [= RLUIPA] , which is
+174		a later statute , it actually confronted some lower court cases that
+175		had limited <R_F_R_A> [= RFRA] and tried to impose a centrality
+176		requirement .
+177	*CLEME:	And Congress didn't want that .
+178	*CLEME:	It didn't want to take all the baggage of the pre-Smith free exercise
+179		cases .
+180	*CLEME:	So it actually amended the statute to broaden it so it now protects any
+181		exercise of religion .
+182	*CLEME:	So I would take issue with your premise that <R_F_R_A> [= RFRA] simply
+183		picks up everything that ever happened pre-Smith .
+184	*SCAL:	Well , there (.) there's another respect in which this , even as
+185		originally enacted , does not track the (.) the preemployment Division
+186		<v@l> [= v.] Smith law .
+187	*SCAL:	That is to say , the (.) the compelling State interest test in the
+188		prior cases was never accompanied by a least restrictive alternative
+189		requirement .
+190	*SCAL:	That was an invention of this (.) of this law .
+191	*CLEME:	I think that's fair , Justice Scalia .
+192	*CLEME:	One of the things that you run into if you try to sort of get at this
+193		statute the way that Justice Kagan is suggesting is that not everybody
+194		exactly agreed as to what the pre-Smith case law was .
+195	*CLEME:	You described the pre-Smith case law in your opinion in a certain way .
+196	@G:	---
+197	*CLEME:	Justice O'Connor described the pre-Smith case law in another way .
+198	*CLEME:	So it's a little bit difficult to try to say , as Justice Kagan's
+199		question would suggest , that rather than just apply the statute as
+200		written , we should really sort of just go back and apply pre-Smith
+201		laws if this were +/.
+202	*KAGA:	Well , it is applying the statute as written .
+203	*KAGA:	The statute as written (.) this is not a question of legislative
+204		history (.) the statute as written points back to pre-Smith law .
+205	*KAGA:	It says : That's what we mean .
+206	*CLEME:	+, Well , you're right , Justice Kagan , in the purpose part of the
+207		statute it says : What we mean to do here is basically restore the
+208		pre-Smith law .
+209	*CLEME:	But it also accompanies that purpose statute with operative language .
+210	*CLEME:	And the operative language , which I think this Court should apply , as
+211		Justice Scalia suggests , applies broadly to any exercise of religion
+212		by any person and then suggests that the relevant test is substantial
+213		burden with the burden on my client as to the substantial burden part
+214		of the test .
+215	*CLEME:	And then it's +/.
+216	*GINS:	<Mister> [= Mr.] Clement , this (.) this was a law that was passed
+217		overwhelmingly , both houses of Congress .
+218	*GINS:	People from all sides of the political spectrum voted for it .
+219	*GINS:	It seems strange that there would have been that tremendous uniformity
+220		if it means what you said it means , to take (.) to cover profit
+221		corporations , especially in light of (.) there was an effort to adopt
+222		a conscience amendment , a specific conscience amendment in <two thousand and twelve> [= 2012] , and the Senate rejected that .
+223	*GINS:	That (.) that amendment would have enabled secular employers and
+224		insurance providers to deny coverage on the basis of religious beliefs
+225		or moral convictions .
+226	*GINS:	It was specifically geared to secular employers and insurance
+227		providers .
+228	*GINS:	And that (.) that was rejected .
+229	*CLEME:	+, Well , Justice Ginsburg , I would suggest to the contrary .
+230	*CLEME:	The reason that there was such unanimity behind <R_F_R_A> [= RFRA] in
+231		the first place is that efforts to limit it to just certain
+232		subclasses , subsets of religious freedom claims , were rejected and
+233		sort of everybody in Congress got together and said , all right , you
+234		have some claims you actually want to be vindicated , you have some
+235		claims you want to be vindicated , we'll vindicate all of them .
+236	*CLEME:	And if we're going to look at any legislative history as shedding light
+237		on this , then I would suggest you look at Professor Laycock's brief ,
+238		which goes into great detail about the legislative debates involved in
+239		(.) that led up ultimately to the passage of <R_L_U_I_P_A> [= RLUIPA] .
+240	*CLEME:	And when Congress was trying to pass a broader statute , the <R_L_P_A>
+241		[= RLPA] , the Religious Liberty Protection Act , the issue of the
+242		statute's application and <R_F_R_A's> [= RFRA's] application to
+243		for-profit corporations was squarely put at issue by the Nadler
+244		Amendment .
+245	*CLEME:	And that amendment was rejected and the House report that demonstrates
+246		the rejection of that amendment could not be clearer that they
+247		understood that for-profit corporations would be covered .
+248	@G:	---
+249	*CLEME:	Now , in fairness , what they understood is that we were probably
+250		talking about in the real world a relatively small set of corporations
+251		like an incorporated kosher market or kosher deli of the kind that this
+252		Court had before it in the Crown Kosher case .
+253	@G:	---
+254	*CLEME:	And so I think it's (.) you know , we can talk about the extent and how
+255		you'd apply these principles to Exxon , but I think that's just
+256		something that's not going to happen in the real world .
+257	*CLEME:	It is no accident that the claims that you have before you in these
+258		cases are brought by small closely-held corporations that have firmly
+259		held religious beliefs .
+260	*KAGA:	But , again , <Mister> [= Mr.] Clement as Justice Ginsburg said , this
+261		was a very uncontroversial law .
+262	*KAGA:	Your understanding of this law , your interpretation of it , would
+263		essentially subject the entire <U_S> [= U.S.] Code to the highest test
+264		in constitutional law , to a compelling interest standard .
+265	*KAGA:	So another employer comes in and that employer says , I have a
+266		religious objection to sex discrimination laws ; and then another
+267		employer comes in , I have a religious objection to minimum wage laws ;
+268		and then another , family leave ; and then another , child labor laws .
+269	*KAGA:	And all of that is subject to the exact same test which you say is this
+270		unbelievably high test , the compelling interest standard with the
+271		least restrictive alternative .
+272	*CLEME:	Well , I don't say that .
+273	*CLEME:	I think Congress said that .
+274	*CLEME:	But to be as responsive as I can to your question , the parade of
+275		horribles that the government offers you ought to sound familiar ,
+276		because if you look at that parade of horribles (.) Social Security ,
+277		minimum wage , discrimination laws , compelled vaccination (.) every
+278		item on that list was included in Justice Scalia's opinion for the
+279		Court in Smith .
+280	*CLEME:	And Justice O'Connor responded to that in her separate opinion and she
+281		said , look , you've got to trust the courts ; just because free
+282		exercise claims are being brought doesn't mean that the courts can't
+283		separate the sheep from the goats .
+284	*CLEME:	Now , whatever +/.
+285	*KAGA:	Well , she had an understanding of how the Court worked pre-Smith that
+286		was a kind of Sherbert <v@l> [= v.] Verner-Yoder understanding , which
+287		was we did a balancing , we looked at the government's interests , we
+288		took those very seriously , especially to the extent that there was
+289		harm to identifiable third parties and that it fell on an identifiable
+290		third party .
+291	@G:	---
+292	*KAGA:	That was basically (.) you could not get an accommodation for that kind
+293		of harm .
+294	*CLEME:	+, Well , what she said and whatever the merits of it as a matter of
+295		constitutional debate isn't relevant .
+296	*CLEME:	What (.) what I think is relevant is that Congress clearly preferred
+297		one side of that debate and thought courts could handle this .
+298	@G:	---
+299	*CLEME:	So then the question becomes : How do courts actually apply this test ?
+300	*CLEME:	And I don't think applying the test to recognize this case , where I
+301		think the government has an incredibly weak case on compelling interest
+302		and least restrictive alternatives , which they almost don't want to
+303		talk about at all , is going to endanger any other statutes .
+304	*CLEME:	And if I could talk about specific +/.
+305	*ALIT:	Well , could I ask you this , <Mister> [= Mr.] Clement .
+306	*ALIT:	In (.) in all the years since <R_F_R_A> [= RFRA] has been on the
+307		books , has any of these claims involving minimum wage , for example ,
+308		been brought and have they succeeded ?
+309	*CLEME:	+, Justice Alito , very few of these claims have been brought .
+310	*CLEME:	Very few of them have succeeded , and that's notwithstanding the fact
+311		that all of these statutes we're talking about apply to employers
+312		generally .
+313	*CLEME:	And it (.) and none of those claims have been brought or they haven't
+314		succeeded notwithstanding the fact that the government concedes that
+315		sole proprietorships and partnerships and nonprofit corporations are
+316		all protected by <R_F_R_A> [= RFRA] .
+317	@G:	---
+318	*CLEME:	Now , millions of Americans are employed by proprietorships ,
+319		partnerships , and nonprofits .
+320	*CLEME:	So if these statutes really were on a collision course , I think we
+321		would have seen the collision already .
+322	*KAGA:	Well , with respect , <Mister> [= Mr.] Clement , I think that that's
+323		probably because the Court has had a different understanding of what
+324		<R_F_R_A> [= RFRA] does and the kind of analysis that it requires
+325		courts to perform than you're arguing for in this case .
+326	*KAGA:	That if your argument were adopted and there was a strict scrutiny
+327		standard of the kind that usually applies and a least restrictive
+328		alternative requirement , then you would see religious objectors come
+329		out of the woodwork with respect to all of these laws .
+330	*KAGA:	And because you say that there (.) and I think this is absolutely right
+331		when you say it (.) that you (.) you cannot test the centrality of a
+332		belief to a religion , you cannot test the sincerity of religion .
+333	*KAGA:	I think a court would be , you know (.) their hands would be bound when
+334		faced with all these challenges if your standard applies .
+335	*CLEME:	Well , Justice Kagan , a couple of thoughts .
+336	*CLEME:	First of all , I mean , it's not like this Court has never had a
+337		<R_F_R_A> [= RFRA] case that it applied the standard on the merits .
+338	*CLEME:	And in the O Centro case , this Court applied something that very much
+339		felt to the government at the time as being strict scrutiny .
+340	*CLEME:	But if this Court +/.
+341	*GINS:	Well , It was a religious organization .
+342	*CLEME:	+, It certainly was a religious organization and it's a separate
+343		question as +/.
+344	*GINS:	This is (.) this is what's different .
+345	*GINS:	I mean , all along the earlier cases dealt with individuals and they
+346		dealt with religious institutions .
+347	*CLEME:	+, Well , if I may , Justice Ginsburg , there's two separate
+348		questions .
+349	*CLEME:	There's a question about how to apply the test if it's applicable in a
+350		particular case , and I think O Centro is the starting place for
+351		guidance on that .
+352	@G:	---
+353	*CLEME:	Your question also brings up the separate question about the coverage
+354		of the statute .
+355	*CLEME:	And as to that , I think the place to start is the statute itself ,
+356		which broadly provides coverages to persons .
+357	*CLEME:	That is not an incidental term .
+358	*CLEME:	It's a term that picks up additional context through the Dictionary Act
+359		and specifically applies to all corporations , to joint partnerships ,
+360		to societies .
+361	*SOTO:	How does a corporation exercise religion ?
+362	*SOTO:	I mean , I know how it speaks and we have , according to our
+363		jurisprudence , <two hundred> [= 200] years of corporations speaking in its
+364		own interests .
+365	*SOTO:	But where are the cases that show that a corporation exercises
+366		religion ?
+367	*CLEME:	Well , Justice Sotomayor , those (.) those cases (.) I mean , I'd start
+368		with cases like Lukumi or O Centro , which all involved corporations ,
+369		and nobody thought it was particularly problematic there that the
+370		plaintiffs before the court were artificial entities .
+371	*CLEME:	And I suppose you could take +/.
+372	*SOTO:	Well , but they were really arguing about things that affected their
+373		membership , not them as a corporate entity .
+374	*CLEME:	+, Well , I'm not sure that you can so easily divide the two , and we
+375		can talk about how it is with corporations generally .
+376	*CLEME:	You understand how the corporation has certain beliefs or certain
+377		intent , a scienter requirement .
+378	*CLEME:	The courts every day deal with issues of trying to figure out what kind
+379		of intent or motivation a corporate entity has .
+380	*SOTO:	So the dissent in this case , in the Tenth Circuit case , said how do
+381		we determine when a corporation has that belief ?
+382	*SOTO:	Who says it ?
+383	*SOTO:	The majority of shareholders ?
+384	*SOTO:	The corporate officers ?
+385	*SOTO:	The (.) is it <fifty-one> [= 51] percent ?
+386	*SOTO:	What happens to the minority ?
+387	*SOTO:	And how much of the business has to be dedicated to religion ?
+388	*SOTO:	<five> [= 5] percent ?
+389	*SOTO:	<ten> [= 10] percent ?
+390	*SOTO:	<ninety> [= 90] percent ?
+391	*SOTO:	Just assume not a business like yours (.) you picked great plaintiffs ,
+392		but let's assume (.) +/.
+393	*SOTO:	0 &=laughter .
+394	*SOTO:	Let's assume just a business that sells <five> [= 5] percent of
+395		religious books , doesn't play Christmas music , doesn't give off (.)
+396		works on Sunday , you know , does nothing else religiously .
+397	*CLEME:	Right .
+398	*CLEME:	And , Justice Sotomayor , I think the way to approach those cases would
+399		be the same basic way you approach other questions of corporate intent
+400		or corporate motivation .
+401	*CLEME:	You look to the governance doctrines , if any of this is put at issue .
+402	*CLEME:	And I think that's really a critical question , which is ultimately , I
+403		think this line of questioning goes to a question of sincerity , and if
+404		some large corporation asserts some claim that's going to save them
+405		lots of money , I would think that the government in those kind of
+406		cases is really going to resist the sincerity piece of the analysis .
+407	*CLEME:	In this kind of case +/.
+408	*SOTO:	That's the most dangerous piece .
+409	*SOTO:	That's the one we've resisted in all our exercise jurisprudence , to
+410		measure the depth of someone's religious beliefs .
+411	*CLEME:	+, To be clear , this Court's cases have always distinguished between
+412		the sincerity inquiry , which the Court has allowed , and the
+413		centrality inquiry , which it suggested is inappropriate .
+414	*CLEME:	But sincerity has always been a part of this Court's cases .
+415	*SOTO:	I thought more importantly was whether a burden was substantial or
+416		not .
+417	@G:	---
+418	*SOTO:	That we've never acceded to the person claiming a religious exemption ,
+419		a belief in how substantial the burden might be .
+420	*CLEME:	Right .
+421	*CLEME:	This Court has not questioned that .
+422	*CLEME:	The Thomas case , I think , puts as common ground the idea that you
+423		don't really second-guess the person's (.) the person's belief , but
+424		you can contest sincerity .
+425	*CLEME:	It is (.) there is case law in this .
+426	*CLEME:	You know , you have people who are arrested in possession of large
+427		quantities of marijuana and they assert that they belong to the church
+428		of marijuana , and those cases do get litigated and they get rejected .
+429	*CLEME:	And there's a lot of different ways to +/.
+430	*SOTO:	Is there (.) is there a different way of looking at it , the leeway ?
+431	*SOTO:	In <U_S> [= U.S.] <v@l> [= v.] Lee , we said , +"/.
+432	*SOTO:	+" When followers of a particular sect enter into a commercial activity
+433		as a matter of choice , the limits they accept on their own conduct as
+434		a matter of conscience and faith are not to be superimposed on the
+435		statutory schemes which are binding on others in that activity .
+436	@G:	---
+437	*SOTO:	So isn't that really the answer , that we've never considered a
+438		for-profit corporation as exercising religion ?
+439	*CLEME:	+, Well , let me (.) let me take on Lee first .
+440	*CLEME:	And I mean , that's obviously the two lines of Lee that are the
+441		government's favorite two lines in Lee .
+442	*CLEME:	But Lee starts with a substantial burden inquiry , which is where most
+443		of these sincerity questions go .
+444	@G:	---
+445	*CLEME:	And Lee definitely says that there is a sincere religious belief and a
+446		substantial burden on religious exercise .
+447	@G:	---
+448	*CLEME:	So the two sentences that you're quoting come in the compelling
+449		interest analysis of the case .
+450	@G:	---
+451	*CLEME:	And I think Lee does stand for the proposition that in the tax
+452		context , it's going to be very hard for somebody to bring a claim that
+453		satisfies even the demanding compelling interest , least restrictive
+454		alternative test .
+455	*SOTO:	Well , that's an interesting question , because the briefs on both
+456		sides here are written as if the penalty for not having a health
+457		insurance policy that covers contraceptives is at issue .
+458	*SOTO:	But isn't there another choice nobody talks about , which is paying the
+459		tax , which is a lot less than a penalty and a lot less than (.) than
+460		the cost of health insurance at all ?
+461	*SOTO:	These employers could choose not to give health insurance and pay not
+462		that high a penalty (.) not that high a tax .
+463	*CLEME:	Well , just to put this in concrete terms , for Hobby Lobby , for
+464		example , the choice is between paying a <five hundred> [= 500] (.) a <four seventy-five million dollars> [= $475 million] per year penalty and paying a <twenty-six million dollars> [= $26 million] per year coverage .
+465	*KAGA:	No , I don't think that that's the same thing , <Mister> [= Mr.]
+466		Clement .
+467	*KAGA:	There's one penalty that is if the employer continues to provide health
+468		insurance without this part of the coverage , but Hobby Lobby could
+469		choose not to provide health insurance at all .
+470	*KAGA:	And in that case Hobby Lobby would pay <two thousand dollars> [= $2,000]
+471		per employee , which is less than Hobby Lobby probably pays to provide
+472		insurance to its employees .
+473	@G:	---
+474	*KAGA:	So there is a choice here .
+475	*KAGA:	It's not even a penalty by (.) in the language of the statute .
+476	*KAGA:	It's a payment or a tax .
+477	*KAGA:	There's a choice .
+478	*KAGA:	And so the question is , why is there a substantial burden at all ?
+479	*CLEME:	Well , just to be clear , we were talking about the same thing .
+480	*CLEME:	So the option , the choice , is between paying a <four seventy-five million dollars> [= $475 million] a year penalty and a <twenty-six million dollars> [= $26 million] a year
+481		penalty .
+482	*CLEME:	That's what Hobby Lobby faces .
+483	*CLEME:	So <two thousand dollars> [= $2,000] per person +/.
+484	*KAGA:	No , between paying <two thousand dollars> [= $2,000] per employee per
+485		year if Hobby Lobby does not provide +/.
+486	*CLEME:	+, That's <twenty-six million dollars> [= $26 million] .
+487	*KAGA:	+, You know , Hobby Lobby is paying something right now for the (.) for
+488		the coverage .
+489	@G:	---
+490	*KAGA:	It's less than what Hobby Lobby is paying for the coverage .
+491	*KAGA:	There are employers all over the United States that are doing this
+492		voluntarily because they think that it's less .
+493	*ROBE:	I thought (.) I thought that part of the religious commitment of the
+494		owners was to provide health care for its employees .
+495	*CLEME:	That is true , <Mister> [= Mr.] Chief Justice .
+496	*CLEME:	It is also true that this +/.
+497	*SOTO:	Well , if they want to do that , they can just pay a greater salary and
+498		let the employees go in on the exchange .
+499	*CLEME:	+, Exactly , which is , by the way , why comparing the <two thousand dollars> [= $2,000] penalty to the cost of the health care is a
+500		false (.) it's a false comparison .
+501	*SOTO:	It's not called a penalty .
+502	*SOTO:	It's called a tax .
+503	*SOTO:	And it's calibrated (.) and it's calibrated +/.
+504	*ROBE:	She's right about that .
+505	@G:	---
+506	*ROBE:	0 &=laughter .
+507	*CLEME:	And it has been treated for some purposes as a penalty .
+508	*CLEME:	And I think for this purposes , it certainly feels punitive .
+509	@G:	---
+510	*CLEME:	And if I could finish the thought about why it's a false comparison ,
+511		the <two thousand> [= 2,000] penalty to the cost of the health
+512		insurance , is that it's going to very much hurt Hobby Lobby if all of
+513		the sudden it doesn't provide health care to its employees .
+514	*CLEME:	And in order to compensate for that , it would have to increase the
+515		wages .
+516	*CLEME:	And I think it would be worse off as a result of this .
+517	*CLEME:	But if I could also +/.
+518	*KAGA:	Well , let's say that that's right .
+519	*KAGA:	Let's say that they have to increase the wages a little bit .
+520	*KAGA:	I mean , still we are talking about pretty equivalent numbers .
+521	*KAGA:	Maybe it's a little bit less ; maybe it's a little bit more .
+522	*KAGA:	But this is not the kind of thing that's going to drive a person out of
+523		business .
+524	@G:	---
+525	*KAGA:	It's not prohibitive .
+526	@G:	---
+527	*KAGA:	It's like the thing that we talked about in Braunfeld where we said ,
+528		you know , maybe if the store can't stay open <seven> [= 7] days a week ,
+529		it makes a little bit less money .
+530	*KAGA:	But so be it , is what we said .
+531	*CLEME:	+, No , I actually think what it's like , Your Honor , with all due
+532		respect , it's like the five dollar penalty enforcing the prohibition
+533		in Yoder .
+534	@G:	---
+535	*CLEME:	And what this Court says , it's one thing if you don't have a direct
+536		government prohibition on a religious exercise or a mandate that
+537		somebody do something that violates their religion .
+538	*CLEME:	In those cases , which is like Sherbert and is like Braunfeld , then
+539		you have to look at the substantial pressure , and it becomes a little
+540		bit more of a loosey-goosey analysis .
+541	*CLEME:	But when you have a government law that specifically says you must do
+542		something that violates your religion (.) and it's enforced with a
+543		penalty , and with all due respect I think <two thousand dollars> [= $2,000] per employee is a penalty .
+544	*KAGA:	But <Mister> [= Mr.] Clement , it's not saying you must do something
+545		that violates your religion .
+546	*KAGA:	It's giving you a choice .
+547	*KAGA:	You can do this thing or if this thing violates your religion you can
+548		do another thing .
+549	*KAGA:	And that other thing is approximately the same price as the thing that
+550		you don't want to do .
+551	*CLEME:	I don't think it would be the same price at the end of the day .
+552	*CLEME:	I'd also like to point out how this +/.
+553	*SCAL:	Well , of course it wouldn't be the same price at the end of the day .
+554	*SCAL:	If they deny health insurance , they're going to have to raise wages if
+555		they are going to get employees .
+556	*CLEME:	+, Absolutely .
+557	*SCAL:	It's absurd to say that , you know , it comes out of nowhere .
+558	*CLEME:	Absolutely , Your Honor .
+559	*CLEME:	And by the way , this <two thousand dollars> [= $2,000] penalty is very
+560		much a double-edged sword for the government , because you're trying to
+561		(.) J +/.
+562	*KENN:	But why (.) why is that a problem ?
+563	*KENN:	Let's assume that the cost of providing insurance is roughly equivalent
+564		to the <two thousand dollars> [= $2,000] penalty .
+565	@G:	---
+566	*KENN:	How (.) how is the employer hurt ?
+567	*KENN:	He can just raise the wages .
+568	*SOTO:	+, May I just put a footnote on this .
+569	*SOTO:	I thought the average price of providing insurance for a single person
+570		is <four thousand dollars> [= $4,000] , and it's <twelve thousand dollars> [= $12,000] for a family (.) for a family .
+571	*SOTO:	So the <two thousand> [= 2,000] tax (.) that's what it's called (.) is
+572		to help the government provide subsidies to people on the exchange that
+573		don't have employer insurance .
+574	*SOTO:	So it's a tax because it's (.) it is to do exactly what your client
+575		wants , to get the government to supply the contraceptives , not the
+576		insurance companies .
+577	*CLEME:	+, Here's the problem with this way of looking at it , which is to say
+578		whatever it costs per employee to get this , this health care , that's
+579		something that right now Hobby Lobby is paying whatever it's paying
+580		them , plus it's (.) it's (.) you know , imputed into that is the idea
+581		that they're getting their wage and they're getting health care
+582		insurance .
+583	@G:	---
+584	*CLEME:	If they take away the health care insurance , they are going to have to
+585		increase the wages to make up for that .
+586	*CLEME:	And they're going to have to pay the <two thousand dollars> [= $2,000]
+587		penalty on top of it , plus they're going to have to violate their (.)
+588		their own interest which is , we actually (.) we believe it's important
+589		to provide our employees with qualified health care .
+590	*KENN:	Okay , the last is important .
+591	*KENN:	But just assume hypothetically that it's a wash , that the employer
+592		would be in about the same position if he paid the penalty and the
+593		employer (.) pardon me , an employee went out and got the insurance and
+594		that the employee's wages were raised slightly and then it's (.) and
+595		that it's a wash so far as the employer are concerned , other than the
+596		employer's religious objection , but just on the financial standpoint .
+597	*KENN:	Can we assume that as a hypothetical .
+598	*KENN:	Then what would your case be ?
+599	*CLEME:	I think my case would be that in that case the government might be able
+600		to sort of support itself on the compelling interest .
+601	*CLEME:	I think there would still be a substantial burden on their exercise .
+602	*CLEME:	But again , this all turns on issues that the government hasn't put in
+603		issue .
+604	*CLEME:	This case hasn't been litigated on this particular theory , so I think
+605		(.) I'd love to have the opportunity to show how by not providing
+606		health insurance it would have a huge burden on my client and their
+607		ability to attract workers , and that in fact would cost them much more
+608		out of pocket .
+609	@G:	---
+610	*CLEME:	But that's not been the nature of the government's theory .
+611	*KAGA:	Can I ask +/.
+612	*GINS:	There was a point made earlier , and I think you didn't mean to say
+613		this , that provision of health care is not part of their religious
+614		belief .
+615	*GINS:	Covering their employees for health care , that is not a religious
+616		tenet , right ?
+617	*CLEME:	No , it actually is .
+618	*CLEME:	Again , it hasn't been the principal theory on which this case has been
+619		litigated .
+620	*CLEME:	But see , if you go back to the complaints and you go back to our
+621		briefs , you know , it's part of the religious beliefs that both the
+622		Hahns and the Greens have .
+623	*CLEME:	They think it's actually important +/.
+624	*KAGA:	+, But , <Mister> [= Mr.] Clement , you're not saying , are you , that
+625		their religious beliefs mandate them to provide health care ?
+626	*KAGA:	I thought that you were never making that claim .
+627	*CLEME:	+, I didn't have to make that claim in the course of this litigation .
+628	*CLEME:	What I'm pointing out , though , is for purposes of the substantial
+629		burden analysis , it is perfectly appropriate to take into account that
+630		the <two thousand> [= 2,000] (.) the <twenty-six million dollars> [= $26 million] in
+631		fines they would pay would not be the only thing that they would lose
+632		out if they are on that horn of the dilemma .
+633	@G:	---
+634	*CLEME:	They would also lose out all the additional wages they would have to
+635		pay , and they would be in this position of not offering health care ,
+636		which is something they believe is important for their religion as
+637		well .
+638	*KAGA:	You know , I'm sure they seem like very good employers .
+639	*KAGA:	And I'm sure they want to be good employers .
+640	*KAGA:	But again , that's a different thing than saying that their religious
+641		beliefs mandate them to provide health insurance , because here
+642		Congress has said that the health insurance that they're providing is
+643		not adequate , it's not the full package .
+644	*CLEME:	Well , with respect , what Congress has said is that this kind of plan
+645		is not appropriate for a non-grandfathered plan .
+646	*CLEME:	But if we're going to talk about the government's compelling interests
+647		here , which I think has got to be part of the analysis , then I think
+648		the grandfathered provisions of this statute really are devastating for
+649		the government's argument that it has a compelling interest .
+650	@G:	---
+651	*CLEME:	When the government pursues compelling interest , it demands immediate
+652		compliance .
+653	*CLEME:	It doesn't say , +"/.
+654	*CLEME:	+" Get around to it whenever it's convenient .
+655	*CLEME:	I can't imagine Congress passing Title <V_I_I> [= VII] and saying
+656		, +"/.
+657	*CLEME:	+" Stop discriminating on the basis of race , unless of course you have
+658		a preexisting policy that discriminates on the basis of race , and then
+659		you can keep it as long as you'd like .
+660	@G:	---
+661	*CLEME:	It is fundamentally inconsistent with a compelling interest +/.
+662	*KAGA:	Well , but I think even +/.
+663	*CLEME:	+, analysis to have this kind of grandfathering .
+664	*KAGA:	+, that example , you know , initially Title <V_I_I> [= VII] did not
+665		apply to any employers with fewer than <twenty-five> [= 25] employees .
+666	*KAGA:	And then gradually , Congress brought the number down because Congress
+667		realized that there were going to be transition issues and that some
+668		time was needed to make sure that the compelling interest , you know ,
+669		should be applied uniformly across all employers .
+670	*CLEME:	Here's , respectfully , why I don't think that that works , which is I
+671		think the question whenever there are exemptions in the statute is to
+672		ask yourself , do the exemptions undermine the compelling interest that
+673		the government asserts .
+674	@G:	---
+675	*CLEME:	There's nothing inconsistent with an interest in prohibiting employment
+676		discrimination to say we're going to focus on the people who actually
+677		employ the most people and therefore can engage in the most
+678		discrimination .
+679	@G:	---
+680	*CLEME:	It's quite a different matter , and I don't think anybody would think
+681		that Congress would pass a Title <V_I_I> [= VII] that said , +"/.
+682	*CLEME:	+" Hey , as long as you have a preexisting discriminatory policy ,
+683		you're allowed to keep it .
+684	*CLEME:	That doesn't seem like it would be consistent .
+685	*SOTO:	Counsel , your attorney (.) one of the attorneys below on behalf of
+686		your clients admitted that the grandfathered policies weren't going to
+687		be around very long because any change to an existing policy (.) and he
+688		said these changes happen on a yearly basis .
+689	*SOTO:	And we already know from the government's statistics that it's up to
+690		<forty> [= 40] percent now have grandfathered out .
+691	*SOTO:	Your own client changed its policy , and that's why it's not
+692		grandfathered .
+693	@G:	---
+694	*SOTO:	And he changed it to drop contraceptives it was covering .
+695	*CLEME:	Well +/.
+696	*SOTO:	And so my point is , since when does a transitioned grandfathered
+697		exemption and one that everybody knows will have to change , because
+698		premiums by definition will change or co-pays will change , something
+699		is going to change (.) it's a very short transition period .
+700	*SOTO:	Since when does that prove that the need is not compelling ?
+701	*CLEME:	+, With all due respect , it's not necessarily a very short transition
+702		period .
+703	*CLEME:	And your (.) your references to co-pays and premiums is precisely on
+704		point , because the government , through its regulations , has allowed
+705		grandfathered plans to make changes to the co-pays as long as they're
+706		indexed to medical inflation .
+707	@G:	---
+708	*CLEME:	Now , if you have a transition period that's just there for a
+709		nanosecond , you don't bother indexing it to medical inflation .
+710	*CLEME:	So this is a grandfather provision that's going to be around for
+711		multiple years .
+712	@G:	---
+713	*CLEME:	And by the government's own numbers , tens of millions of employees are
+714		not getting this mandated coverage as a result of the grandfather
+715		provision .
+716	*CLEME:	And even if we can project forward ten years to when maybe there would
+717		only be a handful of grandfathered plans , even at that point , you
+718		would still have the same problem that the government would have ,
+719		which is it has to make an argument for a compelling interest .
+720	*KENN:	Just before your time starts to go too fast , how would you suggest
+721		that we think about the position and the rights of the (.) of the
+722		employees ?
+723	*KENN:	And you can have hypotheticals about the employer makes them (.) wants
+724		to make them wear burkas and so forth .
+725	*KENN:	That's not in this case .
+726	@G:	---
+727	*KENN:	But in (.) in a way , the employees are in a position where the
+728		government , through its healthcare plans , is (.) is , under your
+729		view , is (.) is allowing the employer to put the employee in a
+730		disadvantageous position .
+731	*KENN:	The employee may not agree with these religious (.) religious beliefs
+732		of the employer .
+733	*KENN:	Does the religious beliefs just trump ?
+734	*KENN:	Is that the way it works ?
+735	*CLEME:	Well , no , it's not just the way it works , Justice Kennedy .
+736	*CLEME:	And I actually have four things I'd like to say about that , if it's
+737		possible .
+738	@G:	---
+739	*CLEME:	One is , I think the first thing about third-party burdens is you have
+740		to ask where are they coming from .
+741	*CLEME:	And if the third-party burdens are coming from an employer (.) I mean ,
+742		an employer right now can put some burden on their rights because they
+743		have to listen to religious music or whatever .
+744	*CLEME:	That's not as serious as a burden that's coming directly from the
+745		government .
+746	*CLEME:	So that's one principle to think about .
+747	@G:	---
+748	*CLEME:	Another principle , and this is more of a detail , but I think it's
+749		important , is that to the extent you take into account third-party
+750		burdens , you take those into account in the compelling interest part
+751		of the analysis .
+752	*CLEME:	The government has an argument that somehow third-party interests go
+753		into the substantial burden part of the analysis , where we bear the
+754		burden .
+755	@G:	---
+756	*CLEME:	And we don't think that's right at all .
+757	@G:	---
+758	*CLEME:	The third-party +/.
+759	*GINS:	But , <Mister> [= Mr.] Clement , you made the analogy to <R_L_U_I_P_A>
+760		[= RLUIPA] .
+761	*GINS:	And the one thing that has not been mentioned up till now is the
+762		Establishment Clause .
+763	*GINS:	The Court was very clear when it came to <R_L_U_I_P_A> [= RLUIPA] ,
+764		which you said is similar to <R_F_R_A> [= RFRA] , that the
+765		accommodation must be measured so it doesn't override other significant
+766		interests .
+767	*GINS:	And that was true of Sherbert and that was true of Yoder .
+768	*GINS:	The (.) and the Cutter case , and this Court made it very clear , that
+769		the accommodation has to be balanced and you have to take into account
+770		other significant interests .
+771	*CLEME:	+, Right .
+772	*CLEME:	But that actually brings me to my third point , which is those other
+773		significant interests that carry the most weight have to be independent
+774		of the very statute that's at issue in the case and that the party
+775		seeks an exemption from .
+776	@G:	---
+777	*CLEME:	So if you think about the Caldor case , there the Court was concerned
+778		with the third-party burdens on , say , an employee who had a seniority
+779		right to take the weekends off .
+780	*CLEME:	So he or she had an independent right to take the weekend off , and the
+781		government policy was coming in and displacing this .
+782	*SOTO:	I'm not sure that (.) that squares with Lee .
+783	*SOTO:	The (.) the statute created the right to Social Security , and there
+784		the Court said you can't deprive employees of a statutory right because
+785		of your religious beliefs .
+786	*SOTO:	So Lee is contrary to the point you're making .
+787	*CLEME:	There , too , I have to respectfully disagree , because if you remember
+788		the facts of Lee , Lee is brought not just by the employer , but by the
+789		employee .
+790	*CLEME:	So the particular employees there don't have a beef with what he's
+791		doing at all .
+792	*CLEME:	And I think when they're talking about third-party burdens there , what
+793		the Court is really talking about is the (.) the burdens of everybody
+794		else who contributes into a system where uniformity , to use the
+795		Court's words , was indispensable .
+796	@G:	---
+797	*CLEME:	And so if I could , though , I think , just to illustrate why it's sort
+798		of double counting to count the mandated issue here as being what gives
+799		the burden to the third party or the benefit on the third party .
+800	@G:	---
+801	*CLEME:	Imagine two hypotheticals .
+802	*CLEME:	One is Congress passes a statute and says I have to destroy all of my
+803		books , including my Bibles .
+804	*CLEME:	Another statute , Congress comes in and says I have to give all of my
+805		books , including all of my Bibles , to you .
+806	@G:	---
+807	*CLEME:	Now , in the second case , I suppose you could say that a <R_F_R_A> [=
+808		RFRA] claim somehow gets rid of your statutory entitlement to my
+809		Bibles , but I don't think , since it's the very benefit that we're
+810		talking about that's at issue there , I don't think (.) I think that
+811		really is double counting and I don't think those two hypothetical
+812		statutes should be analyzed any differently .
+813	@G:	---
+814	*CLEME:	The other thing , though , about burdens , and I think it should go (.)
+815		this is the fourth point (.) that should go into the compelling
+816		interest test +/.
+817	*KAGA:	I mean , <Mister> [= Mr.] Clement , isn't that just a way of saying
+818		that you think that this isn't a good statute , because it asks one
+819		person to subsidize another person .
+820	*KAGA:	But Congress has made a judgment and Congress has given a statutory
+821		entitlement and that entitlement is to women and includes contraceptive
+822		coverage .
+823	*KAGA:	And when the employer says , no , I don't want to give that , that
+824		woman is quite directly , quite tangibly harmed .
+825	*CLEME:	+, Well , Justice Kagan , I think you could say the same thing about my
+826		Bible hypothetical .
+827	@G:	---
+828	*CLEME:	But I do have one last thing to say about burdens .
+829	*CLEME:	And I do think when you think about impacts on third parties , not all
+830		of these burdens are created equal .
+831	*CLEME:	And that , too , I think is borne out in this Court's cases .
+832	*CLEME:	And the most relevant factor is , is there some alternative way for the
+833		government to ameliorate the burden .
+834	@G:	---
+835	*CLEME:	And I think about two types of , kind of accommodations , if you will .
+836	*CLEME:	You get sort of Title <V_I_I> [= VII] with a very narrow
+837		accommodation .
+838	*CLEME:	And then you have conscience clauses that allow medical providers ,
+839		including for-profit medical providers , not to provide abortions .
+840	@G:	---
+841	*CLEME:	Now , each of those has a burden on third parties , but I would
+842		respectfully suggest they're different .
+843	*CLEME:	In the case of the employee who's been subject to racial
+844		discrimination , even if they can get another job , that racial
+845		discrimination is a unique injury to them that you can't remedy unless
+846		you tell the employer , don't discriminate on the basis of race .
+847	@G:	---
+848	*CLEME:	Now , in the context of the conscience clause , if a woman can't get an
+849		abortion from her preferred provider , that's surely a significant
+850		burden on her .
+851	*CLEME:	But we don't view that as trumping the conscience clause , because she
+852		can get the abortion through another mechanism .
+853	@G:	---
+854	*CLEME:	Here , as your question rightfully highlights , all we're really
+855		talking about is who's going to pay for a subsidy that the government
+856		prefers .
+857	@G:	---
+858	*CLEME:	This is not about access to the contraception .
+859	*CLEME:	It's about who's going to pay for the government's preferred subsidy .
+860	*CLEME:	And I think in that context , there are ample alternative ways to
+861		address any burdens on third parties .
+862	*CLEME:	And that goes right to the least +/.
+863	*GINS:	It would make no difference if it were (.) there are <twenty> [= 20]
+864		FDA-approved contraceptives , all of them covered by the Healthcare
+865		Act .
+866	*CLEME:	+, I think +/.
+867	*GINS:	You (.) you picked out , in one case what , three , and the other case
+868		four ?
+869	*GINS:	Suppose the employer says contraceptives all together are against my
+870		religion , so I'm not going to give any contraceptive coverage .
+871	*CLEME:	+, Well , obviously , Justice Ginsburg , I didn't pick these out .
+872	*CLEME:	I mean , my clients and their religious beliefs identified these as
+873		problematic .
+874	*CLEME:	There are certainly +/.
+875	*GINS:	But your argument , it seems to me , would apply just as well if the
+876		employer said no contraceptives .
+877	*CLEME:	+, I think that's a fair point , Justice Ginsburg , and the
+878		government's own accommodations , where they offer them to religious
+879		groups and religious employers like nonprofit hospitals , also applies
+880		to whatever the religious beliefs of that provider are .
+881	*CLEME:	So if they extend to all <twenty> [= 20] , then the exemption's applied
+882		to all <twenty> [= 20] .
+883	*CLEME:	If they only extend to four , then the exemption applies to all four .
+884	*ALIT:	Are there ways of accommodating the interests of the women who may want
+885		these particular drugs or devices without imposing a substantial burden
+886		on the employer who has the religious objection to it ?
+887	*CLEME:	There are ample less restrictive alternatives , Your Honor .
+888	*ALIT:	What are they ?
+889	*CLEME:	And I think they all flow from this fact that this is ultimately about
+890		who's going to pay for a substitute +/.
+891	*SOTO:	Those are alternatives that you're asking the government to incur or
+892		the person to incur .
+893	*SOTO:	There isn't an alternative that doesn't put a cost on someone else .
+894	*CLEME:	+, Well , it's (.) it's (.) it's funny about this particular mandate
+895		because the government's position is this is actually a cost-free
+896		mandate ; that whatever you pay out in contraceptions , you're going to
+897		make up in not having to pay for other coverages .
+898	*CLEME:	And so one alternative , one less restrictive alternative is what's
+899		done in the accommodation for nonprofit employers like hospitals ,
+900		where basically they tell the insurance carrier or the plan administer
+901		that you pick up the cost for this and then essentially it'll be cost
+902		neutral from you .
+903	@G:	---
+904	*CLEME:	But I don't think there's anything sort of sacrosanct , if you will ,
+905		about having the government pay for its preferred subsidy as a less
+906		restrictive alternative .
+907	*CLEME:	And that's essentially what the government does for those employees who
+908		have employers (.) under <fifty> [= 50] employers .
+909	*CLEME:	If those employees (.) if the employer doesn't provide healthcare ,
+910		those employees go on to the exchanges with a subsidy from the
+911		government .
+912	*CLEME:	Now , they can do the same thing for objecting religious employers .
+913	@G:	---
+914	*CLEME:	They just have chosen not to .
+915	@G:	---
+916	*CLEME:	If I may reserve my time .
+917	*ROBE:	Thank you , <Mister> [= Mr.] Clement .
+918	@G:	---
+919	*ROBE:	General Verrilli .
+920	@Comment:	ORAL ARGUMENT OF DONALD B. VERRILLI, JR. ON BEHALF OF THE
+921		FEDERAL GOVERNMENT
+922	*VERRI:	<Mister> [= Mr.] Chief Justice , and may it please the Court : +/.
+923	@G:	---
+924	*VERRI:	The touchstone for resolving this case is the principle Justice Jackson
+925		articulated in Prince <v@l> [= v.] +/.
+926	@G:	---
+927	*VERRI:	Massachusetts .
+928	*VERRI:	As he said , +"/.
+929	*VERRI:	+" Limitations which of necessity bound religious freedom begin to
+930		operate whenever activities begin to affect or collide with the
+931		liberties of others or of the public .
+932	*VERRI:	+" Adherence to that principle is what makes possible the harmonious
+933		functioning of a society like ours , in which people of every faith
+934		live and work side by side .
+935	*ROBE:	That's a statement that is inconsistent with <R_F_R_A> [= RFRA] , isn't
+936		it ?
+937	*ROBE:	The whole point of <R_F_R_A> [= RFRA] is that Congress wanted to
+938		provide exceptions for the religious views of particular (.) including
+939		proprietors , individuals .
+940	*VERRI:	No , <Mister> [= Mr.] Chief Justice , I don't think so at all .
+941	*VERRI:	In fact , the (.) although I was (.) of course , I was referring to
+942		Justice Jackson's words for their wisdom because it wasn't the opinion
+943		of the Court .
+944	*VERRI:	But see , Jackson +/.
+945	*ROBE:	Yeah .
+946	*ROBE:	But the wisdom you cited is the idea that you don't have imposed , on
+947		the basis of religious beliefs , exemptions or (.) or limitations .
+948	*ROBE:	And it seems to me that was the whole point of <R_F_R_A> [= RFRA] , to
+949		tell the courts that that is exactly what you should do unless the
+950		exception satisfies the strict scrutiny test .
+951	*VERRI:	+, Well , but I think (.) well , unless it satisfies the (.) the
+952		pre-Smith standards under (.) under the Establishment Clause .
+953	*VERRI:	But I do think that the exact same point +/.
+954	*SCAL:	It's more than pre-Smith .
+955	*VERRI:	+, I take your point +/.
+956	*SCAL:	Plus +/.
+957	*VERRI:	+, I take your point about less restrictive means , Your Honor .
+958	*SCAL:	+, Okay .
+959	*VERRI:	But the (.) the exact same point that Justice Jackson made in Prince ,
+960		I submit , is the point that this Court made unanimously in Cutter .
+961	@G:	---
+962	*VERRI:	It's not (.) it's that when you are analyzing what is required under
+963		<R_F_R_A> [= RFRA] , the court must take account of the way in which
+964		the requested accommodation will affect the rights and interests of
+965		third parties .
+966	*ALIT:	Well , is it your argument that providing the accommodation that's
+967		requested here would violate the Establishment Clause ?
+968	*VERRI:	It's not our argument that it would violate the Establishment Clause .
+969	*VERRI:	But it is our argument that you (.) in any <R_F_R_A> [= RFRA] case ,
+970		including this one , you have to consider the impact on third parties ,
+971		because otherwise , you will be skating on thin constitutional ice .
+972	@G:	---
+973	*VERRI:	And so Justice Kennedy , you asked about principles that (.) that
+974		surround statutory construction .
+975	@G:	---
+976	*VERRI:	Avoidance is one of them .
+977	*VERRI:	And that was why the Court unanimously in Cutter said that in every
+978		<R_F_R_A> [= RFRA] case when you're considering an accommodation , you
+979		have to weigh the effect on third parties .
+980	*VERRI:	And that +/.
+981	*SCAL:	Where (.) where is that in <R_F_R_A> [= RFRA] ?
+982	*SCAL:	I mean , what (.) what factor of <R_F_R_A> [= RFRA] do you fold that in
+983		under ?
+984	*SCAL:	Is (.) is that part of the compelling State interest requirement or (.)
+985		or substantial burden requirement ?
+986	*SCAL:	Where (.) where is it in <R_F_R_A> [= RFRA] ?
+987	*VERRI:	+, I'd like (.) I think the answer is that it could inform every
+988		operative provision in <R_F_R_A> [= RFRA] .
+989	*VERRI:	We have said that it should inform the court's interpretation of who
+990		counts as a person .
+991	*SCAL:	If (.) if they wanted you to balance (.) balance the interest of the
+992		religious objector against the interest of other individuals , they (.)
+993		they made no reference to that in <R_F_R_A> [= RFRA] at all .
+994	*VERRI:	Well , I +/.
+995	*SCAL:	They said unless the government has a compelling State interest .
+996	*VERRI:	+, And the compelling (.) and certainly compelling interest analysis
+997		certainly does require consideration of the interests of third
+998		parties .
+999	@G:	---
+1000	*VERRI:	Of course , what the court (.) what the Congress said in <R_F_R_A> [=
+1001		RFRA] , in explaining how the compelling interest test was to work ,
+1002		was that it was to strike a sensible balance between claims for
+1003		religious liberty and governmental interests .
+1004	@G:	---
+1005	*VERRI:	And (.) and , of course , Lee is one of the pre-Smith cases that
+1006		provides the governing law .
+1007	*VERRI:	And I would submit it is really the only case from this Court in which
+1008		the request for an exemption under the Free Exercise Clause had the
+1009		effect of extinguishing a statutorily-guaranteed benefit .
+1010	*VERRI:	Because in Lee , had the employer gotten the exemption from providing
+1011		Social Security , the consequence would have been that the employees
+1012		would have been disqualified from receiving Social Security benefits .
+1013	*SCAL:	But that wasn't the basis for (.) for denying the claim .
+1014	*SCAL:	The basis was that the government has to run a uniform system that
+1015		applies to everybody .
+1016	*VERRI:	I disagree .
+1017	*SCAL:	And you can't argue that here because the government has made a lot of
+1018		exemptions .
+1019	*VERRI:	I (.) first of all , I disagree with respect to Lee , that one of the
+1020		points that the Court made in Lee was that granting the exemption from
+1021		Social Security taxes to an employer operates to impose the employer's
+1022		religious faith on the employees .
+1023	*VERRI:	It was one of the grounds of decision .
+1024	@G:	---
+1025	*VERRI:	Now (.) but turning to (.) I would like to address these exemptions .
+1026	*VERRI:	I'm happy to talk about them .
+1027	@G:	---
+1028	*VERRI:	I'm happy to talk about our compelling interest at length .
+1029	*VERRI:	The (.) now , the (.) my +/.
+1030	*ALIT:	Well , if you could start with the question of whether the (.) the
+1031		companies in this case have a right to bring <R_F_R_A> [= RFRA] claims
+1032		because they're for-profit corporations .
+1033	*ALIT:	You argue that they can't .
+1034	*VERRI:	+, That's correct .
+1035	*ALIT:	Now , why is that ?
+1036	*ALIT:	Is it (.) is it your position that there's something about the
+1037		corporate form per se that is inconsistent with the free exercise
+1038		claim ?
+1039	*VERRI:	No , because , obviously , churches can bring claims .
+1040	*ALIT:	All right .
+1041	*ALIT:	But is it your argument that there's something about engaging in a
+1042		for-profit activity that is inconsistent with a free exercise claim ?
+1043	*VERRI:	Yes .
+1044	*VERRI:	And if I could walk through the (.) let me , if you don't mind , just
+1045		walk through the analysis on +/.
+1046	*ALIT:	Well , were the merchants in the Braunfeld case engaged in for-profit
+1047		activity ?
+1048	*VERRI:	+, Yes .
+1049	*ALIT:	So there isn't anything inherent in +/.
+1050	*VERRI:	But I think +/.
+1051	*ALIT:	+, in participating in a for-profit activity that's inconsistent with
+1052		corporate form , is there ?
+1053	*ALIT:	I'm sorry , with a free exercise claim .
+1054	*VERRI:	+, Yes .
+1055	*VERRI:	But I think the relevant question is what did Congress think it was
+1056		doing when it enacted <R_F_R_A> [= RFRA] in <nineteen ninety-three> [= 1993] ?
+1057	*VERRI:	What kinds of claims did it think it was +/.
+1058	*ALIT:	Well , what is it about +/.
+1059	*VERRI:	+, justifying ?
+1060	*ALIT:	+, a for-profit corporation that is inconsistent with a free exercise
+1061		claim ?
+1062	*ALIT:	Do you agree with the proposition that was endorsed by one of the lower
+1063		courts in this case , that for-profit corporations must do nothing but
+1064		maximize profits , they cannot have other aims +/.
+1065	*VERRI:	No , not +/.
+1066	*ALIT:	+, including religious aims ?
+1067	*VERRI:	+, No .
+1068	*VERRI:	But here's how we look at it .
+1069	*VERRI:	At its core +/.
+1070	*SOTO:	I'm sorry , General .
+1071	*SOTO:	You answered yes to Braunfeld .
+1072	*SOTO:	It was Jewish merchants , but it was the merchants themselves +/.
+1073	*VERRI:	+, Individuals .
+1074	*SOTO:	+, the individuals +/.
+1075	*VERRI:	Yes .
+1076	*SOTO:	+, not the corporation that was going to be jailed .
+1077	*SOTO:	It was a +/.
+1078	*VERRI:	Yes , that's right .
+1079	*SOTO:	+, criminal prosecution .
+1080	*VERRI:	I understood Justice Alito to be asking me not about the corporate
+1081		form , but about the (.) the activity .
+1082	*VERRI:	And when you have an individual , you have an individual .
+1083	*VERRI:	It's a person .
+1084	*SOTO:	So whether it was a merchant that was a corporation or not was
+1085		irrelevant .
+1086	@G:	---
+1087	*SOTO:	It was that the individual was +/.
+1088	*VERRI:	That's +/.
+1089	*SOTO:	+, going to be jailed .
+1090	*VERRI:	+, That's correct .
+1091	*SCAL:	It was an individual making a profit , right ?
+1092	*VERRI:	Certainly .
+1093	*SCAL:	He was running a business for a profit , and that was the point of (.)
+1094		of Justice Alito's question , right , which I think you understood .
+1095	*VERRI:	And I did try to answer it , yes .
+1096	*VERRI:	But I (.) but let me say , I think the relevant question here is what
+1097		did Congress think it was doing in <nineteen ninety-three> [= 1993] ?
+1098	*VERRI:	And I think the answer to that has to be in (.) you know , we
+1099		understand the Dictionary Act provides a broad definition of person ,
+1100		but the Dictionary Act doesn't define exercise religion .
+1101	*VERRI:	And the operative statutory language is exercise (.) person's exercise
+1102		of religion .
+1103	*VERRI:	And so you can't look to the Dictionary Act to define that .
+1104	*VERRI:	But Congress told you where to look .
+1105	@G:	---
+1106	*VERRI:	It told you to look to the pre-Smith case law +/.
+1107	*ALIT:	And why did it tell +/.
+1108	*VERRI:	+, to define that .
+1109	*ALIT:	+, Why did it say that ?
+1110	*ALIT:	It changed the definition at the time when <R_L_U_I_P_A> [= RLUIPA] was
+1111		adopted , did it not , to eliminate the reference to the First
+1112		Amendment ; isn't that right ?
+1113	*VERRI:	Yes .
+1114	*VERRI:	But it (.) but the difference there was to say it didn't want courts to
+1115		get involved in the entangling enterprise of deciding what was a
+1116		central belief versus what was +/.
+1117	*ALIT:	Well , it says free exercise .
+1118	@G:	---
+1119	*ALIT:	And didn't it also adopt a provision in <R_L_U_I_P_A> [= RLUIPA] saying
+1120		that (.) that the exercise of religion was to be interpreted in the
+1121		broadest possible way ?
+1122	*VERRI:	+, Well , I think it (.) it said something more precise than that ,
+1123		which was that it was to be interpreted not to be confined only to
+1124		central religious tenets .
+1125	*ALIT:	No .
+1126	*ALIT:	Didn't it say (.) didn't it say the term “ religious exercise ”
+1127		includes any exercise +/.
+1128	*VERRI:	Yes , includes any exercise of religion , but it doesn't define what
+1129		that is .
+1130	*VERRI:	It just says you don't draw a line between centrality and something
+1131		that may +/.
+1132	*ALIT:	+, No .
+1133	*ALIT:	But there is another provision that says that , +"/.
+1134	*ALIT:	+" This chapter shall be construed in favor of a broad protection of
+1135		religious exercise to the maximum extent permitted by the terms of this
+1136		chapter and the Constitution .
+1137	*VERRI:	+, Right .
+1138	*VERRI:	And it (.) but with respect to what exercise religion means , it said
+1139		don't draw lines between centrality and non-centrality .
+1140	@G:	---
+1141	*VERRI:	It didn't go beyond that and tell you what it means .
+1142	@G:	---
+1143	*VERRI:	And what <R_F_R_A> [= RFRA] tells you to look to is pre-Smith case
+1144		law .
+1145	*VERRI:	And in the entire history of this country , there is not a single case
+1146		in which a for-profit corporation was granted an exemption on +/.
+1147	*SCAL:	Not a single case in which it was denied exemption , either .
+1148	*SCAL:	All you're saying is +/.
+1149	*VERRI:	+, Well , Lee +/.
+1150	*SCAL:	+, that there are no cases .
+1151	*VERRI:	+, Well , Lee was certainly a case in which a for-profit enterprise was
+1152		denied an exemption .
+1153	*VERRI:	Braunfeld was such a case .
+1154	*VERRI:	Gallagher was such a case .
+1155	*SCAL:	Not on the ground that it was a for-profit enterprise .
+1156	*SCAL:	There is not a single case which says that a for-profit enterprise
+1157		cannot make a (.) a freedom of religion claim , is there ?
+1158	*VERRI:	Right .
+1159	*VERRI:	There is not a single case +/.
+1160	*SCAL:	Right .
+1161	*VERRI:	+, holding that .
+1162	*VERRI:	Except that in Lee , it was critical to the Court's analysis that the
+1163		(.) that the (.) that <Mister> [= Mr.] Lee and his business had chosen
+1164		to enter the commercial sphere .
+1165	*KAGA:	Isn't that a merits question , General ?
+1166	*KAGA:	I mean , I totally understand that argument as a (.) as an argument
+1167		about the merits .
+1168	*KAGA:	I'm not sure I understand it as a threshold claim that this (.) that
+1169		the claim is not recognizable at all .
+1170	*VERRI:	Right .
+1171	*VERRI:	Well , let me (.) I do want to move to the compelling interest
+1172		analysis , but if I could make one point in response to Your Honor's
+1173		question , that the Court's got to decide what person (.) a person's
+1174		exercise of religion means .
+1175	*VERRI:	And that (.) it seems to me that it would be such a vast expansion of
+1176		what Congress must (.) could have thought it was doing in <nineteen ninety-three> [= 1993] , when it enacted <R_F_R_A> [= RFRA] , to say that for-profit
+1177		corporations can make claims for religious exemptions to any laws of
+1178		general application that they want to challenge .
+1179	@G:	---
+1180	*VERRI:	I do (.) you know , <Mister> [= Mr.] Clement says , well , you don't
+1181		have to worry about anything other than small , tightly-knit
+1182		corporations like the one at issue here .
+1183	*VERRI:	I take the point of the appeal of a situation like this one .
+1184	*VERRI:	But the way in which he suggests that you will be able to distinguish
+1185		this case from a case in which a large corporation comes in or a public
+1186		company comes in , is that you will have more grounds to question the
+1187		sincerity of the claim .
+1188	*VERRI:	But that raises exactly the kinds of entanglement concerns that this
+1189		Court has always said you should try to avoid .
+1190	*ROBE:	Well , that's his argument for distinguishing it .
+1191	*ROBE:	But there are others , including the fact that it is more you avoid all
+1192		of the problems with what to do if it's a (.) you know , there's a
+1193		<fifty-one> [= 51] percent ownership of the shareholders , if you simply say
+1194		that it's in this type of Chapter S Corporation that is closely held .
+1195	*ROBE:	Whether it applies in the other situations is (.) is a question that
+1196		we'll have to await another case when a large publicly-traded
+1197		corporation comes in and says , we have religious principles , the sort
+1198		of situation , I don't think , is going to happen .
+1199	*VERRI:	But even with respect to these companies , Your Honor , what are you
+1200		going to do if there's a dispute between (.) let's say there are three
+1201		shareholders (.) a dispute between two in the majority and one in the
+1202		minority ?
+1203	*VERRI:	You're going to have to get yourself involved (.) the courts will have
+1204		to get themselves involved in all kinds of +/.
+1205	*SCAL:	Whoever controls the corporation .
+1206	*SCAL:	Whoever controls the corporation determines what the party +/.
+1207	*VERRI:	+, And then (.) and the minority shareholder will say , well , this is
+1208		(.) under state law , this is an act of oppression and this is +/.
+1209	*ROBE:	Well , that's a question of State corporate law .
+1210	*ROBE:	It's not a question of who can bring an action under <R_F_R_A> [=
+1211		RFRA] .
+1212	@G:	---
+1213	*ROBE:	Could I just raise (.) eight courts of appeals , every court of appeal
+1214		to have looked at the situation have held that corporations can bring
+1215		racial discrimination claims as corporations .
+1216	@G:	---
+1217	*ROBE:	Now , does the government have a position on whether corporations have
+1218		a race ?
+1219	*VERRI:	+, Yes .
+1220	*VERRI:	We think those are correct and that this situation is different .
+1221	*ROBE:	So that (.) so that a corporation does have a race for purposes of
+1222		discrimination laws .
+1223	*VERRI:	No , not that the corporation has a race , but that corporations can
+1224		bring those claims .
+1225	*VERRI:	But you're not interpreting (.) in that situation , all you're
+1226		interpreting is the word “ person ” +/.
+1227	@G:	---
+1228	*VERRI:	in a statute , not exercise of religion , which is what makes it
+1229		different here .
+1230	*ROBE:	So those (.) those cases involve construction of the term “ person ” ?
+1231	*VERRI:	Yes , but only “ person ” .
+1232	*ROBE:	So the person (.) the corporation can bring as a person a claim of
+1233		racial discrimination .
+1234	*VERRI:	That's correct , but not exercise of religion .
+1235	*VERRI:	That's the difference .
+1236	*VERRI:	But let me , if I could , we think that part of the problem here and
+1237		the reason we make the argument we do at the threshold about why you
+1238		ought not recognize claims under <R_F_R_A> [= RFRA] for for-profit
+1239		corporations is that they are going to predictively give rise to the
+1240		kinds of issues you have in this case in which the exemption is going
+1241		to impose a burden on third parties or extinguish rights of third
+1242		parties , employees or others , and that that (.) that really can't be
+1243		what Congress was thinking about .
+1244	@G:	---
+1245	*VERRI:	But even if you +/.
+1246	*ALIT:	If you say they can't even get their (.) they can't even get their (.)
+1247		their day in court , you're saying something pretty , pretty strong .
+1248	*VERRI:	+, And I understand , but if Your Honor disagrees with me (.) if the
+1249		Court doesn't agree with this position at the threshold , the same
+1250		considerations with respect to the harms of third parties definitely
+1251		play into the compelling-interest analysis .
+1252	@G:	---
+1253	*VERRI:	In fact , under <R_F_R_A> [= RFRA] , the standard , the precise
+1254		standard of the statute says the government must meet is that it must
+1255		show that the application of the law to the particular parties here ,
+1256		Conestoga and Hobby Lobby , is in furtherance of the government's
+1257		compelling interest .
+1258	*VERRI:	That's the test .
+1259	*VERRI:	So the question here is whether having Hobby Lobby and Conestoga
+1260		provide this coverage is in furtherance of the government's interests
+1261		in ensuring that this kind of preventive service coverage is available
+1262		and , in particular , the contraceptive coverage that's included within
+1263		it .
+1264	*KENN:	Is it your position that part of the compelling interest here is that
+1265		you have to protect the integrity (.) the operational integrity of the
+1266		whole Act ?
+1267	*VERRI:	It is part of our argument , absolutely .
+1268	*VERRI:	And (.) but it (.) but there is in addition to that , much more +/.
+1269	*KENN:	Does that mean the constitutionality of the whole Act has to be
+1270		examined before we accept your view ?
+1271	*VERRI:	+, Well , I think it has been examined , Your Honor , is my
+1272		recollection .
+1273	@G:	---
+1274	*VERRI:	0 &=laughter .
+1275	*VERRI:	But (.) but with respect to (.) but with respect to the (.) there is a
+1276		particularized interest here in that what we are talking about is a
+1277		question of whether <fourteen thousand> [= 14,000] employees and their
+1278		families get access to this contraceptive coverage .
+1279	*KENN:	You (.) you have exempted a whole class of corporations and you've done
+1280		so under your view not because of <R_F_R_A> [= RFRA] .
+1281	*VERRI:	So let me (.) let me go to that +/.
+1282	*KENN:	Now , what (.) what kind of constitutional structure do we have if the
+1283		Congress can give an agency the power to grant or not grant a religious
+1284		exemption based on what the agency determined ?
+1285	@G:	---
+1286	*KENN:	I recognize delegation of powers rules are somewhat more abundant
+1287		insofar as their enforcement in this Court .
+1288	@G:	---
+1289	*KENN:	But when we have a First Amendment issue of (.) of this consequence ,
+1290		shouldn't we indicate that it's for the Congress , not the agency to
+1291		determine that this corporation gets the exemption on that one , and
+1292		not even for <R_F_R_A> [= RFRA] purposes , for other purposes .
+1293	*VERRI:	+, And , Your Honor , I do think that it was appropriate for the
+1294		agency , in exercising its delegated authority here , to take into
+1295		account the special solicitude that under our constitutional order
+1296		churches receive .
+1297	*VERRI:	And it's important to understand , and I want to walk through the (.)
+1298		this question of exemptions very carefully because I think there's a
+1299		lot of confusion here that needs to be cleared up , that all that the
+1300		(.) all that the government has done is say that churches , because of
+1301		that special solicitude , which the Court recognized in Hosanna-Tabor ,
+1302		churches get an exemption .
+1303	@G:	---
+1304	*VERRI:	The nonprofit religious organizations don't get an exemption .
+1305	*VERRI:	There's an accommodation there provided , but that accommodation
+1306		results in the employees receiving access to this (.) to the
+1307		contraceptive coverage , so that doesn't diminish the government's
+1308		compelling interest .
+1309	@G:	---
+1310	*VERRI:	The Tenth Circuit and my friends on the other side have relied on this
+1311		idea that employers with fewer than <fifty> [= 50] employees are somehow
+1312		exempt .
+1313	*KENN:	But you gave this exemption , according to your brief , without
+1314		reference to the policies of <R_F_R_A> [= RFRA] .
+1315	*KENN:	What (.) what were the policies that you were implementing ?
+1316	*VERRI:	Well , with respect to (.) as I said , with respect to the churches ,
+1317		it was the special solicitude that churches receive under our
+1318		Constitution under the First Amendment .
+1319	@G:	---
+1320	*VERRI:	But with respect (.) now with respect to the employers <fifty> [= 50]
+1321		and under , it's just not right to say that there's any kind of an
+1322		exemption .
+1323	*VERRI:	If they offer health insurance , they're subject to exactly the same
+1324		per-employee , per-day penalty as larger corporations , exactly the
+1325		same risk of Labor Department enforcement , exactly the same risk of an
+1326		<E_R_I_S_A> [= ERISA] suit by the plan beneficiaries .
+1327	*VERRI:	There is no possible way to look at the statutory scheme and conclude
+1328		there is an exemption there .
+1329	*ROBE:	What about the grandfathered plans ?
+1330	*VERRI:	Yes .
+1331	*VERRI:	Let me talk about the grandfathered plans .
+1332	*ROBE:	Well , just before you (.) so one thing I'd like you to address , the
+1333		dispute arose with <Mister> [= Mr.] Clement about how long they were
+1334		going to be in effect .
+1335	*ROBE:	Can you make a representation to us about how long the grandfathering
+1336		is going to be in effect ?
+1337	*VERRI:	I (.) I can't give you a precise figure as to (.) there's a clear
+1338		downward trajectory .
+1339	*VERRI:	There's significant movement downward every year in the numbers .
+1340	*VERRI:	There's every reason to think that's going to continue .
+1341	*VERRI:	I can't give you a precise time when that is going to be +/.
+1342	*ROBE:	Can you give me an approximate time , if not a precise one ?
+1343	*VERRI:	+, I (.) I can't give you a representation of exactly how low that
+1344		number is going to go and exactly how long it's going to take .
+1345	*VERRI:	But I think what you're talking about is a period in which that number
+1346		is going to go to a very , very low level over a several year period .
+1347	*ROBE:	Well , if you can't tell us , and I don't fault you for not being able
+1348		to tell us , when the grandfathering is going to end , shouldn't we
+1349		assume in our analysis that it is current and , as far as we can tell ,
+1350		not going to end ?
+1351	*VERRI:	No .
+1352	*VERRI:	I don't that's right , Your Honor .
+1353	*VERRI:	And I think (.) let's (.) let's look at this , if we could , in toto .
+1354	*VERRI:	That with respect to grandfathering , it's to be expected that
+1355		employers and insurance companies are going to make decisions that
+1356		trigger the loss of that so-called grandfathered status under the (.)
+1357		under the governing regulation .
+1358	*ALIT:	Isn't it true with respect to the grandfathered plans that the
+1359		regulations required immediate compliance with certain requirements ,
+1360		but not with preventive care requirements ; isn't that right ?
+1361	@G:	---
+1362	*ALIT:	Let me read you what <H_H_S> [= HHS] said in the regulation : +"/.
+1363	*ALIT:	+" With certain particularly significant protections , particularly
+1364		significant protections , Congress required grandfathered health plans
+1365		to comply with a subset of the Affordable Care Act's health reform
+1366		provisions .
+1367	*ALIT:	+" On the other hand , grandfathered health plans are not required to
+1368		comply with certain other requirements of the Affordable Care Act ; for
+1369		example , the requirement that preventive health services be covered
+1370		without any cost sharing .
+1371	@G:	---
+1372	*ALIT:	So isn't <H_H_S> [= HHS] saying there , quite specifically , these , in
+1373		our view , are not within this subset of particularly significant
+1374		requirements as to which there must be immediate compliance ?
+1375	*VERRI:	Well , the (.) the question would be whether there's a compelling
+1376		interest in compliance with these requirements .
+1377	*VERRI:	And I (.) I'd like to make two points in response to Your Honor's
+1378		question .
+1379	@G:	---
+1380	*VERRI:	First with respect to this issue of delay , which I think , <Mister> [=
+1381		Mr.] Chief Justice , your question raised , and my friend on the other
+1382		side has put a lot of weight on , I'd refer the Court to the <A_D_A> [=
+1383		ADA] .
+1384	*VERRI:	I don't think anybody would doubt that the Americans with Disabilities
+1385		Act advances interest of the highest order .
+1386	*VERRI:	But when Congress enacted that , it put a two-year delay on the
+1387		applicability of the discrimination provision .
+1388	*ROBE:	Well , isn't that because you're talking about building ramps and
+1389		things like that ?
+1390	*VERRI:	No .
+1391	*VERRI:	No , Your Honor .
+1392	@G:	---
+1393	*VERRI:	There's an even longer delay with respect to those kinds of
+1394		provisions , but it's just a basic prohibition of discrimination
+1395		two-year delay , and no one would doubt there's a compelling interest
+1396		here .
+1397	*VERRI:	And with (.) and take (.) take Title <V_I_I> [= VII] .
+1398	*VERRI:	My friends on the other side have said , well , this is different
+1399		because there's so many more people who are going to not have this
+1400		coverage under the grandfathered plan .
+1401	*VERRI:	But with respect to Title <V_I_I> [= VII] , of course , it's still the
+1402		case that (.) that employers with <fifteen> [= 15] or fewer people are not
+1403		subject to that law , and that's <eighty> [= 80] percent of the employers
+1404		in the country .
+1405	*VERRI:	And if you run the math , that's (.) it's at least <eighty> [= 80]
+1406		percent (.) that's (.) it's going to be somewhere between <ten> [= 10]
+1407		and <twenty-two> [= 22] million people who are not within the coverage .
+1408	*VERRI:	No one would say that because the coverage is incomplete in that
+1409		respect , that Title <V_I_I> [= VII] (.) enforcing Title <V_I_I> [=
+1410		VII] doesn't advance +/.
+1411	*ROBE:	Those were decisions (.) those were decisions that Congress made ,
+1412		right ?
+1413	*VERRI:	+, Yes .
+1414	*ROBE:	Well , the grandfathering is not a decision that Congress made , is
+1415		it ?
+1416	*VERRI:	Well , the way in which it's implemented is a decision that the agency
+1417		has made , that's true .
+1418	*VERRI:	But even with respect to the preventive services , I don't think anyone
+1419		would say that there's not a compelling interest in advancing
+1420		colorectal cancer screening and immunizations and the things that the
+1421		preventive services provisions provide in addition to contraceptive
+1422		coverage .
+1423	*VERRI:	I just think this is a compelling interest under any understanding of
+1424		the term .
+1425	*BREY:	I just want (.) before you get to this point , and my question reflects
+1426		no point of view at all on my behalf .
+1427	*BREY:	I just (.) but I took <Mister> [= Mr.] Clement , one of his points ,
+1428		which I thought was an important one .
+1429	*BREY:	He says there are some people here who strongly object to helping with
+1430		abortions which include abortifacient contraceptives .
+1431	*BREY:	Everybody says , yes , they do object to that and that's sincere .
+1432	*BREY:	So he's not saying this , but I might .
+1433	@G:	---
+1434	*BREY:	But there is a compelling interest in women's health and in the health
+1435		of the family , and they're not having a religious objection to taking
+1436		it .
+1437	@G:	---
+1438	*BREY:	And so the government has said provide it .
+1439	@G:	---
+1440	*BREY:	Then he says , but there is a less restrictive way , and the less
+1441		restrictive way is the government pays for it .
+1442	*BREY:	Says it wouldn't cost much .
+1443	@G:	---
+1444	*BREY:	You'd have to have another piece of paper that would go to the
+1445		insurance company that would say , insofar as your employer has a
+1446		sincere objection against paying this , the government will pay for
+1447		it .
+1448	@G:	---
+1449	*BREY:	Now , what I want to hear , and this is not coming from any point of
+1450		view , I want to hear your precise answer to that kind of argument .
+1451	*VERRI:	Yes .
+1452	*VERRI:	They did argue (.) I will point out , for the first time at the podium
+1453		this morning (.) that a less restrictive means would be to extend the
+1454		accommodation that currently exists +/.
+1455	*BREY:	I'm not interested in whether they made the argument sooner or later .
+1456	*BREY:	What I want to hear from you is I want to hear (.) and it's not (.)
+1457		you've thought about this .
+1458	*BREY:	I want to hear your answer to that kind of argument .
+1459	*VERRI:	+, Well +/.
+1460	*BREY:	I want to be sure you have a chance to give it .
+1461	*VERRI:	+, The answer (.) I think there are two answers to it .
+1462	*VERRI:	Assuming it's before the Court (.) and I'm going to answer your honest
+1463		question directly , but I do want to make a prefatory point here ,
+1464		which is that under the law , under Ashcroft <v@l> [= v.] <A_C_L_U> [=
+1465		ACLU] , for example , the burden on the government is to show that
+1466		proposed less restrictive alternatives are not equally effective .
+1467	*VERRI:	If they don't propose it , we don't have a burden to refute it .
+1468	@G:	---
+1469	*VERRI:	Having said that , we can refute it .
+1470	*VERRI:	Now , there are two (.) and there are two ways .
+1471	*VERRI:	The first is , they claim that they don't think that the accommodation
+1472		is a less restrictive means , I take it , because (.) or they haven't
+1473		raised it before today , because they believe that <R_F_R_A> [= RFRA]
+1474		would require exemptions to that too , such that if you were (.) if you
+1475		were to provide the accommodation in which the insurance company comes
+1476		in and provides the contraception if the employer signs the form , they
+1477		would say that that (.) signing the form also makes them complicit in
+1478		the central activity , and that therefore <R_F_R_A> [= RFRA] provides
+1479		an exemption there , too .
+1480	@G:	---
+1481	*VERRI:	And of course the test is whether the proposed alternative advances the
+1482		government's interests as effectively .
+1483	*VERRI:	And if it is going to be subject to exactly the same <R_F_R_A> [= RFRA]
+1484		objections by exactly the same class of people asking for it , it's not
+1485		going to serve the government's interest as effectively because the
+1486		<R_F_R_A> [= RFRA] exemption will result in no coverage there .
+1487	@G:	---
+1488	*VERRI:	The second point being that +/.
+1489	*SCAL:	+, So don't make them sign a piece of paper .
+1490	*VERRI:	+, Well , whether they sign the piece of paper or not , if they make
+1491		the <R_F_R_A> [= RFRA] claim there , which they have with respect to
+1492		that accommodation , it will result in it being less effective in terms
+1493		of accomplishing the compelling interest .
+1494	*VERRI:	In addition +/.
+1495	*ALIT:	Well , we can ask <Mister> [= Mr.] Clement what his position is on
+1496		this .
+1497	*ALIT:	But you say they have already asserted that it would be inconsistent
+1498		with <R_F_R_A> [= RFRA] as they understand it to provide for a
+1499		for-profit corporation , like the ones involved here , the sort of
+1500		accommodation that <H_H_S> [= HHS] has extended to so-called religious
+1501		nonprofits , perhaps with the modification that was included in our
+1502		stay order in the Little Sisters case .
+1503	*ALIT:	Have they taken a position on that ?
+1504	*VERRI:	+, You'll have to ask them .
+1505	@G:	---
+1506	*VERRI:	I don't think they have .
+1507	*VERRI:	But they have studiously avoided arguing this as a less restrictive
+1508		alternative , and I take it it's because their theory , at least ,
+1509		would lead one to the conclusion you would have to provide a <R_F_R_A>
+1510		[= RFRA] objection .
+1511	*VERRI:	But now the (.) yes , thank you , <Mister> [= Mr.] Chief Justice .
+1512	@G:	---
+1513	*VERRI:	The second point is that you're talking about a very open-ended
+1514		increase in the cost to the government .
+1515	*VERRI:	Now , we don't know how much that cost would be .
+1516	*VERRI:	The reason is because , since this wasn't litigated in the lower
+1517		courts , there's not a record on it .
+1518	*VERRI:	So I can't tell you what that (.) what that increased cost is going to
+1519		be , but it could be quite considerable .
+1520	*SCAL:	You're talking about , what , three or four birth controls , not all of
+1521		them , just those that are abortifacient .
+1522	*SCAL:	That's not terribly expensive stuff , is it ?
+1523	*VERRI:	Well , to the contrary .
+1524	@G:	---
+1525	*VERRI:	And two points to make about that .
+1526	*VERRI:	First , of course the (.) one of the methods of contraception they
+1527		object to here is the <I_U_D> [= IUD] .
+1528	*VERRI:	And that is by far and away the method of contraception that is most
+1529		effective , but has the highest upfront cost and creates precisely the
+1530		kind of cost barrier that the preventive services provision is trying
+1531		to break down .
+1532	*ALIT:	I thought that (.) I was taken by your answer .
+1533	*ALIT:	I thought it was the government's position that providing coverage for
+1534		the full range of contraceptives and other devices and drugs that are
+1535		covered here is actually financially neutral for an insurance company ,
+1536		that that reduces other costs that they would incur .
+1537	*VERRI:	It is for the insurance company , but for the woman who is going to not
+1538		get the benefit of the statute if the exemption is granted +/.
+1539	*ALIT:	No .
+1540	*ALIT:	No .
+1541	*ALIT:	If she (.) if she has the coverage through the insurance company but
+1542		the employer has nothing to do with arranging for that .
+1543	*VERRI:	+, Well , so , in other words , if they haven't raised a <R_F_R_A> [=
+1544		RFRA] objection to the alternative , but that (.) but as I said , you
+1545		know , the logic of their position is that you would get a <R_F_R_A> [=
+1546		RFRA] objection .
+1547	*VERRI:	It can't be +/.
+1548	*BREY:	Still , I want to get (.) press this a little further , and I don't
+1549		want you simply to just agree with what I'm about to say .
+1550	*VERRI:	+, Don't worry .
+1551	@G:	---
+1552	*VERRI:	0 &=laughter .
+1553	*BREY:	No , I mean (.) I mean , after all , somebody , a taxpayer , might
+1554		say , +"/.
+1555	*BREY:	+" I don't want to pay for this small war .
+1556	*BREY:	And it would be a religious ground , and it would be very , very little
+1557		money , in fact , that you take from him .
+1558	*BREY:	Or the church might say , +"/.
+1559	*BREY:	+" I want a Sunday morning reduction in the cost of municipal parking .
+1560	*BREY:	And by the way , that will not only not cost the government anything ,
+1561		they'll make money because nobody parks there on Sunday , particularly
+1562		with this high a fee .
+1563	@G:	---
+1564	*BREY:	Now , I'm thinking of (.) I'm trying to figure out where this case fits
+1565		in that spectrum because I think the answer to the first two questions
+1566		is no .
+1567	*BREY:	And I know , so you're just going to agree , and that's what I don't
+1568		want .
+1569	*BREY:	I want to understand your thinking on that .
+1570	*VERRI:	On that point , I think that question plugs into our view of what the
+1571		substantial burden test requires , that their view of substantial
+1572		burden is if you have a sincere religious belief and there is any law
+1573		with a meaningful penalty that imposes on you pressure to do something
+1574		inconsistent with your belief , then you may pass the substantial
+1575		burden test .
+1576	@G:	---
+1577	*VERRI:	I think the problem with that test as they formulate it , is that under
+1578		the two hypotheticals that you just gave , Justice Breyer , you've got
+1579		a substantial burden in those situations , because if you don't pay the
+1580		tax you can go to jail , for example .
+1581	@G:	---
+1582	*VERRI:	And so we think the substantial burden analysis has got to be more
+1583		strenuous than that .
+1584	*VERRI:	It's got to incorporate principles of attenuation and proximate cause ,
+1585		and that when you think about this case where the requirement is to
+1586		purchase insurance which enables actions by others , that you're really
+1587		closer to the tax situation than to imposing a direct obligation to
+1588		act .
+1589	@G:	---
+1590	*VERRI:	So that's how we would think about that issue .
+1591	*VERRI:	But now , with respect to +/.
+1592	*ALIT:	<Mister> [= Mr.] (.) General Verrilli , isn't that really a question of
+1593		theology or moral philosophy , which has been debated for (.) by many
+1594		scholars and adherents to many religions .
+1595	*ALIT:	A does something that B thinks is immoral .
+1596	*ALIT:	How close a connection does there have to be between what B does that
+1597		may have some (.) that may provide some assistance to A in order for B
+1598		to (.) to be required to refrain from doing that (.) that action .
+1599	*VERRI:	+, It's true that it's a difficult question .
+1600	*VERRI:	But it isn't +/.
+1601	*ALIT:	It is a religious question and it's a moral question .
+1602	*ALIT:	And you want us to provide a definitive secular answer to it ?
+1603	*VERRI:	+, No , but I do think the problem , Justice Alito , is that this Court
+1604		has recognized , and certainly the courts of appeals have recognized ,
+1605		that there is a difference .
+1606	*VERRI:	You accept the sincerity of the belief , but the Court still has to
+1607		make a judgment of its own about what constitutes a substantial
+1608		burden , or otherwise , for example , the tax thing would be a
+1609		substantial burden .
+1610	*VERRI:	Or we cited a <D_C> [= D.C.] +/.
+1611	@G:	---
+1612	*VERRI:	Circuit case in which prisoners objected to giving <D_N_A> [= DNA]
+1613		samples and the court said : We accept the sincerity of that belief ,
+1614		but it's up to us to decide whether that's a actually substantial
+1615		burden .
+1616	@G:	---
+1617	*VERRI:	In the Bowen case in this Court , the Court accepted the sincerity of
+1618		the belief that the use of the child's Social Security number would
+1619		offend religious belief and commitments , but said they still had to
+1620		make a judgment about whether that was a substantial burden .
+1621	@G:	---
+1622	*VERRI:	So it does have to be , with all due respect , part of the analysis .
+1623	*KENN:	I still don't understand how <H_H_S> [= HHS] exercised its judgment to
+1624		grant the exemption to nonreligious corporations if you say it was not
+1625		compelled by <R_F_R_A> [= RFRA] .
+1626	*VERRI:	I don't think +/.
+1627	*KENN:	Then it must have been because the health care coverage was not that
+1628		important .
+1629	*VERRI:	+, It didn't grant an exemption to any nonreligious organizations ,
+1630		Justice Kennedy .
+1631	*VERRI:	It granted an exemption to churches , and that was it .
+1632	*VERRI:	With respect to religious nonprofits , it constructed an
+1633		accommodation , but the accommodation delivers the contraceptive
+1634		coverage to the employees of the nonprofits .
+1635	*VERRI:	It just does it through an indirect means .
+1636	*VERRI:	But there is no diminution of the (.) there's no basis for questioning
+1637		the government's interest with respect to that accommodation because
+1638		the employees get the coverage , just as they would +/.
+1639	*ROBE:	Well , but that of course is an issue that's being hotly litigated
+1640		right now , right ?
+1641	*ROBE:	Whether the employees can get the coverage when you're talking about
+1642		the religious organizations .
+1643	*VERRI:	+, Well , that's exactly why I think you can't look to that as a less
+1644		restrictive (.) that accommodation , extending that accommodation to
+1645		for-profit corporations .
+1646	*VERRI:	As a less restrictive alternative .
+1647	*VERRI:	Precisely because it's being hotly litigated whether <R_F_R_A> [= RFRA]
+1648		will require exemptions to that , as well .
+1649	*ROBE:	But you're relying (.) you're relying on it to make your point with
+1650		respect to the accommodation , and then you're criticizing your friend
+1651		for relying on the same thing in making his points .
+1652	*VERRI:	Well , I think (.) I think what Justice Kennedy (.) I took Justice
+1653		Kennedy to be asking me , <Mister> [= Mr.] Chief Justice , was whether
+1654		the government's choice to provide that accommodation reflected a
+1655		judgment on the part of the government that this was something less
+1656		than a compelling interest , and I don't think that inference is
+1657		possible , because the government was trying to use that accommodation
+1658		to ensure that the contraceptives were delivered .
+1659	*VERRI:	So , with all due respect , I don't think there is an inconsistency
+1660		there .
+1661	@G:	---
+1662	*VERRI:	And I (.) and I do think , if I could , with respect to this issue of
+1663		whether there are exemptions that defeat a compelling interest , that I
+1664		submit would be a very dangerous principle for this Court to adopt in
+1665		the form that my friends on the other side have offered it , because
+1666		not only would you then be in a position where it would be very hard to
+1667		see how Title <V_I_I> [= VII] enforcement could be justified by
+1668		compelling interest in response to a <R_F_R_A> [= RFRA] objection ,
+1669		<A_D_A> [= ADA] enforcement , <F_M_L_A> [= FMLA] enforcement , all
+1670		kinds of things .
+1671	*VERRI:	And I do think +/.
+1672	*GINS:	Title <V_I_I> [= VII] was passed before <nineteen ninety-three> [= 1993] , so it
+1673		wouldn't apply (.) <R_F_R_A> [= RFRA] wouldn't apply to Title <V_I_I>
+1674		[= VII] .
+1675	*VERRI:	+, Well , I think (.) with all due respect , Justice Ginsburg , I think
+1676		you could claim a <R_F_R_A> [= RFRA] exemption from Title <V_I_I> [=
+1677		VII] .
+1678	*VERRI:	And the problem here would be that (.) and I think one of the things
+1679		that's significant about the position that my friends on the other side
+1680		are taking here , is that with respect to exemptions , for example ,
+1681		from the Title <V_I_I> [= VII] requirement against discrimination on
+1682		the basis of religion and hiring , Congress made a quite clear judgment
+1683		to provide a very narrow exemption : Churches and religious educational
+1684		institutions and religious associations , and that's it .
+1685	*VERRI:	Nobody else can claim an exemption under Title <V_I_I> [= VII] .
+1686	*SCAL:	Except that they passed <R_F_R_A> [= RFRA] after that .
+1687	*SCAL:	That made a lot of sense .
+1688	*SCAL:	But the question is they passed <R_F_R_A> [= RFRA] after that .
+1689	*VERRI:	But I think the further question , Your Honor , is whether you would
+1690		interpret <R_F_R_A> [= RFRA] in a manner where you would essentially
+1691		obliterate that carefully crafted (.) or what Congress meant to do was
+1692		to obliterate that carefully crafted exemption and instead say that
+1693		every for-profit corporation could make a request like that .
+1694	*ROBE:	Well , if Congress feels as strongly about this as you suggest , they
+1695		can always pass an exemption , an exception to <R_F_R_A> [= RFRA] ,
+1696		which they have done on other occasions .
+1697	*ROBE:	And they haven't done it here .
+1698	*VERRI:	Well , with all due respect , Your Honor , I think you could make the
+1699		same argument either way in this case , that the question here is what
+1700		Congress thought it was doing in <nineteen ninety-three> [= 1993] , and we don't
+1701		think , given the long history and the fact that not only do you have
+1702		no case in which a for-profit corporation ever had a successful +/.
+1703	*ROBE:	Well , we've already discussed that there is no case holding that they
+1704		can't , right ?
+1705	*VERRI:	+, In addition , if you look at the history of exemptions and
+1706		accommodations in our legislation , State and Federal legislation may
+1707		extend to churches and religious nonprofits , and that's (.) and
+1708		individuals .
+1709	*VERRI:	And that's where the line has been drawn in our legislation
+1710		historically .
+1711	*VERRI:	There just is nothing in our current +/.
+1712	*KENN:	Under your view , a profit corporation could be forced (.) in
+1713		principle , there are some statutes on the books now which would
+1714		prevent it , but (.) could be forced in principle to pay for
+1715		abortions .
+1716	*VERRI:	+, No .
+1717	*VERRI:	I think , as you said , the law now (.) the law now is to the
+1718		contrary .
+1719	*KENN:	But your reasoning would permit that .
+1720	*VERRI:	Well , I think that (.) you know , I don't think that that's (.) I
+1721		think it would depend on the law and it would depend on the entity .
+1722	*VERRI:	It certainly wouldn't be true , I think , for religious nonprofits .
+1723	*VERRI:	It certainly wouldn't be true for a church .
+1724	*KENN:	I'm talking about a profit corporation .
+1725	*KENN:	You say profit corporations just don't have any standing to vindicate
+1726		the religious rights of their shareholders and owners .
+1727	*VERRI:	Well , I think that if it were for a for-profit corporation and if such
+1728		a law like that were enacted , then you're right , under our theory
+1729		that the for-profit corporation wouldn't have an ability to sue .
+1730	*VERRI:	But there is no law like that on the books .
+1731	*VERRI:	In fact , the law is the opposite .
+1732	*ROBE:	I'm sorry , I lost track of that .
+1733	*ROBE:	There is no law on the books that does what ?
+1734	*VERRI:	That makes a requirement of the kind that Justice Kennedy
+1735		hypothesized .
+1736	*VERRI:	The law is the opposite .
+1737	*ROBE:	Well , flesh it out a little more .
+1738	*ROBE:	What (.) there is no law on the books that does what ?
+1739	*VERRI:	That requires for-profit corporations to provide abortions .
+1740	*KENN:	What if a law like that +/.
+1741	*ROBE:	Isn't that what we are talking about in terms of their religious
+1742		beliefs ?
+1743	@G:	---
+1744	*ROBE:	One of the religious beliefs is that they have to pay for these four
+1745		methods of contraception that they believe provide abortions .
+1746	*ROBE:	I thought that's what we had before us .
+1747	*VERRI:	It is their sincere belief and we don't question that .
+1748	*VERRI:	But I will say , and I do think this is important and I say it with all
+1749		respect , that that is how they (.) that is the judgment that they
+1750		make .
+1751	*VERRI:	It is not the judgment that Federal law or State law reflects .
+1752	*VERRI:	Federal law and State law which does (.) which do preclude funding for
+1753		abortions don't consider these particular forms of contraception to be
+1754		abortion .
+1755	@G:	---
+1756	*VERRI:	With all due respect , I would say that I think that , you know , we've
+1757		got about <two> [= 2] million women who rely on the <I_U_D> [= IUD] as
+1758		a method of birth control in this country .
+1759	*VERRI:	I don't think they think they are engaged in abortion in doing that .
+1760	*VERRI:	It is their belief .
+1761	*VERRI:	It's sincere .
+1762	*VERRI:	We respect it .
+1763	@G:	---
+1764	*VERRI:	But it isn't a belief that we think is reflected in Federal or State
+1765		law or our traditions of where that line is drawn .
+1766	*VERRI:	And so (.) and I do think that that is what makes this a difficult
+1767		case .
+1768	*VERRI:	I agree .
+1769	@G:	---
+1770	*VERRI:	And if you disagree with our position at the threshold that
+1771		corporations (.) that even though you have a situation , and we
+1772		acknowledge you can have situations , in which a tightly knit group of
+1773		(.) a small group of tightly knit individuals own and operate a
+1774		corporation where there is appeal to that , to the argument that they
+1775		ought to recognize a claim of exercising religion in those
+1776		circumstances .
+1777	@G:	---
+1778	*VERRI:	The problem , I would submit , is with the implications of doing it ,
+1779		the implications for entanglement and making the judgments when you
+1780		move past that group , the administrability problems , and the problems
+1781		of inviting the kinds of claims that are predictably going to impose
+1782		harms on third parties .
+1783	*ALIT:	What about the implications of saying that no for-profit corporation
+1784		can raise any sort of free exercise claim at all and nobody associated
+1785		with the for-profit corporation can raise any sort of free exercise
+1786		claim at all ?
+1787	@G:	---
+1788	*ALIT:	Let me give you this example .
+1789	*ALIT:	According to the media , Denmark recently prohibited kosher and halal
+1790		slaughter methods because they believe that they are inhumane .
+1791	*ALIT:	Now , suppose Congress enacted something like that here .
+1792	*ALIT:	What would the (.) what would a corporation that is a kosher or halal
+1793		slaughterhouse do ?
+1794	*ALIT:	They would simply (.) they would have no recourse whatsoever .
+1795	*ALIT:	They couldn't even get a day in court .
+1796	*ALIT:	They couldn't raise a <R_F_R_A> [= RFRA] claim .
+1797	*ALIT:	They couldn't raise a First Amendment claim .
+1798	*VERRI:	Well , I'm not sure they couldn't raise a First Amendment claim ,
+1799		Justice Alito .
+1800	@G:	---
+1801	*VERRI:	I think if you had a targeted law like that , that targeted a specific
+1802		religious practice , that (.) I don't think it is our position that
+1803		they couldn't make a free exercise claim in that circumstance and
+1804		so +/.
+1805	*ALIT:	Why is that +/.
+1806	*KENN:	+, Well , but you're getting away from the hypothetical .
+1807	*KENN:	Say (.) Justice Alito's hypothetical was that the impetus for this was
+1808		humane treatment of animals .
+1809	*KENN:	There was no animus to religion at all , which in the Church of
+1810		Lukumi , there was an animus to the religion .
+1811	*KENN:	So we're taking that out of the hypothetical .
+1812	*ALIT:	+, Exactly .
+1813	*VERRI:	+, Right .
+1814	*VERRI:	Well , I think if it were targeted only at the practices of the (.) the
+1815		kosher and halal practices , then I think you would have an issue of
+1816		whether it's a targeted law or not .
+1817	*VERRI:	But even if it is +/.
+1818	*ALIT:	Well , they say no animal may be slaughtered unless it's stunned
+1819		first , unless the animal is rendered unconscious before it is
+1820		slaughtered .
+1821	*VERRI:	+, Well , I think in that circumstance , you would have , I think , an
+1822		ability for customers to bring suit .
+1823	*VERRI:	I think you might recognize third party standing on behalf of the
+1824		corporation (.) on the corporations , on behalf of customers .
+1825	*VERRI:	So a suit like that could be brought .
+1826	@G:	---
+1827	*VERRI:	But even if you disagree with me at the threshold , even if you
+1828		disagree with us with respect to the kinds of risks that we think you
+1829		will be inviting if you hold that for-profit corporations can bring
+1830		these claims , when you get to the compelling interest analysis , the
+1831		rights of the third party employees are at center stage here .
+1832	*VERRI:	And that's (.) I think that's the point of critical importance in
+1833		thinking about this case .
+1834	*VERRI:	And I think , frankly , the point that has been just left on the
+1835		sidelines by my friends on the other side .
+1836	@G:	---
+1837	*VERRI:	The consequence of holding here that the <R_F_R_A> [= RFRA] exemption
+1838		applies is not a situation like ones in which this Court under the Free
+1839		Exercise Clause or under <R_F_R_A> [= RFRA] have recognized exemptions
+1840		in the past .
+1841	*VERRI:	Those have always been situations where it's a relationship between the
+1842		individual and the government and granting the exemption might result
+1843		in the government not being able to enforce the law with respect to the
+1844		individual , but +/.
+1845	*BREY:	I mean , the point that Justice Alito was making is that (.) take five
+1846		Jewish or Muslim butchers and what you're saying to them is if they
+1847		choose to work under the corporate form , which is viewed universally ,
+1848		you have to give up on that form the Freedom of Exercise Clause that
+1849		you'd otherwise have .
+1850	@G:	---
+1851	*BREY:	Now , looked at that way , I don't think it matters whether they call
+1852		themselves a corporation or whether they call themselves individuals .
+1853	*BREY:	I mean , I think that's the question you're being asked , and I need to
+1854		know what your response is to it .
+1855	*VERRI:	+, Well , I think our response is what the Court said in Part <three> [= 3] of the Lee opinion , which is that once you make a choice to go into
+1856		the commercial sphere , which you certainly do when you incorporate as
+1857		a for-profit corporation , you are making a choice to live by the rules
+1858		that govern you and your competitors in the commercial sphere .
+1859	@G:	---
+1860	*VERRI:	But even if you disagree with me about that , what I'd like to leave
+1861		the Court with , is what I think is the most important point here , is
+1862		that if this exemption were granted , it will be the first time under
+1863		the Free Exercise Clause or under <R_F_R_A> [= RFRA] in which this
+1864		Court or any court has held that an employer may take (.) may be
+1865		granted an exemption that extinguishes statutorily-guaranteed benefits
+1866		of fundamental importance .
+1867	@G:	---
+1868	*VERRI:	Lee came to exactly the opposite conclusion with respect to Social
+1869		Security benefits , that you (.) that it was imperative that the
+1870		employee's interest be protected .
+1871	*VERRI:	And that is the fundamental problem with the position that my friends
+1872		on the other side raise here , that they leave the third-party
+1873		employees entirely out of the equation .
+1874	*SCAL:	That's okay for not-for-profit corporations to do that with respect to
+1875		all of their employees , and some of them are pretty big operations +/.
+1876	*VERRI:	No .
+1877	*SCAL:	+, that's okay there ?
+1878	*VERRI:	No , we don't think that .
+1879	@G:	---
+1880	*VERRI:	We don't (.) we're not drawing a line between non-profits and profits .
+1881	*SCAL:	They can make (.) you allow them to make this religious objection ,
+1882		don't you ?
+1883	*VERRI:	No .
+1884	*VERRI:	No .
+1885	*VERRI:	Religious non-profits get an accommodation in which their employees get
+1886		the contraception .
+1887	*VERRI:	But we are not drawing a line between for-profit and profit .
+1888	*SCAL:	But they don't have to pay for it , right ?
+1889	*VERRI:	The +/.
+1890	*SCAL:	And you could set that up this way , that these people don't have to
+1891		pay for it .
+1892	*VERRI:	+, Well , as I've said a couple of times , they haven't asked for that
+1893		until this morning .
+1894	*VERRI:	But the fundamental point here is that you would be extinguishing
+1895		statutorily-guaranteed health benefits of fundamental importance to
+1896		these employees , and that is something that this Court has never
+1897		done .
+1898	@G:	---
+1899	*VERRI:	And I submit that Congress can't have thought it was authorizing it
+1900		when it enacted <R_F_R_A> [= RFRA] in <nineteen ninety-three> [= 1993] .
+1901	@G:	---
+1902	*VERRI:	Thank you .
+1903	*ROBE:	Thank you , General .
+1904	@G:	---
+1905	*ROBE:	<Mister> [= Mr.] Clement , four minutes .
+1906	@Comment:	REBUTTAL ARGUMENT OF PAUL D. CLEMENT ON BEHALF OF PRIVATE
+1907		PARTIES
+1908	*CLEME:	Thank you , <Mister> [= Mr.] Chief Justice .
+1909	@G:	---
+1910	*CLEME:	Just a few points in rebuttal .
+1911	*CLEME:	Let me start with the Abortion Conscious Clause .
+1912	*CLEME:	It's (.) because it tells you something about where Congress has drawn
+1913		the line and it tells you the consequences of the government's
+1914		position .
+1915	*CLEME:	Historically , those conscious provisions have applied to all medical
+1916		providers , including for-profit medical providers .
+1917	*CLEME:	But we learned today that as far as the government's concerned , that's
+1918		just Congress' judgment .
+1919	*CLEME:	If Congress changes its judgment and says that a for-profit medical
+1920		provider has to provide an abortion , <R_F_R_A> [= RFRA] doesn't
+1921		apply .
+1922	*CLEME:	That , with all due respect , cannot be what Congress had in mind when
+1923		it passed <R_F_R_A> [= RFRA] .
+1924	*CLEME:	They also suggested if a kosher market takes the trouble to incorporate
+1925		itself , then it has no free exercise claims at all .
+1926	@G:	---
+1927	*CLEME:	Now , you can go back and read the Crown kosher case .
+1928	*CLEME:	I took it as common ground , that all nine justices thought that if the
+1929		Massachusetts law there had forced Crown kosher to be open on
+1930		Saturday , that that would be a free exercise claim notwithstanding the
+1931		incorporation .
+1932	@G:	---
+1933	*CLEME:	The second point I want to talk about is the least restrictive
+1934		alternatives .
+1935	*CLEME:	In a colloquy with Justice Scalia , the Solicitor General points out
+1936		that yeah , well , it's a little bit different from the pre-Smith law
+1937		because now you have the less restrictive alternatives analysis .
+1938	@G:	---
+1939	*CLEME:	That's not a small difference .
+1940	*CLEME:	That's a major difference .
+1941	*CLEME:	And it's really the easiest way to rule against the government in this
+1942		case .
+1943	*CLEME:	Because you have a unique situation here where their policy is about a
+1944		government (.) a subsidy for a government-preferred health care item ,
+1945		and the question is who pays ?
+1946	*CLEME:	The government paying or a third-party insurer paying is a perfectly
+1947		good least restrictive alternative .
+1948	*SOTO:	So we go back to the start of my question , that would be essentially
+1949		the same for vaccines , blood transfusions , non-pork products , the
+1950		government has to pay for all of the medical needs that an employer
+1951		thinks or claims it has a religious exemption to ?
+1952	*CLEME:	Not necessarily , Justice Sotomayor .
+1953	*CLEME:	It will depend on how you +/.
+1954	*SOTO:	Because those things are more important ?
+1955	*CLEME:	+, No , not because they're more +/.
+1956	*SOTO:	It's really the amount of money +/.
+1957	*CLEME:	+, important .
+1958	*CLEME:	But the easiest way to distinguish them is if the government's already
+1959		provided this accommodation for religious employers .
+1960	*SOTO:	+, Well , but they +/.
+1961	*CLEME:	And with all due respect +/.
+1962	*SOTO:	+, they make exemptions for vaccines , presumably , to some people on
+1963		some basis , but we have a tax code that applies to everybody , but we
+1964		have a million exemptions .
+1965	@G:	---
+1966	*SOTO:	Does the creation of the exemption relieve me from paying taxes when I
+1967		have a sincere religious belief that taxes are immoral ?
+1968	*CLEME:	+, I think Lee says that taxes are different and not all exemptions are
+1969		created equal , because some exemptions undermine the compelling
+1970		interest .
+1971	*CLEME:	Now , the reason +/.
+1972	*ALIT:	Isn't there a Federal program that pays for vaccines for any children
+1973		who are not covered by insurance for those vaccines ?
+1974	*CLEME:	+, There is , Justice Alito .
+1975	*CLEME:	Of course , there's also Title X , which provides for contraception
+1976		coverage , which is another least restrictive alternative .
+1977	@G:	---
+1978	*CLEME:	But I do want to get on the table that it is not true , that we have
+1979		not suggested that the accommodation provided to religious employers ,
+1980		like nonprofit hospitals , that's not something I invented at the
+1981		podium .
+1982	@G:	---
+1983	*CLEME:	If you look at page <fifty-eight> [= 58] of our brief , the red brief , we
+1984		specifically say that one of the least restrictive alternatives would
+1985		be (.) the most obvious least restrictive alternative is for the
+1986		government to pay for their favorite contraception methods themselves .
+1987	@G:	---
+1988	*CLEME:	Later in that paragraph , the only full paragraph on the page , we
+1989		say , +"/.
+1990	*CLEME:	+" And indeed , the government has attempted something like that with
+1991		respect to certain objective employers (.) objective employees (.)
+1992		employers .
+1993	*CLEME:	and we cite the Federal Register provision where there is the
+1994		accommodation provision .
+1995	*SOTO:	Will your clients claim that filling out the form , if (.) you're
+1996		saying they would claim an exemption like the churches have already ?
+1997	*CLEME:	We haven't been offered that accommodation , so we haven't had to
+1998		decide what kind of objection , if any , we would make to that .
+1999	*CLEME:	But it's important to recognize that as I understand that litigation ,
+2000		the objection is not to the fact that the insurance or the provider
+2001		pays for the contraception coverage .
+2002	*CLEME:	The whole debate is about how much complicity there has to be from the
+2003		employer in order to trigger that coverage .
+2004	*CLEME:	And whatever the answer is for Little Sisters of the Poor , presumably
+2005		you can extend the same thing to my clients and there wouldn't be a
+2006		problem with that .
+2007	@G:	---
+2008	*CLEME:	If I could have just one second more to say that the agency point that
+2009		Justice Kennedy has pointed to is tremendously important , because
+2010		Congress spoke , it spoke in <R_F_R_A> [= RFRA] .
+2011	*CLEME:	Here the agency has decided that it's going to accommodate a subset of
+2012		the persons protected by <R_F_R_A> [= RFRA] .
+2013	*CLEME:	In a choice between what Congress has provided and what the agency has
+2014		done , the answer is clear .
