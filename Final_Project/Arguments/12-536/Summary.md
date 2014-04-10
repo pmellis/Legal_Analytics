@@ -1,0 +1,6 @@
+###MCCUTCHEON v. FEDERAL ELECTION COMMISSION
+
+####Facts
+In 2002, Congress passed the Bipartisan Campaign Reform Act (BCRA), which established two sets of limits to campaign contributions. The base limit placed restrictions on how much money a contributor—defined broadly as individuals, partnerships, and other organizations—may give to specified categories of recipients. The aggregate limit restricted how much money an individual may donate in a two-year election cycle. The limits were periodically recalibrated to factor in inflation.
+
+Shaun McCutcheon is an Alabama resident who is eligible to vote. In the 2011-2012 election cycle, he donated to the Republican National Committee, other Republican committees, as well as individual candidates. He wished to donate more in amounts that would be permissible under the base limit but would violate the aggregate limit. McCutcheon and the other plaintiffs sued the Federal Election Commission, arguing that the aggregate limit violated the First Amendment by failing to serve a “cognizable government interest” and being prohibitively low. The district court held that the aggregate limit served government interests by preventing corruption or the appearance of corruption and was set at a reasonable limit.
