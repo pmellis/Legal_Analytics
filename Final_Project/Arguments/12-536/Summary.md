@@ -1,5 +1,7 @@
 ###MCCUTCHEON v. FEDERAL ELECTION COMMISSION
 
+From: [Oyez.org](http://www.oyez.org/cases/2010-2019/2013/2013_12_536#sort=ideology)
+
 ####Facts
 In 2002, Congress passed the Bipartisan Campaign Reform Act (BCRA), which established two sets of limits to campaign contributions. The base limit placed restrictions on how much money a contributor—defined broadly as individuals, partnerships, and other organizations—may give to specified categories of recipients. The aggregate limit restricted how much money an individual may donate in a two-year election cycle. The limits were periodically recalibrated to factor in inflation.
 
