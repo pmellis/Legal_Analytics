@@ -15,5 +15,5 @@ Justice Clarence Thomas wrote an opinion concurring in the judgment in which he 
 
 In his dissent, Justice Stephen G. Breyer wrote that the plurality’s opinion misconstrues the nature of competing constitutional issues and destroys campaign finance laws, which causes great harm to the democratic process. Justice Breyer argued that the plurality’s opinion was based on a definition of corruption that is too narrow to be effective. He went on to state the reasoning that the aggregate limit is faulty is because there is no substantial mismatch between Congress’ goal of combating corruption and the means established to achieve it. Justice Ruth Bader Ginsburg, Justice Sonia Sotomayor, and Justice Elena Kagan joined in the dissent.
 
-####Voting
-![pic(http://www.oyez.org/sites/default/files/imagecache/advocate_images_60/justices/anthony_m_kennedy/icon-file/icon_0.jpg)
+####Voting Ideology
+![pic](http://www.oyez.org/sites/default/files/imagecache/advocate_images_60/justices/anthony_m_kennedy/icon-file/icon_0.jpg)
