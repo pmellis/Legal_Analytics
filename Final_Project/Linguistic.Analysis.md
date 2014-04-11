@@ -21,13 +21,14 @@ htruncdf(dat2)   #view a truncated version of the data(see also truncdf)
 
 ```{r}
 with(dat2, gantt_plot(dialogue, person, title = "Koontz v. St. John's Argument Viz",  xlab = "Argument Duration", ylab = "Speaker", x.tick=TRUE,
-+                       minor.line.freq = NULL, major.line.freq = NULL, rm.horiz.lines = FALSE))
++ minor.line.freq = NULL, major.line.freq = NULL, rm.horiz.lines = FALSE))
 ```
 
 ![pic](http://patellis.files.wordpress.com/2014/04/rplot6.png)
 
 ####Formality scores (how formal a person’s language is)
 
+```{r}
 #parallel about 1:20 on 8 GB ram 8 core i7 machine
 v1 <- with(dat2, formality(dialogue, person, parallel=TRUE))
 plot(v1)
@@ -39,6 +40,7 @@ plot(v2)
 # openNLP, saving time.
 v3 <- with(dat2, formality(v1, person))
 plot(v3, bar.colors=c("Dark2"))
+```
 
 ![pic](http://patellis.files.wordpress.com/2014/04/rplot013.png)
 
