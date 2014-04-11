@@ -1,4 +1,4 @@
-##"qdap" Analysis on Koontz v. St. John's River Water Management
+###"qdap" Analysis on Koontz v. St. John's
 
 ===========================================
 
