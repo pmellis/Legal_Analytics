@@ -1,5 +1,7 @@
 ###"qdap" Analysis on Koontz v. St. John's
 
+Adapted from: [Presidential Debates with qdap-beta](http://trinkerrstuff.wordpress.com/2012/10/04/presidential-debates-with-qdap-beta/)
+
 ===========================================
 
 ####Getting and cleaning transcripts of argument
