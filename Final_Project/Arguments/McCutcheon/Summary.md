@@ -1,6 +1,6 @@
 ###MCCUTCHEON v. FEDERAL ELECTION COMMISSION
 
-- Summary: [Oyez.org](http://www.oyez.org/cases/2010-2019/2013/2013_12_536#sort=ideology);
+- Summary: [Oyez.org](http://www.oyez.org/cases/2010-2019/2013/2013_12_536#sort=ideology)
 - Transript: [SCOTUSblog.com](http://www.supremecourt.gov/oral_arguments/argument_transcripts/12-536_21o2.pdf)
 
 ####Facts
