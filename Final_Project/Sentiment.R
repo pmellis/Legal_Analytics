@@ -18,6 +18,5 @@ POLARITY BY GROUP
   all total.sentences total.words ave.polarity
 1 all             539        9371        0.026
 > plot(poldat2)
-> poldat2 <- with(dat2, polarity(dialogue,
-+                                     list(person)))
+> poldat2 <- with(dat2, polarity(dialogue,list(person))
 > plot(poldat2)
