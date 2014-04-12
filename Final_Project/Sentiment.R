@@ -9,7 +9,7 @@ plot(poldat)
 
 Case Polarity
 
-(Run Top Code from Formality Analysis
+(Run Chunk 1 from Formality Analysis)
 
 > poldat2 <- with(dat2, polarity(dialogue))
 > poldat2
