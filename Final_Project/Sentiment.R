@@ -20,3 +20,5 @@ POLARITY BY GROUP
 > plot(poldat2)
 > poldat2 <- with(dat2, polarity(dialogue,list(person)))
 > plot(poldat2)
+
+>qheat(poldat2[["group"]], high="blue", low="yellow", grid=NULL, order.b="ave.polarity")
