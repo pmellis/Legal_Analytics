@@ -5,12 +5,12 @@ In 1994, Coy A. Koontz requested a permit from St. John’s River Water Manageme
 
 Koontz sued St. John’s River Water Management, and the trial court found in favor of Koontz. A Florida trial court held that St. John’s actions effected a taking of Koontz land and that imposing requirements for the issuance of a permit is only constitutional if the required action serves the same governmental purpose as the ban on development. Florida's Fifth District Court of Appeal affirmed. The Supreme Court of Florida reversed.
 
-####Issue
+###Issue
 Is the government liable for a taking when it refuses to issue a permit until the landowner has agreed to dedicate personal resources to a public use?
 
 This case was argued on Tuesday, January 15, 2013. The following is a semantic analysis of that argument:
 
-####Retrieving/Cleaning Argument Transcript
+###Retrieving/Cleaning Argument Transcript
 
 ```{r}
 library(qdap)
@@ -39,7 +39,7 @@ htruncdf(dat2)   #view a truncated version of the data(see also truncdf)
 10 GINSBURG 6.1 Suppose he
 ```
 
-####Gantt Plot Visualization
+###Gantt Plot Visualization
 
 A Gantt plot allows the user to find trends and patterns in dialogue across time. It essentially allows for a visual representation of an entire exchange of dialogue.
 
@@ -50,7 +50,7 @@ xlab = "Argument Duration", ylab = "Speaker", x.tick=TRUE, minor.line.freq = NUL
 
 ![pic](https://camo.githubusercontent.com/a13bc83dba83684e3acf0390c1454e282c460513/687474703a2f2f706174656c6c69732e66696c65732e776f726470726573732e636f6d2f323031342f30342f72706c6f74362e706e67)
 
-####Formality Analysis
+###Formality Analysis
 
 Formality is how contextualize a person's language use is. In situations involving what may be new content/context for an audience, a speaker may be more formal in their speech (Heylighen & Dewaele, 1999a, 1999b, 2002). Heylighen & Dewaele (2002) have developed a measure of formality based on categorizing parts of speech into contextual/formal categories. Heylighen & Dewaele's (2002) F-measure is calculated by finding the difference of all of the formal parts (f) of speech (noun, adjective, preposition, article) and contextual (c) parts of speech (pronoun, verb, adverb, interjection) divided by the sum of all formal & contextual speech plus conjunctions (N). This quotient is added to one and multiplied by 50 to ensure a measure between 0 and 1, with scores closer to 100 being more formal and those approaching 0 being more contextual. 
 
@@ -127,7 +127,7 @@ qheat(poldat2[["group"]], high="green", low="white", grid=NULL, order.b="ave.pol
 
 ![pic](http://patellis.files.wordpress.com/2014/04/rplot03.png)
 
-####Conclusion 
+###Conclusion 
 ![pic](http://patellis.files.wordpress.com/2014/04/untitled2.png)
 
 Rinse and repeat . . . 
