@@ -5,12 +5,12 @@ In 1994, Coy A. Koontz requested a permit from St. John’s River Water Manageme
 
 Koontz sued St. John’s River Water Management, and the trial court found in favor of Koontz. A Florida trial court held that St. John’s actions effected a taking of Koontz land and that imposing requirements for the issuance of a permit is only constitutional if the required action serves the same governmental purpose as the ban on development. Florida's Fifth District Court of Appeal affirmed. The Supreme Court of Florida reversed.
 
-###Issue
+####Issue
 Is the government liable for a taking when it refuses to issue a permit until the landowner has agreed to dedicate personal resources to a public use?
 
 This case was argued on Tuesday, January 15, 2013. The following is a semantic analysis of that argument:
 
-###Retrieving/Cleaning Argument Transcript
+####Retrieving/Cleaning Argument Transcript
 
 ```{r}
 library(qdap)
@@ -39,10 +39,13 @@ htruncdf(dat2)   #view a truncated version of the data(see also truncdf)
 10 GINSBURG 6.1 Suppose he
 ```
 
-###Gantt Plot Visualization
+####Gantt Plot Visualization
+
+A Gantt plot allows the user to find trends and patterns in dialogue across time. It essentially allows for a visual representation of an entire exchange of dialogue.
 
 ```{r}
-with(dat2, gantt_plot(dialogue, person, title = "Koontz v. St. John's Argument Viz",  xlab = "Argument Duration", ylab = "Speaker", x.tick=TRUE, minor.line.freq = NULL, major.line.freq = NULL, rm.horiz.lines = FALSE))
+with(dat2, gantt_plot(dialogue, person, title = "Koontz v. St. John's Argument Viz",  
+xlab = "Argument Duration", ylab = "Speaker", x.tick=TRUE, minor.line.freq = NULL, major.line.freq = NULL, rm.horiz.lines = FALSE))
 ```
 
 ![pic](https://camo.githubusercontent.com/a13bc83dba83684e3acf0390c1454e282c460513/687474703a2f2f706174656c6c69732e66696c65732e776f726470726573732e636f6d2f323031342f30342f72706c6f74362e706e67)
