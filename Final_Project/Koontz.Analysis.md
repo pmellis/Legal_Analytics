@@ -50,3 +50,20 @@ xlab = "Argument Duration", ylab = "Speaker", x.tick=TRUE, minor.line.freq = NUL
 
 ![pic](https://camo.githubusercontent.com/a13bc83dba83684e3acf0390c1454e282c460513/687474703a2f2f706174656c6c69732e66696c65732e776f726470726573732e636f6d2f323031342f30342f72706c6f74362e706e67)
 
+####Formality Analysis
+
+Formality is how contextualize a person's language use is. In situations involving what may be new content/context for an audience, a speaker may be more formal in their speech (Heylighen & Dewaele, 1999a, 1999b, 2002). Heylighen & Dewaele (2002) have developed a measure of formality based on categorizing parts of speech into contextual/formal categories. Heylighen & Dewaele's (2002) F-measure is calculated by finding the difference of all of the formal parts (f) of speech (noun, adjective, preposition, article) and contextual (c) parts of speech (pronoun, verb, adverb, interjection) divided by the sum of all formal & contextual speech plus conjunctions (N). This quotient is added to one and multiplied by 50 to ensure a measure between 0 and 1, with scores closer to 100 being more formal and those approaching 0 being more contextual. 
+
+```{r}
+#parallel about 1:20 on 8 GB ram 8 core i7 machine
+v1 <- with(dat2, formality(dialogue, person, parallel=TRUE))
+plot(v1)
+#about 4 minutes on 8GB ram i7 machine
+v2 <- with(dat2, formality(dialogue, person)) 
+plot(v2)
+# note you can resupply the output from formality back
+# to formality and change arguments.  This avoids the need for
+# openNLP, saving time.
+v3 <- with(dat2, formality(v1, person))
+plot(v3, bar.colors=c("Dark2"))
+```
