@@ -109,7 +109,7 @@ POLARITY BY GROUP
 11   WOLFSON              67        1459        0.059
 ```
 
-*Note:* This function also allws us to determine total sentences and words spoken.
+*Note:* This function also allows us to determine total sentences and words spoken.
 
 To plot:
 
