@@ -1,11 +1,11 @@
 ##Koontz v. St. John's River Water Management
 
-####Facts of the Case 
+####Facts of the Case* 
 In 1994, Coy A. Koontz requested a permit from St. John’s River Water Management to develop more of his land than the original permit allowed. St. John’s had jurisdiction over Koontz’s land. St. John’s agreed to issue the permit on the condition that Koontz deed the rest of his property into a conservation area and do some mitigation work on the surrounding areas. Koontz agreed to the deed but not to the mitigation work. St. John’s denied the permit application.
 
 Koontz sued St. John’s River Water Management, and the trial court found in favor of Koontz. A Florida trial court held that St. John’s actions effected a taking of Koontz land and that imposing requirements for the issuance of a permit is only constitutional if the required action serves the same governmental purpose as the ban on development. Florida's Fifth District Court of Appeal affirmed. The Supreme Court of Florida reversed.
 
-###Issue
+###Issue*
 Is the government liable for a taking when it refuses to issue a permit until the landowner has agreed to dedicate personal resources to a public use?
 
 This case was argued on Tuesday, January 15, 2013. The following is a semantic analysis of that argument:
@@ -127,7 +127,11 @@ qheat(poldat2[["group"]], high="green", low="white", grid=NULL, order.b="ave.pol
 
 ![pic](http://patellis.files.wordpress.com/2014/04/rplot03.png)
 
-###Conclusion 
+###Conclusion* 
 ![pic](http://patellis.files.wordpress.com/2014/04/untitled2.png)
 
 Rinse and repeat . . . 
+
+===============================
+
+The * information comes from [Oyez.org](http://www.oyez.org/cases/2010-2019/2012/2012_11_1447).
