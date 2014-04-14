@@ -1,0 +1,599 @@
+BEARD: Thank you, Mr. Chief Justice, and may it please the Court
+ 
+This case is about the extent to which Nollan and Dolan review should be made available to individuals to challenge excessive exactions imposed as conditions to land use approval.
+ 
+Here, before he could make small use of his property, Coy Koontz was told by the district that he had to finance enhancements to  acres of publicly held --
+ 
+GINSBURG: Let’s back up. When he asked for a permit, he voluntarily said, As mitigation for the loss of wetlands, I am going to voluntarily create a conservation easement on the rest of my property. So he recognized from day one that there had to be some mitigation for what he was seeking to do in the permit. Is that right?
+ 
+BEARD: That is correct. With his application, Justice Ginsburg, he did offer a mitigation in the form of a conservation easement on most of his property.
+ 
+GINSBURG: And if he had offered nothing and he just said, I want this permit to develop my land, and the agency said, You have offered no mitigation, we deny your permit, would he have a claim?
+ 
+BEARD: If there was no condition attached to the permit denial, then there would be no claim; although it would be up to the district, under Nollan and Dolan, to make the individualized determination, both of the amount of impact to wetlands and the amount necessary to offset.
+ 
+GINSBURG: Suppose he just put in the application, no mitigating -- no mitigation of any kind, and the agency says no. You recognize that he would have no claim, right? That he had an obligation to mitigate.
+ 
+BEARD: It depends, Your Honor. If the denial was based on the idea that he was obligated to offer mitigation, and that was the extent of the district’s communication with him -- in other words, that the district told him, You must offer us something, we won’t tell you what and we’ll let you decide what you  want to offer in mitigation -- if that was in the record, and that was the -- and the result of that was a permit denial because Mr. Koontz said, for example, Well, gee whiz, I don’t know how much I need to mitigate for, you haven’t told me, I still believe there would be a Dolan violation because in Dolan the Court made clear, there has to be an individualized determination --
+ 
+SCALIA: For what? For what? You wouldn’t -- you wouldn’t know what property was taken.
+ 
+BEARD: He wouldn’t know where --
+ 
+SCALIA: You are posing a situation in which he never came forward with any suggestion. They never came forward with any suggestion. You say he still has a cause of action for a taking?
+ 
+BEARD: Not for --
+ 
+SCALIA: A taking of what?
+ 
+BEARD: Not for a taking, Your Honor, but he -- he may have a cause of action under Nollan and Dolan for the imposition of an unconstitutional condition that may not -- the contours of which may not be known. But the fact that the district told him, You need to --
+ 
+SCALIA: I think the other side says that you may have such a cause of action here.
+ 
+BEARD: Excuse me, I didn’t understand.
+ 
+SCALIA: Wouldn’t -- wouldn’t the other side in this case acknowledge that you have such a cause -- that you may have such a cause of action here?
+ 
+BEARD: Yes, Your Honor. I believe they -- well, their argument --
+ 
+SCALIA: They are just saying you don’t have a cause of action for a taking.
+ 
+BEARD: That is correct. They are saying that we don’t have a cause of action for a taking. Of course, in Nollan and Dolan, there was no transfer of property from the applicant to the relevant agencies. As this Court will recall in both Nollan and Dolan, there was an imposition of an exaction and immediately the applicant in both cases sued to prevent the unlawful exaction from being consummated. So --
+ 
+SOTOMAYOR: Counsel, I’ve had a problem with your argument, okay? From the record it’s very clear that a conservation offer is not considered mitigation because there’s still a net loss of wetlands. The policy is abundantly clear, stated, and undisputed. Okay?
+ 
+So, given that policy, why are we even in this case? Meaning whether there was an exaction or no exaction or whatever happened in terms of the denial, you couldn’t win on your offer because the policy of the  State was clear, and in my mind, unassailable. We have to preserve wetlands. Conservation of other wetlands is not enough. Mitigation means make sure that we get a net gain of wetlands.
+ 
+So why are we here?
+ 
+BEARD: Justice Sotomayor, we don’t contest the legitimacy of the policy, of course, in preserving wetlands; nor do we contest, for that matter, the ratios that the district has imposed via its regulations.
+ 
+It is undisputed, the trial court found below and the Court of Appeals affirmed and the finding was undisturbed in the Florida Supreme Court, that in fact the offsite mitigation, that part of the mitigation that went beyond the conservation easement, was in excess; it violated Nollan and Dolan. So the underlying factual findings are not in dispute.
+ 
+GINSBURG: I think you -- I think you have a problem with that, Mr. Beard, because if you look at the record, the record is very clear that it was not -- that the district didn’t come back and say, Take it or leave it, you -- you improve our wetlands or you get no permit.
+ 
+There was and if you -- they are set out in the Respondent’s brief at pages  to , oh, at least  half a dozen, maybe more, that the district said here are several ways, several ways that you could sufficiently offset the adverse impact. And some of them had nothing to do with improving the government’s own land.
+ 
+So if we can’t -- we really can’t say this was a take it or leave it, either you do the improvements that we are asking you to do or you get no permit, what do you do with the fact that as the appendix certainly bears out, that the district offered a range. It offered many, many ways that this permit might be granted, and then it says, Then you are free to come up with some other, something else.
+ 
+BEARD: Justice Ginsburg, it’s true that there were negotiations and that a range of offers were made. On Mr. Koontz’s application to use . acres of his property in conjunction with the conservation easement, the district made a final decision denying him his permit because he would not go beyond the easement and offer offsite mitigation. And that is --
+ 
+GINSBURG: And that is because he wouldn’t go beyond what he was offering, but that’s -- some of these options -- - one was that he -- that he adjust the size of his project, that he make it smaller. The staff suggested eliminating -- no, that’s a  different one. But there was one that suggested that he -- he reduce the scale, the Petitioner reduce the scale of his project to  acre, and preserve the rest for the conservation easement.
+ 
+Now, if he took that, would you have any -- any case here?
+ 
+BEARD: I’m sorry, Justice Ginsburg? If we took --
+ 
+GINSBURG: If they said, we will give you a permit if you reduce the scale of your project to  acre, and then preserve the rest by a conservation easement.
+ 
+BEARD: Unlikely not, Your Honor, because the trial court did conclude based on the evidence that he was having minimal impact on any viable wetlands. And so even a reduction in the size of the project with an increase in the amount of mitigation would have a fortiori gone beyond even what we have in this case.
+ 
+The court of appeals made clear as a matter of law that Mr. Koontz was entitled to a determination on the application he submitted. He submitted that application and, as the district admitted in a pretrial statement right before trial, the denials were based exclusively -- and this is a quote -- “the denials were  based exclusively on the fact that the plaintiff would not provide additional mitigation to offset impacts from the proposed project.”
+ 
+KAGAN: Mr. Beard, can I go back to Justice Ginsburg’s first question and make sure I understand your answer to it? Suppose that the State just had a policy that said, we’re concerned about wetlands; in order to develop your piece of property, you have to come forward with a proposal, a mitigation proposal, and an adequate mitigation proposal. And then it gives some guidance about what an adequate mitigation proposal would mean, but it really leaves it up to the landowner.
+ 
+And the landowner says, sorry, I’m not giving you anything. I think I should be able to develop this on my own without providing any mitigation. And the State says, well, then, sorry, you don’t get a permit.
+ 
+Is that a taking? Does the man have a takings claim? I heard you answer the question yes.
+ 
+BEARD: My answer was that he may have a Nollan-Dolan claim. I don’t want to get confused about the term “taking,” because “taking” could imply many types of regulatory takings claims.
+ 
+KAGAN: Well, that’s the next question I was going to ask you, because my understanding of Nollan and Dolan was that it assumed the conditions, if taken alone, would constitute a taking.
+ 
+Do you disagree with that?
+ 
+BEARD: I do not disagree with that, Your Honor.
+ 
+KAGAN: Okay. So then you need a taking someplace in the picture. Isn’t that right? Nollan-Dolan said this is how we analyze takings in the context of a permit scheme. So we have to look for a taking. So in my example, where is the taking?
+ 
+This was Justice Ginsburg’s example.
+ 
+BEARD: Right. And I think that’s correct, that under Nollan and Dolan you would have to have a condition that was imposed on you.
+ 
+My only point was would it be lawful, would it be a problem in the district shifting its burden on to the applicant and saying We’re not going to establish what mitigation is required; we’re not going to establish what the impacts are; we’ll leave that up to you; you give us what you think is necessary.
+ 
+KENNEDY: Suppose the district did have, as I think it did here, a uniform policy that for every acre you develop, you have to preserve   wetlands,  acres of wetlands.
+ 
+And then two cases, both hypothetical. One is somebody had an -acre parcel and they want to develop  acres, and they have  acres that they mitigate for wetlands. The other person has only  acre and he wants to -- and he has to develop the whole acre. Can the district then say, we’ll give you the -acre development permit if you reclaim wetlands on  other acres that you -- that we can designate for you elsewhere?
+ 
+The hypothetical being designed to point out whether or not the crux of your argument is that he had to go off offsite.
+ 
+BEARD: The crux is not that he had to go offsite, but that -- that did play into the trial court’s analysis as to the connection between his impact and what was being required. And there was testimony below that there was no connection there. And the fact that the mitigation was  to  miles away played into the analysis as to whether there was a connection.
+ 
+KENNEDY: So in my hypothetical you would -- would there be a violation in my hypothetical as you understood it?
+ 
+BEARD: It depends, Your Honor, because you have to determine what in each respective  hypothetical, what the impact was actually to the wetlands, and then determine what the appropriate mitigation --
+ 
+SOTOMAYOR: How do you decide whether the agency has done that right or not?
+ 
+BEARD: Excuse me?
+ 
+SOTOMAYOR: How do you normally decide? Let’s assume Justice Kagan’s question or Justice Ginsburg’s question. No -- it just says, come to us with a mitigation plan. And you say, this is what I offer and it’s enough. And they say, no, it’s not enough; denied.
+ 
+Would you go through the State administrative process to figure out whether that was arbitrary and capricious, whether it was a Penn Central violation? What would you do with that claim in the normal circumstance? Justice Kennedy’s question.
+ 
+BEARD: In the normal circumstance, if there was no condition imposed, there would not be a Nollan and Dolan claim. There may be another kind of claim, say, under Penn Central. And that could be brought. That wouldn’t have to be brought via administrative remedies if there was a final agency action.
+ 
+SOTOMAYOR: It would be an inverse  condemnation.
+ 
+BEARD: Correct. It could be an inverse condemnation type of a claim.
+ 
+BREYER: So what I think might be driving some of these questions is the district court says, just as you say, had Koontz offered additional mitigation, the additional, that would have cost $,, he would have gotten the permit. That’s what he said.
+ 
+So then you look back to see what additional mitigation. And here we have in the record, at least that my law clerk finds, he noted that they went to Koontz and they said, here are some choices Install a subsurface stormwater management system in the development, I mean right on your land; or reduce the size to acre; or eliminate the filling of the slide slope areas; or replace  culverts and eliminate a ditch system somewhere else; or enhance  acres somewhere else.
+ 
+Now, at that point -- and then they said, won’t you negotiate for  more days, maybe we can find some other things?
+ 
+He says, no, I’ll bring a lawsuit. Okay. Now, I absolutely can see a Penn Central claim there. But the land -- what you’re talking about is not some land somewhere off the site. We’re talking about his land. If after all they said you have to leave all the coal in the mine to hold up the ceiling -- you know what I’m referring to?
+ 
+Then they go too far. And here, if we look at all these conditions proposed and said -- you know, this is just terrible, they don’t do it for anybody else, your client’s the only one, it bears no relation, oh, it just goes too far, you win under Penn Central.
+ 
+So I can see the framework here. I’m not saying you’re going to win, but I got it clear what the framework is. But suddenly you bring this Nollan-Dolan business into it and I get confused. And the reason is because there was a different piece of land in Nollan and Dolan.
+ 
+The piece of land that was different was an easement in front of -- and an easement is a piece of property in Nollan, and there was a bike path in Dolan, right across his property.
+ 
+So I don’t see how Nollan and Dolan have to do with this.
+ 
+I see everything that Penn Central has to do with it, and that grows out of the nature of what was being offered. You were saying what they are offering you is simply going too far. Okay. I’ve got that  conceptually.
+ 
+I ask this question because all these briefs are about Nollan and Dolan, and I don’t understand what they have to do with it. I must be missing something, and that’s why I am asking you.
+ 
+BEARD: Justice Breyer, Nollan and Dolan fundamentally are about whether a property owner has been singled out to bear public burdens.
+ 
+BREYER: But of course, they are land claims because they took a piece of land which everybody assumes -- right in front of his house -- and said you’ve got to let everybody from the beaches walk back and forth from one beach in the north to another one in the south.
+ 
+And they are going to walk over your land. And the Court said you can’t take his land unless you have a nexus to some public purpose that is related to his building the house.
+ 
+I got it. I just don’t see what it has to do with this case.
+ 
+BEARD: Because you can have an unconstitutional condition imposed on your right to do something, in this case make use of your property. And the --
+ 
+BREYER: Of course you can. You backed out too much coal. That’s an unconstitutional condition. It goes too far, and there is a framework called Penn Central which deals with it.
+ 
+BEARD: Penn Central is a special takings case that goes to the question of whether a regulation of the use of property that is sought to be developed has gone too far so as to affect the taking. Penn Central is not --
+ 
+SOTOMAYOR: Which -- how does that not address going too far? You just said it. If -- if this is unrelated to the denial of your permit of all uses of your land and you’re saying that’s the problem, which is I still have a use, I just want more, why does that entitle you to your lost profits? When were you ever entitled to start with the claim that somehow you’re entitled to a permit as a matter of law?
+ 
+BEARD: We’re entitled under the Unconstitutional Conditions Doctrine to not have to bear a public burden that has no bearing on the impact that we’re trying to use on our property.
+ 
+SCALIA: Yes, that’s fine. That -- that would enable you to challenge the denial of the permit, saying it’s based upon an unconstitutional condition. But how does it -- how does it enable you to say there’s been a taking? What has been taken?
+ 
+BEARD: What has been -- what has been taken in effect is his funds that have to be put now to a public use, the enhancement of  acres of public wetlands. And there is nothing in the takings clause, nothing --
+ 
+SCALIA: It hasn’t -- it hasn’t been taken. I mean, he turned it down.
+ 
+BEARD: Nothing was taken in Nollan and Dolan, either. What was proposed there, though, was a threat of a taking.
+ 
+SCALIA: The -- the -- the permit was granted in Nollan and Dolan. And -- and the condition attached to the permit, therefore, took effect; namely, that you had to dedicate this easement over your -- over your beach whereas -- as my colleague pointed out, anybody could walk back and forth barefooted.
+ 
+(Laughter.)
+ 
+BEARD: Justice Scalia, in Nollan and Dolan, there was approval -- approval with conditions. There were no permits issued, and that’s -- that is an important distinction to make that most agencies, including this one, you approve a permit with a -- with conditions, which means, We will give you your permits as soon as you comply; which is substantively the same  as saying, We won’t give you your permits until you say yes to our conditions.
+ 
+BREYER: All right. But it’s the same question. I just want an answer to my question. And for the purposes of this question, I am assuming enormously in your favor. I am assuming that this set of conditions is the worst thing since sliced bread.
+ 
+(Laughter.)
+ 
+BREYER: I think there -- all right, I’m assuming that in your favor. All right.
+ 
+SCALIA: Sliced bread’s supposed to be good.
+ 
+BREYER: No, no, it’s been proved bad.
+ 
+(Laughter.)
+ 
+BREYER: But -- but in any case, the -- the -- the point is, you see, I assume that in your favor. I’m trying to figure out the conceptual framework. I assume that in your favor. I assume whether they didn’t issue the permit and would have, but they haven’t quite or maybe they have, it means nothing.
+ 
+Now, having assumed that, it seems to me what your argument is, is that this is a form of regulatory taking of the kind that Holmes was talking about, and that -- that’s what was going on in Penn  Central, and so we simply look to see if it went too far or whatever. The lower courts could do that. I got that part.
+ 
+Now I want you to answer the question, which is, am I right? Is there another part, a different part to this case called the Nollan, Dolan part and explain that to me. That’s why I asked the question. I want to hear what you’re going to say.
+ 
+BEARD: Justice Breyer, there is another part, a very distinct part, and that part goes to the question of the condition that produced the denial. So there are -- there are actually two parts here. There’s the conditioning of your permit. In other words, We will not issue you permits unless you agree to perform offsite mitigation.
+ 
+Now, the question under Nollan and Dolan is, was that condition constitutional? Was he asked to give up something that the State or the district in this case should not have asked him to give up in exchange for his right to use his property?
+ 
+Now, it’s true as -- as, Justice Breyer, you mentioned, that the permit denial and whether that affects a regulatory taking of his land, of the thing he wants to use, that’s an entirely different question, and it may raise another kind of claim, another kind of taking claim.
+ 
+But the crux of the claim that was litigated in this case from the trial court all the way up to the Florida Supreme Court is Was the condition to perform offsite mitigation, and that was accepted as true by the courts below, that this was a condition that had been --
+ 
+GINSBURG: Suppose the record just doesn’t bear that out. The record shows that it wasn’t one option. They gave him a laundry list of things he could do, some of them having nothing whatever to do, anything off his own property. Suppose the -- whatever the district court might have said, the record shows that the agency said, You’re right, seven things you could do, come up with something else if you have something else. And some of them have absolutely nothing to do with other properties.
+ 
+BEARD: We agree that there were negotiations and that even in the orders allege that various options were provided to Mr. Koontz, but ultimately the decision, as the district admits, the decision, the final decision to deny the permit application for . acres of use was Mr. Koontz’s refusal to acquiesce in the condition that he perform  acres of offsite improvements. And by the way, the reference --
+ 
+GINSBURG: Where -- where is that?
+ 
+BEARD: It’s in the Joint Appendix, pages  to , which is the pretrial statement where each party sets forth his and her position. There the court -- I’m sorry -- the district made clear that the condition that had been refused and was the cause of the permit denial was the one to perform offsite mitigation at a cost of a range between $, on the low end, our experts said in the range of  to , --  to ,.
+ 
+So, the district later on, even in the Florida Supreme Court, Justice Ginsburg, said in its petitioner’s brief on jurisdiction at page  that it required additional mitigation before it would authorize the permits and that quote “Additional mitigation would be offsite because the available conservation land on site was, in the district’s view, insufficient mitigation.”
+ 
+So there’s no question that an actual condition was imposed, whose rejection produced a permit denial.
+ 
+KAGAN: Mr. -- Mr. Beard, I don’t think anybody is contesting that there was a condition imposed or maybe there are. But -- you know, there’s another question whether that position is a taking. And we’ve been trying to figure out what’s the taking here. In Nollan and Dolan, they took an easement, they took a piece of land. So that’s the taking. Now, you said the funds are the taking; is that correct?
+ 
+Any time that somebody comes up with a proposal for -- for a developer to pay money in order to compensate the State for the costs that are associated with his development, that that is itself a taking?
+ 
+BEARD: I want to be clear that we’re not saying that all monetary fees or exactions would be subject to Nollan and Dolan, only within the permit context, the special context of land use permitting.
+ 
+KAGAN: No, I understand. But in the permit context, a State can’t say to somebody, You have to pay to perform some service or to compensate without it being a taking and without it being subject to Nollan and Dolan analysis.
+ 
+BEARD: Correct. If the State or the government or the permitting authority asks for the -- for the property owner to give up property, even money to be put to a public use and it’s not an application for your user fee or something like that, it’s for mitigation, that should be subject --
+ 
+KAGAN: So -- so, for example, and I’ll try to do this very quickly, if -- if the State  just had a policy for every acre of wetlands you fill in, it costs us $,, you need to pay $,, that’s subject to Nollan and Dolan analysis, too.
+ 
+BEARD: Correct, it would be subject to Nollan and Dolan analysis to determine if they’re really on the ground, there’s a connection between the impact --
+ 
+SCALIA: No, it would be subject to Nollan and Dolan analysis if they took the $,. If they issued the permit, the developer went ahead with the development and the State then attached the bank account in the amount of $, or whatever, that would be Nollan -- and Nollan and Dolan -- in Nollan, there was a taking.
+ 
+He had gone ahead with the -- with the development of his house under the permit which said if he did that, he gave away the easement. So there -- there was a -- a taking there. The easement would have been taken automatically.
+ 
+In -- in -- in Dolan, there was -- the individual had not gone ahead with the development, but it was clear that any development the person undertook would be subject to the -- the exaction that the municipality required. So there was a -- a taking there, we said.
+ 
+Here, there’s nothing that happens. The permit was denied, unlike in -- unlike in -- in Dolan where the permit was granted and it was understood that if she went ahead with it, she was going to lose -- lose some land rights. Here, the permit’s been denied. I can’t see where there’s a taking here. Nothing’s been taken.
+ 
+BEARD: In Nollan and Dolan, Your Honor, nothing was taken, either. In Nollan you had a permit approval with conditions. It’s true that development had not gone forward, but here as well development had not gone forward.
+ 
+Presumably -- theoretically if the development had gone forward he might have been subject to conditions that he would have had to satisfy. But I would submit to the Court --
+ 
+SCALIA: The permit had issued. The permit had issued in both of those cases, and therefore the person was saying: To go ahead with this permit I give up this land.
+ 
+BEARD: The permits in Nollan and Dolan actually did not issue. There was only approval with conditions and there is a difference. And that is no different from what happened here. The threat is the same. You don’t get a permit issued to you until you --
+ 
+SCALIA: There was no approval with conditions. There’s one thing for a municipality to issue an approval with conditions, and a municipality saying we can’t approval it unless you agree to these conditions. And the person doesn’t agree and the municipality says we don’t approve it.
+ 
+BEARD: But in either case he faces the threat, the unconstitutional condition on his use of his property: You don’t get your use until you comply with our conditions.
+ 
+Mr. Chief Justice --
+ 
+KENNEDY: I have one question. I know you are running short on your rebuttal time. Assume that when we look at this record, assume we think there is a due process violation, not a taking violation. That is not before us here, is it?
+ 
+BEARD: No. The due -- there is no due process claim here. There is only a State statute that embodies sort of a due process standard, but there is no due process claim here.
+ 
+And may I reserve the balance of my time, Your Honor?
+ 
+ROBERTS: And I will afford you some additional time since our questioning intruded on yours.
+ 
+BEARD: Thank you.
+ 
+ROBERTS: Mr. Wolfson?
+ 
+WOLFSON: Mr. Chief Justice and may it please the Court
+ 
+The parties agree that Florida may require a landowner to perform mitigation as a condition for a permit that would allow the destruction of a wetlands. The parties disagreed as to how much mitigation was appropriate in this case.
+ 
+The district thought that Mr. Koontz’s proposal was insufficient to mitigate the damage to wetlands. Mr. Koontz rejected the district’s counterproposals and he refused to do anything more. And the district denied his permit application because he refused to do anything more.
+ 
+ROBERTS: Does it make any difference in his refusing to do anything more whether the condition is onsite or offsite?
+ 
+WOLFSON: I don’t think it makes any difference, Mr. Chief Justice. I mean, the -- under the Florida regulatory regime, we cannot demand certain conditions from the landowner. The -- we are obligated -- if the -- if the permit -- the landowner  has to establish under his permit application, and it’s his burden, that he meets the various standards, the public interest standard which includes no adverse impact --
+ 
+ROBERTS: State law provisions you are talking about.
+ 
+WOLFSON: Correct. Correct.
+ 
+ROBERTS: What about is there anything in the Federal Constitution that limits the conditions that you can demand?
+ 
+WOLFSON: I don’t -- not -- not -- if I understand your question, Mr. Chief Justice, I don’t think so. I think that the question is, when you are talking about what analytical rubric you should apply, whether it be Nollan or Dolan or Penn Central, I think you can always argue that the impact of any of the conditions that we would demand -- and I will assume here that they are true demands -- you can always argue that the impact of the conditions, be they onsite, offsite, or monetary, would be so burdensome that it would called into play Penn Central or --
+ 
+ROBERTS: But there is no, there is no restraint on the agency. It can ask for the moon -- before it will give a permit?
+ 
+WOLFSON: Well, I don’t -- I think that  Penn -- first of all, I think there are many restraints on the agency. First of all, I think Penn Central imposes a restraint on the agency.
+ 
+ROBERTS: Do you know of any case where the government has lost a Penn Central case?
+ 
+WOLFSON: Yes. There are several in this case, Mr. Chief Justice. I mean, Hodel v. Irving is a Penn Central case, I believe, and I think Kaiser-Aetna was also a Penn Central case.
+ 
+ROBERTS: May we -- I’m sorry.
+ 
+WOLFSON: It does -- it certainly doesn’t --
+ 
+ROBERTS: It doesn’t happen very often.
+ 
+WOLFSON: Well, it is -- certainly the burden is on the landowner. But I think that Penn Central, I think in Lingle when this Court tried to sort of restore some coherence to the takings jurisprudence and repudiated the Agins point, the Court pointed out that they -- that the normal -- sort of the normal jurisprudence is that the government is not required to establish by a heightened scrutiny sort of that there is a connection between means-ends analysis when it engages in economic regulation. And that --
+ 
+ROBERTS: Just to nail it  down, your position is that there is no limit in the Federal Constitution on what the agency can demand as a condition for the issuance of a permit?
+ 
+WOLFSON: No, no, no, I don’t think that is our position. First of all, the Due Process Clause may certainly impose conditions. The Equal Protection Clause may certainly impose conditions.
+ 
+ROBERTS: But the Takings Clause does not.
+ 
+WOLFSON: If the conditions are so onerous that it would make it essentially impossible to derive any value from the land, that may very well call into question Penn Central or Lucas. I mean, in many ways this case could have been litigated as a very straightforward Penn Central case.
+ 
+KENNEDY: Suppose -- suppose the agency said, we are really short of revenue; we will let you develop your land if you contribute a million dollars to our new football stadium.
+ 
+WOLFSON: Justice Kennedy, I think that that may very well raise a Penn Central or Lucas claim. It also sounds like --
+ 
+SCALIA: It doesn’t raise Penn Central. You keep on running away from it by saying Penn Central or Lucas.
+ 
+WOLFSON: Well, it’s not --
+ 
+SCALIA: It does not deprive the land of all value. The land still has some value. Penn Central is totally out of the case.
+ 
+WOLFSON: It’s not a Nollan or Dolan claim is my point, Justice Kennedy, and it’s not a Nollan or Dolan claim because it’s not a -- the, as my friend acknowledged, the question in Nollan and Dolan or the rationale of Nollan and Dolan is would the condition by itself, if demanded unilaterally and outside the permitting context, would that have been a taking of property for which just compensation would have been required.
+ 
+ROBERTS: Sure it would have been. Sure it would have been if they just went along -- to a landowner and the landowner is there minding his own business and they say, well, you own some property, so give us a  million dollars to build a football stadium. That would be -- that would be unconstitutional, right?
+ 
+WOLFSON: I think that would -- I mean I think that would violate, could well violate the Due Process Clause. It’s hard to see what the rationality of it is. But I don’t think that this Court has ever extended the concept of a taking to requirements that a  landowner, that anybody or a landowner, either pay money or, more importantly because I think what really is this case, is come into compliance with a regulatory requirement that would have -- which he would have to expend money to comply with.
+ 
+ALITO: I’m trying to understand what would be -- what would be left of Nollan and Dolan if we agree with you. Let me give you three situations. First, the petition -- the district says, we are granting your permit on the condition that you give us one-third of your land. That’s Nollan and Dolan, right?
+ 
+WOLFSON: Yes.
+ 
+ALITO: Okay. Situation number : Permit is denied, but it will be granted if you give us one-third of your land. What about that?
+ 
+WOLFSON: I think in that situation, in other words, if the situation is really exactly the same like Nollan and Dolan, but the permit is denied but it’s clear that it is a concrete -- concrete condition, the landowner can go up through the judicial review process and say, this is -- you know, the denial of the permit application is predicated on an unconstitutional condition, and you should set that aside.
+ 
+ALITO: Is that the same as the first example for purposes of Nollan and Dolan?
+ 
+WOLFSON: Almost. Almost, Justice Alito.
+ 
+ALITO: All right. I want to get to my third. The permit is denied but it will be granted if you give us the fair market value of the third of the land, and once you have done that then we’re going to condemn your land and pay you the fair market value for it.
+ 
+WOLFSON: Justice Alito, I think that this Court’s decision, this Court decision in Village of Norwood, essentially says if what is going on is just a pure contrivance to avoid the requirement of compensation in the Just Compensation Clause, that the Court has said, no, it will look through to the substance of the demand and determine that there was -- you know, essentially an evasion of the just compensation requirement.
+ 
+SCALIA: As I understand your position, cash is magical, right? The government can come in and come into my house, take all of the cash that’s there, and that is not the basis for takings claim, right? Because cash is not -- is not a taking. Does that make any sense?
+ 
+WOLFSON: First of all, Justice Scalia, of course this case we don’t believe involves cash. It  involves a requirement to do something that costs money, which is different than cash. Cash is -- the problem with extending -- the problem with extending the takings concept to a monetary obligation which can be paid for out of sort of undifferentiated funds --
+ 
+SCALIA: Right.
+ 
+WOLFSON: -- is that it has no logical stopping point. I mean, the court --
+ 
+SCALIA: The stopping point is don’t take my cash. Your answer to my question is: That’s okay, it’s not a taking, right? I may have some other cause of action, but not a -- not a taking? The government’s come in and taken my money.
+ 
+WOLFSON: It’s not a -- it’s not a Nollan and Dolan claim for the government to say if you want --
+ 
+SCALIA: I’m not talking Nollan and Dolan. I’m talking about your position that the taking of cash cannot be a taking.
+ 
+WOLFSON: Well, if a -- I’m sorry, Justice Scalia. If the government is seizing the identifiable dollar bills that are in your house, I mean that sounds more like a case like --
+ 
+SCALIA: I see, I see.
+ 
+WOLFSON: Webb’s Fabulous Pharmacies,  where --
+ 
+SCALIA: If they -- if they say, You have to turn over to us whatever money you have in your house, or you have to turn over to us whatever’s in your bank account, that’s not a taking.
+ 
+WOLFSON: Justice Scalia, I think there are many -- there are many constitutional claims that could be made. And I also want to add, there is an extensive overlay of State law in this area that protects landowners from arbitrary, irrational, intrusive, excessive demands by government agencies.
+ 
+ROBERTS: One of the things the Federal provision, the Takings Clause, is designed to prevent property owners from having to bear the costs that should be borne by the people as a whole. The football stadium example. There is no reason that a particular landowner should have to pay for the football stadium simply because he owns property.
+ 
+The Takings Clause was designed to make sure that those exactions are not imposed on property owners but spread more evenly across the citizens who benefit from it.
+ 
+And I guess I don’t understand why you say that the Takings Clause is the one provision that doesn’t apply in that type of situation.
+ 
+WOLFSON: Mr. Chief Justice, the -- the Armstrong policy of the -- that the government -- that an individual person should not be forced to bear what society should -- what should be spread to society as a whole -- is not violated when the government insists that a landowner comply with a generally applicable regulation. Now, of course --
+ 
+ROBERTS: The generally applicable regulation in the football stadium hypothetical is not generally applicable. It says, You are the owner of this property, and if you want to develop it, you’ve got to build a football stadium.
+ 
+WOLFSON: Well, I think that is saying to one particular landowner, You may have to build a football stadium where no other type of similar regulation or requirement would ever be imposed on any other landowner sounds -- you know, like -- you know, sounds like an equal protection claim if the government just picks out one landowner.
+ 
+SCALIA: What if they do it to five or six other landowners, okay?
+ 
+WOLFSON: Then, Justice Scalia, I think you have to ask what -- what regulatory scheme is the government --
+ 
+KENNEDY: Let’s -- let’s put --  let’s put it this way. I take it it’s a given that the government cannot take an easement on your property. It cannot use your property for its own purposes. It cannot park its trucks there. It cannot cut the grass.
+ 
+Why is it that if it can’t do those, it can still force you, as a condition to using your property to its highest and best use, to pay them money?
+ 
+WOLFSON: Well, I think --
+ 
+KENNEDY: Why isn’t that an equal burden -- why isn’t that an equal use of the property by the government?
+ 
+WOLFSON: I think for several reasons, Justice Kennedy. First of all, I think that this nation has a long legal tradition of giving unique legal protection to property as opposed to money. I mean, there are many circumstances -- many circumstances -- where the government can say to an individual, You must give me $,, but cannot say -- or a group of individuals -- but cannot say to the same group or individual, You must give me land worth $,. I mean, there -- that is what the Just Compensation Clause --
+ 
+SCALIA: Really? Gee, that doesn’t strike me as -- as entirely true.
+ 
+WOLFSON: Well, Justice Scalia, the government obviously --
+ 
+SCALIA: You mean a tax that is imposed only on landowners, and it’s -- you know, it’s a tax -- $, per landowner, if that were replaced by a provision that said, Every landowner shall contribute to the State a portion of his property worth $,. That --
+ 
+WOLFSON: I think that would --
+ 
+SCALIA: -- the latter is bad and the former’s okay?
+ 
+WOLFSON: I think that would raise very serious questions. I mean, I don’t know that this Court has ever -- has ever been faced with exactly such a case, but I think that would raise a very serious question.
+ 
+BREYER: So that -- am I wrong about -- I might have this -- I thought the framework roughly is the following: It is not the case that Penn Central applies only where there is a physical invasion of property, or there is total destruction of the value of the property.
+ 
+In those two situations, what we said in Lucas is it applies without case-specific inquiry, but there are another set of cases where Penn Central and McMahon apply with case-specific inquiry. And those to discover whether you have one, you look into such things  as whether the regulation destroys investment-backed expectations, and then you look to the nature of the government interest and the relationships, et cetera. That’s what I thought the framework was.
+ 
+Now, if that’s the framework, then when the government says, I will let you develop your land if and only if you give $, to the Shriners hospital, you would say, I can’t develop my land. And besides, that significantly interferes with my investment-backed expectations. And besides, there is no relation whatsoever. Therefore, I win under the Takings Clause.
+ 
+Now, I spell all that out, because if I’m wrong about that framework -- if I am right about the framework, that could apply to this case. If I am wrong about the framework, I want to know where in the cases I’m wrong.
+ 
+WOLFSON: Justice Breyer, we think that you are right about that framework. That -- and just  weeks ago in the --
+ 
+SCALIA: That surprises me.
+ 
+WOLFSON: Well, just  weeks ago, in the Arkansas Fish and Game Commission case, this Court reiterated that Penn Central is presumed to be the test.
+ 
+BREYER: Okay. So if I’m right about the framework, that takes care of all the  hypotheticals you were asked. In those cases, there is a significant interference with investment-backed expectation, and there’s no justification whatsoever, so the Takings Clause applies.
+ 
+WOLFSON: We agree, Justice Scalia, and we don’t --
+ 
+SCALIA: Justification is the protection of wetlands. That’s a justification. The protection of wetlands.
+ 
+There’s no necessary comparison, as Nollan and Dolan requires, between the harm that would be occasioned if the permit were granted and what the State is exacting in order to mitigate. That doesn’t exist anywhere in -- in the analysis that you are talking about.
+ 
+WOLFSON: Well, Justice Scalia, there are -- there is another problem with the Nollan and Dolan claim in this case, which is, it’s hard to see how you can have an exactions takings claim when nothing has ever actually been exacted.
+ 
+SCALIA: Now, that is a problem.
+ 
+(Laughter.)
+ 
+WOLFSON: Right. And so -- and in this case, if the -- if the claim for the taking -- for the compensation is based on Nollan and Dolan, it seems that  there is a mismatch, and that what the Petitioner is trying to do is sort of take the Nollan-Dolan heightened scrutiny government bears the burden of proof analysis and sort of convert that into what is the regulatory takings analysis for the entire parcel of his land, which is -- which is the measure of damages that he received.
+ 
+So I think that there is the mismatch. And now, this is --
+ 
+ROBERTS: I think that your point goes to the question that has been raised about -- there’s no permit issued. He didn’t accept the permit. And I don’t understand that proposition. Are you saying that if you are confronted with an unconstitutional condition, you have to accept it, and then you can challenge it?
+ 
+You can’t simply say you denied that on the basis of an unconstitutional condition, and that’s wrong?
+ 
+WOLFSON: No, that’s not our argument, Mr. Chief Justice. Florida has opened an avenue for judicial relief for you to go up through the Florida EPA process just like the Federal EPA, where you can say, Stop -- stop the district from doing this to me; they are predicating their -- either their grant or --
+ 
+ROBERTS: Okay. I’m trying to get to the Federal. You often fall back to the State provisions. I’m looking at the Federal Constitution, and assuming the State provisions give you no relief, is it your position that he has no claim unless he accepts a permit with unconstitutional conditions?
+ 
+WOLFSON: If there is no -- if there’s no claimed avenue as I was saying, then I would think we would then -- you would have to obtain -- you have to seek compensation, but your compensation is for the value of your land that was taken.
+ 
+And in Lingle, this Court reiterated that the Takings Clause is not a substantive limitation on the government’s power to regulate.
+ 
+The Takings Clause -- or as I should call it, the Just Compensation Clause -- is a requirement that if -- that the government will pay you just compensation for any property or property interest it has seized from you. It does not -- it does not itself impose a -- a requirement that the government substantively justify its regulation.
+ 
+GINSBURG: Mr. Wolfson, why isn’t it entirely reasonable to say, If you are going to put a condition on a permit, that condition has to have some rough proportionate relationship to the harm that is  being done to the permit -- that seems to me permanently sensible, that if they are going -- if they are going to exact a condition, the condition has to have some discrete proportional relationship to the harm?
+ 
+WOLFSON: Justice Ginsburg, I think that the district thought that they were acting roughly proportional. In other words, we are not saying that the government shouldn’t act -- that government should not act reasonably.
+ 
+But I think when you force these cases into court under the Nollan, Dolan framework, you have a -- you have basically a mismatched and extraordinarily complex situation, and you have -- you run right into what this Court said in Lingle, which is that it is not ordinarily the Court’s jurisdiction -- the appropriate approach to require the government to bear the burden of proof.
+ 
+KENNEDY: Well, in Penn Coal v. Mahon, the government didn’t enter the property. It didn’t take the property in the physical sense of moving in and appropriate it. It just says, congratulations, you have some coal under your land, and we hope you enjoy it because you can’t move it. And we said that is a taking; that is a regulation that goes too far, and it deprived, as Justice Breyer indicated, the owner of  investment-backed expectations, although that word wasn’t in that Penn-Mahon.
+ 
+WOLFSON: Correct. And, Justice Kennedy, nobody is disputing that Mr. Koontz could have made the argument that the regulation goes too far in the sense of the burden on his proposed project. I mean, he had all of those arguments available to him.
+ 
+He bought the -- he says he bought the land before the regulation went into effect. He had investment-backed expectations and all the rest of it. But that is not the claim that he is advancing to this Court.
+ 
+Thank you.
+ 
+ROBERTS: Thank you, Mr. Wolfson.
+ 
+Mr. Kneedler?
+ 
+KNEEDLER: Mr. Chief Justice, and may it please the Court:
+ 
+I would like to emphasize at the outset that Petitioner’s argument that Nollan and Dolan should apply in this context would -- would constitute a radical  change in the -- in the way standard generally applicable regulatory programs are operated.
+ 
+It is standard procedure when someone applies for a permit from the government, it is the permit applicant’s burden to establish that he complies with the regulatory program.
+ 
+Nollan and Dolan shift that burden to the government. That has never been the case under regulation, including land use regulation.
+ 
+SCALIA: What was taken in Nollan and Dolan?
+ 
+KNEEDLER: If --
+ 
+SCALIA: In Nollan and Dolan, wasn’t the easement what was taken?
+ 
+KNEEDLER: That is what -- if -- if the permit had issued and an easement was granted, yes, it was the easement.
+ 
+SCALIA: Well, but it -- wasn’t what was taken unreasonably the ability of this homeowner to make the alterations to his house that he wanted to make? He wanted to add another story and the court -- and the State said, you can’t do it. And its only basis for saying, you can’t do it was, because you wouldn’t give us the easement.
+ 
+KNEEDLER: The basis of the -- the  theory of Nollan and Dolan, and the Court made this clear in Lingle and in Delmonte Dunes, for that matter, is those two cases apply in a specific situation where there is an exaction of a right of access, an easement for the public to enter the land as a condition. And the reason for that, the Court explained in Lingle, there are really two reinforcing points.
+ 
+The first was that there would be public access, which is a permanent physical occupation, which is one of the exceptions to the general Penn Central test for regulatory takings. The other is that it was a per se taking. It was per se that the government could not have acquired that easement for paying -- without paying compensation; therefore, the government could not attach as a condition to the granting of a permit that the person convey something unless it was proportional.
+ 
+So the theory began with the idea that the easement itself would have been -- the taking of that would have been a per se taking. This is a very different situation because the other way in which Petitioner’s theory would constitute a radical departure is that compliance with regulatory programs frequently, maybe almost always, requires the expenditure of money.
+ 
+If someone wants to build a power plant, a coal-fired power plant, he’s going to have to install a  scrubber to protect the air, to prevent no diminution of air quality. Constructing that costs money. It can’t be that the requirement to spend money to comply with a regulatory program is itself a taking. The taking would be --
+ 
+ROBERTS: What about -- what about the football stadium? Do they -- can you pick a particular landowner? I mean, you took a case in which there is no question under Nollan and Dolan about the relationship, proportionality, and nexus. Let’s put those to one side because the issue is whether Nollan and Dolan apply. Can the government say, okay, you want a permit, we will give you the permit if you fund the new football stadium?
+ 
+KNEEDLER: I think in that situation there would be a very substantial equal protection challenge because one landowner is being singled out with no rational basis.
+ 
+ROBERTS: But the one constitutional provision that is concerned with protecting property owners from having to bear burdens that should be borne by the public at large is not applicable?
+ 
+KNEEDLER: Well, that -- it applies when there is an identifiable property taken --
+ 
+BREYER: No, no. Why isn’t the answer yes, it is applicable? Of course it’s applicable. I own a piece of land and they have significantly interfered with my investment-backed expectation.
+ 
+KNEEDLER: Right, right, right.
+ 
+BREYER: And to say that I can’t put a house on this because I’m supposed to pay for a football field, which has nothing to do with it, is as close to insisting that you have to have , columns of coal in your mine so that you can never use it as I can think of. It’s Holmes brought up to date.
+ 
+KNEEDLER: Well, certainly --
+ 
+BREYER: At least that argument would be made --
+ 
+KNEEDLER: Certainly --
+ 
+BREYER: And why wouldn’t it be a winning argument?
+ 
+KNEEDLER: Certainly a Penn Central argument could be made there, but I think that’s very different from a Nollan argument --
+ 
+BREYER: I agree with you --
+ 
+KNEEDLER: -- which -- which imposes the -- the burden on the government and basically treats the payment of money as itself a taking.
+ 
+SOTOMAYOR: Mr. Kneedler, can I go back to the questions presented for a moment? The court below did two separate rulings, I think. One is there can’t be a taking if the -- if the claim is that it’s of an undifferentiated money, not a risk. And I think you would agree with that. If the only issue is an obligation to pay money, that that’s not a takings claim, correct?
+ 
+KNEEDLER: Yes. And this is not even an obligation to pay money. It’s an obligation to spend money to come into compliance.
+ 
+SOTOMAYOR: Right. There was a second holding, however, which really gets eclipsed by the second, which is a denial of a permit doesn’t permit you to raise the Nollan-Dolan case, and it appears to me even if there is an easement situation, so even if there is an actual takings claim at issue. Do you agree with that first holding by the court below?
+ 
+KNEEDLER: We think --
+ 
+SOTOMAYOR: Assuming we narrow it not to undifferentiated money, but is there a difference between a denial or a grant?
+ 
+KNEEDLER: No. If the -- if the agency decision is written where there is an express condition, we don’t think that it matters -- an express condition  satisfying Nollan and Dolan; in other words, an exaction, a per se taking, we don’t think it matters whether the -- whether it’s a permit grant or permit denial. There was no actual taking in the sense that compensation would be owed, but it could be challenged as an unconstitutional condition under the Nollan and Dolan analysis.
+ 
+But we think it’s critical when thinking about that that the permit denial -- that only applies if the permit denial expressly is based on the condition, because otherwise you would get into a situation of negotiations and what was discussed and liability could turn on an exchange of ideas, whereas it should turn on the formality of the agency’s final decision. It’s akin to the Williamson County final decision requirements.
+ 
+ROBERTS: Do you agree -- your friend on the other side cited a number of places in the record where he thought your condition was satisfied, that the denial of the permit was expressly based on the failure to comply with the offered conditions.
+ 
+KNEEDLER: Well, if you look at the orders denying the permit applications in the record at, I believe it’s  to  and  to . In those situations it says the permits were denied because the  plaintiff did not give the reasonable assurances that the statute requires in order to get the permit, the reasonable assurances of no loss of wetlands functions.
+ 
+SCALIA: Isn’t this unreal? I mean, you are saying all along in the negotiations the agency says, If you do X, you get the permit. And X is -- would -- would be an unconstitutional condition. Okay, he refuses to do X. The permit is denied with a general statement like this: The permit is denied because he has refused to do the necessary mitigation. Isn’t it clear that the reason he’s refused to do the necessary mitigation is he has refused the last demand of the agency?
+ 
+KNEEDLER: But the ultimate standard under the statute is whether he has provided reasonable assurances. What assurances -- the way in which he goes about it, whether offsite or onsite -- the offsite part just arises because this is a wetlands case. Normal regulation wouldn’t raise the offsite --onsite problem. But the ultimate question is he didn’t carry his burden of establishing no net loss of wetlands.
+ 
+BREYER: What he’s going to say in part is, I guess, I did a little numbers from your brief, the  million acres in Florida, say about  million are bodies of water, and say a third of them  are built up, and we have  million that are wetland and  million that aren’t. That’s crude.
+ 
+So they’re saying why in heaven’s name are we supposed to -- everybody wants to build, and why should the people that happen to live in wetland have to pay for all the other wetland? That’s just coincidence. So he is going to say that that is like the Shriners Hospital. You are going to say, No, it isn’t like the Shriners Hospital.
+ 
+Now, all I’m saying is, isn’t it at least an issue under the takings clause whether it is or isn’t?
+ 
+KNEEDLER: I think it’s clearly not like the Shriners Hospital --
+ 
+BREYER: I know you’ll say that. He will say that it is.
+ 
+KNEEDLER: But I did want to come back to Justice Scalia’s question. The permit denials, just general permit denials, the Court made clear in Del Monte Dunes are not covered by Nollan and Dolan. They are covered by Penn Central. And the Court made clear in Nollan that the Court could have denied the permit without attaching the condition. We think it’s important that the agency always have that option.
+ 
+And the third point is --
+ 
+ALITO: You made the reference --  you are making Nollan and Dolan a trap only for really stupid districts -- you know. They -- they say the right words and then they are out from under it, isn’t that right?
+ 
+KNEEDLER: Well, I don’t think so because -- because there are situations in which an agency actually wants to get the easement. But this Court, in Lingle, made clear that the general rule is Penn Central with only the two exceptions for regulatory --
+ 
+ALITO: It shouldn’t matter whether the -- whether the permitting authority says expressly in the denial, “it’s denied because you didn’t do this,” or it just says, “it’s denied,” but it’s perfectly well understood what was needed, what they were going to demand in order to get.
+ 
+KNEEDLER: If may I answer, because the agency has to reserve, has to have the ability to deny the permit because the conditions required by the statute were not met, and Nollan and Dolan deal with formality and the formality of conveyance of an easement. If there is not a document that requires that, then the strict requirements for the narrow exception for Nollan and Dolan do not apply.
+ 
+ROBERTS: Thank you,  Mr. Kneedler.
+ 
+Mr. Beard, you have three minutes.
+
+BEARD: Thank you, Mr. Chief Justice.
+ 
+I would just like to point the Court, and particularly Justice Scalia, to pages  and  of our brief on the merits where we describe with citations to the Nollan and Dolan, what precisely happened there. I want to make sure that it’s clear that what they did there was not issue permits. They approved with conditions, but the property owner still had to satisfy the conditions in order to receive the permit.
+ 
+As to the question about --
+ 
+SOTOMAYOR: What do we do with what Mr. Kneedler says is a ruling in your favor on this question, that all denials are subject to Nollan and Dolan? What do we do with that?
+ 
+What’s the -- I see an enormous flood gate here, and one in which we are sending a signal that perhaps States should be more quiet rather than more engaging. They should just say no, because anything they offer is going to be seen as an -- potentially as an unconstitutional taking.
+ 
+They should just plain say no, not explain  why, not engage in any work with you to mitigate.
+ 
+BEARD: Justice Sotomayor, I don’t believe that negotiations will suddenly break down, and we will see a flurry of permit denials if the Court rules in our favor. What will happen, instead -- it’s true, I should say, they will lose flexibility in demanding whatever it is that they want under the Takings Clause.
+ 
+They won’t have any review. But the benefit of applying our rule that says monetary exaction should be treated like other exactions and be reviewed under Nollan and Dolan --
+ 
+SOTOMAYOR: But they’re not. People are asked to pay taxes. Homeowners are asked to pay taxes all the time; development fees if they want to develop something. People are subject to money exactions all of the time in this society.
+ 
+BEARD: No question that we all are subject on a daily basis to government demands that we pay, that we have a financial obligation.
+ 
+SOTOMAYOR: So what happens in just -- when the legislature passes a development fee? Are you now saying that’s subject to Nollan and Dolan, too?
+ 
+BEARD: If the legislation requires an  agency who processes a permit to impose a fee in exchange for a permit -- again, within the land-use context, we are not talking about taxes, homeowners fees, we are talking within the discretionary land-use process -- that is imposed there, then the risk of coercion, undue influence and the like arise and Nollan and Dolan should apply.
+ 
+But I wanted to respond specifically to Justice Breyer’s questions about Penn Central. I think conceptually there is an important difference between the unconstitutional conditions doctrine which is what we seek to apply here, and what would be a permit -- or what would be a Penn Central claim.
+ 
+The unconstitutional conditions doctrine, the offense there is the --
+ 
+ROBERTS: Finish your thought.
+ 
+BEARD: The offense there is the conditioning, the improper conditioning of a permit. It’s not did the condition force me to lose the value in my land. That’s a very different question that a case like Penn Central might answer subsequent to a permit denial.
+ 
+The Unconstitutional Conditions Doctrine focuses exclusively on the permit exaction and on the conditioning, not on subsequent decisions by the  government, for example, to deny.
+ 
+ROBERTS: Thank you, counsel.
+ 
+BEARD: Thank you.
+ 
+ROBERTS: The case is now submitted.
