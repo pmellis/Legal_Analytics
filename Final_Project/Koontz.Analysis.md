@@ -127,4 +127,7 @@ qheat(poldat2[["group"]], high="green", low="white", grid=NULL, order.b="ave.pol
 
 ![pic](http://patellis.files.wordpress.com/2014/04/rplot03.png)
 
+####Conclusion 
+![pic](http://patellis.files.wordpress.com/2014/04/untitled2.png)
+
 Rinse and repeat . . . 
