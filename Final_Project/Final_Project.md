@@ -1,2 +1,1 @@
-###Coding Advocacy: 
-####A Natural Language Analysis of Supreme Court Oral Arguments
+###Coding Advocacy: A Statistical Analysis of the Predictive Power of Supreme Court Oral Arguments
