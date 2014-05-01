@@ -1,4 +1,4 @@
-####CODING ADVOCACY: AN INTRODUCTION TO QUANTITATIVE, VISUAL & COMPUTATIONAL ANALYSES OF SUPREME COURT ORAL ARGUMENTS & SUGGESTIONS FOR FURTHER RESEARCH
+####Coding Advocacy: An Introduction to Quantitative, Visual & Computation Analyses of Supreme Court Oral Arguments & Suggestions for Further Research
 
 
 
