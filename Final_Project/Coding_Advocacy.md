@@ -13,4 +13,15 @@ So there you have it! CNN's legal oracles have spoken and it is simply a matter 
 
 Toobin was, of course, wrong . . . *twice*. But we shouldn’t judge Toobin (too harshly). Even the collective wisdom of the masses via [Intrade](http://www.intrade.com/v4/home/) shifted dramatically in favor of the ultimately wrong outcome following oral argument on the issue. [In Nate Silver’s opinion](http://fivethirtyeight.blogs.nytimes.com/2012/06/27/overconfidence-suggested-in-supreme-court-predictions/?_php=true&_type=blogs&_php=true&_type=blogs&_r=1), this phenomenon may have beeen the result of overconfidence in the value of information.  At best, an overvaluing of the information conveyed in oral arguments. At worst, an overvaluing of oral argument in and of themselves.
 
+!(Intrade)[http://graphics8.nytimes.com/images/2012/06/27/us/politics/0627-scpredictions/0627-scpredictions-blog480.jpg]
+
+But what if it merely an inability to detect the information? A confusion of noise and signals? Many studies have attempted to address this problem and have conjectured that oral arguments do have some predictive power:
+
+- Epstein, Lee, Landes, William M. and Posner, Richard A. 2009. “Inferring the Winning Party in the Supreme Court from the Pattern of Questioning at Oral Argument.” University of Chicago Law & Economics, Olin Working Paper No. 466. 
+- Johnson, Timothy R., Black, Ryan C., Goldman, Jerry and Treul, Sarah. 2009 “Inquiring Minds Want to Know: Do Justices Tip Their Hands with Questions at Oral Argument in the U.S. Supreme Court?”9). Washington University Journal of Law & Policy, Vol. 29, 2009.  
+- Shullman, Sarah Levien. 2004. “The Illusion Of Devil’s Advocacy: How The Justices Of The Supreme Court Foreshadow Their Decisions During Oral Argument.” Journal of Appellate Practice and Process. Vol. 6: 2.
+- Lindgren, Jim. 2005. “Does Asking More Questions Tip the Outcome of Supreme Court Cases?” Volokh Conspiracy.
+
+Their accuracy, consistency, and comprehensiveness is, however, debatable.
+
 
