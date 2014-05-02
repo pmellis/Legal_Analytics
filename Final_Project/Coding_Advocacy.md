@@ -23,7 +23,17 @@ But what if it merely an inability to detect the information? A confusion of noi
 - Shullman, Sarah Levien. 2004. “The Illusion Of Devil’s Advocacy: How The Justices Of The Supreme Court Foreshadow Their Decisions During Oral Argument.” Journal of Appellate Practice and Process. Vol. 6: 2.
 - Lindgren, Jim. 2005. “[Does Asking More Questions Tip the Outcome of Supreme Court Cases?](http://www.volokh.com/posts/chain_1115878999.shtml)” Volokh Conspiracy.
 
-Their accuracy, consistency, and comprehensiveness is, however, debatable.
+Their accuracy, consistency, and comprehensiveness is, however, debatable. Then, and much worse, are the pundits and legal experts who point to “the intangibles” during argument – [such as Mr. Verrilli’s cough](http://www.buzzfeed.com/zekejmiller/solicitor-general-coughs-stumbles-stutters-throu) – that allegedly factor into the calculus of a case’s outcome. I can’t help but think of the scene from Moneyball:
+
+>Scout Artie: I like Perez. He's got a classy swing, it's a real clean stroke.
+Scout Barry: He can't hit the curve ball.
+Scout Artie: Yeah, there's some work to be done, I'll admit that.
+Scout Barry: Yeah, there is.
+Scout Artie: But he's noticeable.
+Matt Keough: And an ugly girlfriend.
+Scout Barry: What does that mean?
+Matt Keough: Ugly girl friend means no confidence.
+
 
 **To be continued . . .**
 
