@@ -5,6 +5,8 @@
 
 ~ Oliver Wendell Holmes, Jr., *The Path of the Law*, 10 Harv. L. Rev. 457, 469 (1897).
 
+####Predicting SCOTUS: Tea Leaves vs. Math
+
 On March 24, 2014, the United States Supreme Court heard oral argument in *Sebelius v. Hobby Lobby Stores, Inc.*, a case presenting the issue of whether the Religious Freedom Restoration Act, which provides that the government “shall not substantially burden a person’s exercise of religion” unless that burden is the least restrictive means to further a compelling governmental interest, allows a for-profit corporation to deny its employees the health coverage of contraceptives to which the employees are otherwise entitled by federal law, based on the religious objections of the corporation’s owners. For 90 minutes, advocates for two corporations and the government addressed complex legal issues while being peppered with questions from the justices.
 
 
@@ -14,7 +16,7 @@ So there you have it! CNN's legal oracles have spoken and it is simply a matter 
 
 Toobin was, of course, wrong . . . *twice*. But we shouldn’t judge Toobin (too harshly). Even the collective wisdom of the masses via [Intrade](http://www.intrade.com/v4/home/) shifted dramatically in favor of the ultimately wrong outcome following oral argument on the issue. [In Nate Silver’s opinion](http://fivethirtyeight.blogs.nytimes.com/2012/06/27/overconfidence-suggested-in-supreme-court-predictions/?_php=true&_type=blogs&_php=true&_type=blogs&_r=1), this phenomenon may have beeen the result of overconfidence in the value of information.  At best, an overvaluing of the information conveyed in oral arguments. At worst, an overvaluing of oral argument in and of themselves.
 
-![Intrade](http://graphics8.nytimes.com/images/2012/06/27/us/politics/0627-scpredictions/0627-scpredictions-blog480.jpg)
+![Intrade](http://static3.businessinsider.com/image/4feb67a3ecad04801300001d/obamacare-intrade.png)
 
 But what if it merely an inability to detect the information? A confusion of noise and signals? Many studies have attempted to address this problem and have conjectured that oral arguments do have some predictive power:
 
@@ -41,7 +43,9 @@ Their accuracy, consistency, and comprehensiveness is, however, debatable. Then,
 
 > Matt Keough: Ugly girl friend means no confidence.
 
-Indeed, the 
+Maybe there is something to it. But probably not. In fact, [studies](http://www.washingtonpost.com/blogs/wonkblog/wp/2012/06/25/experts-arent-very-good-at-predicting-supreme-court-cases/) have found that “expert” commentators on the Supreme Court barely do better than a coin flip and are consistently beaten by [statistical methods](http://www.volokh.com/posts/chain_1115878999.shtml). A result of irrational confidence in their ability to read the sibylline leaves. 
+
+####
 
 **To be continued . . .**
 
