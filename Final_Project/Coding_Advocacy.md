@@ -52,6 +52,11 @@ Thus, the battle between “expert” opinion and statistical techniques seems s
 ####A Sample of Oral Arguments
 
 
+- U.S. Department of Health and Human Services v. Florida (Mar 26, 2012)
+- Shelby County v. Holder (Feb 27, 2013)
+- Koontz v. St. Johns River Water Management District (Jan 15, 2013)
+- United States v. Windsor (Mar 27, 2013)
+- McCutcheon v. Federal Election Commission (Oct 8, 2013)
 
 **To be continued . . .**
 
