@@ -26,14 +26,22 @@ But what if it merely an inability to detect the information? A confusion of noi
 Their accuracy, consistency, and comprehensiveness is, however, debatable. Then, and much worse, are the pundits and legal experts who point to “the intangibles” during argument – [such as Mr. Verrilli’s cough](http://www.buzzfeed.com/zekejmiller/solicitor-general-coughs-stumbles-stutters-throu) – that allegedly factor into the calculus of a case’s outcome. I can’t help but think of the scene from Moneyball:
 
 >Scout Artie: I like Perez. He's got a classy swing, it's a real clean stroke.
+
 Scout Barry: He can't hit the curve ball.
+
 Scout Artie: Yeah, there's some work to be done, I'll admit that.
 Scout Barry: Yeah, there is.
+
+
 Scout Artie: But he's noticeable.
+
 Matt Keough: And an ugly girlfriend.
+
 Scout Barry: What does that mean?
+
 Matt Keough: Ugly girl friend means no confidence.
 
+Indeed, the 
 
 **To be continued . . .**
 
