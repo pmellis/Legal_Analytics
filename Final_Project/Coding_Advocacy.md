@@ -20,7 +20,7 @@ Almost immediately after arguments concluded, news organizations across the worl
 
 So there you have it! CNN's legal oracles have spoken and it is simply a matter of time before the Court hands down its decision, though it matters not for we already know the outcome. Right? Not exactly . . . [*tout simplement*](http://www.thedailybeast.com/articles/2012/06/28/train-wreck-how-the-media-kept-blowing-it-on-obamacare.html), CNN legal analyst Jeffrey Toobin following oral argument in *National Federation of Independent Business v. Sebelius*: 
 
-> This was a train wreck for the Obama administration. This law looks like it’s going to be struck down. All of the predictions, including mine, that the justices would not have a problem with this law were wrong.
+> This was a train wreck for the Obama administration. This law looks like it’s going to be struck down. **All of the predictions, including mine, that the justices would not have a problem with this law were wrong.**
 
 Toobin was, of course, wrong . . . *twice*. But we shouldn’t judge Toobin (too harshly). Even the collective wisdom of the masses via [Intrade](http://www.intrade.com/v4/home/) shifted dramatically in favor of the ultimately wrong outcome following oral argument on the issue (pictured below). [In Nate Silver’s opinion](http://fivethirtyeight.blogs.nytimes.com/2012/06/27/overconfidence-suggested-in-supreme-court-predictions/?_php=true&_type=blogs&_php=true&_type=blogs&_r=1), this phenomenon may have beeen the result of overconfidence in the value of information.  At best, an overvaluing of the information conveyed in oral arguments. At worst, an overvaluing of oral argument in and of themselves.
 
