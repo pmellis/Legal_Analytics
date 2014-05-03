@@ -63,6 +63,8 @@ For our purposes, I've selected transcripts from five, high-profile cases' oral 
 
 **McCutcheon v. Federal Election Commission** (Oct 8, 2013)
 
+![mccutcheon](http://patellis.files.wordpress.com/2014/05/mccutch.png)
+
 **[Koontz v. St. Johns River Water Management District](https://github.com/SpartyLegal/Legal_Analytics/blob/master/Final_Project/Koontz.txt)** (Jan 15, 2013)
 
 ![koontz](http://patellis.files.wordpress.com/2014/05/koontz2.png)
