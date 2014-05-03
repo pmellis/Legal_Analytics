@@ -61,7 +61,11 @@ For our purposes, I've selected transcripts from five, high-profile cases' oral 
 
 **Shelby County v. Holder** (Feb 27, 2013)
 
+![holder](http://patellis.files.wordpress.com/2014/05/holder.png)
+
 **United States v. Windsor** (Mar 27, 2013)
+
+![windsor](http://patellis.files.wordpress.com/2014/05/windsor.png)
 
 **McCutcheon v. Federal Election Commission** (Oct 8, 2013)
 
@@ -69,7 +73,7 @@ For our purposes, I've selected transcripts from five, high-profile cases' oral 
 
 **[Koontz v. St. Johns River Water Management District](https://github.com/SpartyLegal/Legal_Analytics/blob/master/Final_Project/Koontz.txt)** (Jan 15, 2013)
 
-![koontz](http://patellis.files.wordpress.com/2014/05/koontz2.png)
+![koontz](http://patellis.files.wordpress.com/2014/05/koontz21.png)
 
 
 **To be continued . . .**
