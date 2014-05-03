@@ -51,11 +51,17 @@ Their accuracy, consistency, and comprehensiveness is, however, debatable. Then,
 
 > Matt Keough: Ugly girl friend means no confidence.
 
-Maybe there is something to it. But probably not. In fact, [studies](http://www.washingtonpost.com/blogs/wonkblog/wp/2012/06/25/experts-arent-very-good-at-predicting-supreme-court-cases/) have found that “expert” commentators on the Supreme Court barely do better than a coin flip and are consistently beaten by [statistical methods](http://www.volokh.com/posts/chain_1115878999.shtml). A result of irrational confidence in their ability to read the sibylline leaves. This is not to say that expert opinions are entirely worthless and "anecdata" is a valuable commodity in the space of legal prediction. I fear, however, that continually failing predictions that rely heavily on expert opinion may make the Supreme Court, and consequentially our entire Justice system, seem unpredictable, or even worse, irrational. Perhaps then, there is a better way.
+Maybe there is something to it. But probably not. In fact, [studies](http://www.washingtonpost.com/blogs/wonkblog/wp/2012/06/25/experts-arent-very-good-at-predicting-supreme-court-cases/) have found that “expert” commentators on the Supreme Court barely do better than a coin flip and are consistently beaten by [statistical methods](http://www.volokh.com/posts/chain_1115878999.shtml). A result of irrational confidence in their ability to read the sibylline leaves. This is not to say that expert opinions are entirely worthless and "anecdata" is a valuable commodity in the space of legal prediction. I fear, however, that continually failing predictions that rely heavily on "gut feeling" or some other noise may make the Supreme Court, and consequentially our entire justice system, seem unpredictable, or even worse, irrational. After all, if Mr. Toobin, who is a Supreme Court insider and multiple, award-winning book writer on the Court can't get it right, who can?
 
 ####A New Approach
 
+In Holmes' speech-turned-essay, *The Path of Law*, quoted *supra*, he explained:
 
+> For the **rational study of the law** the blackletter man may be the man of the present, but the **man of the future** is the man of statistics and the master of economics.
+
+Today, the addition of computer science to the skills of the man or woman of the future is likely appropriate as new technologies and tools make new forms of legal analysis increasingly accessible. To convey this concept, the following analyses will be performed with the [R Project for Statistical Computing](http://www.r-project.org/), which has been [described](http://www.revolutionanalytics.com/) as:
+
+> The world’s most powerful programming language for statistical computing, machine learning and graphics as well as a thriving global community of users, developers and contributors. R includes virtually every data manipulation, statistical model, and chart that the modern data scientist could ever need. As a thriving open-source project, R is supported by a community of more than 2 million users and thousands of developers worldwide. Whether you’re using R to optimize portfolios, analyze genomic sequences, or to predict component failure times, experts in every domain have made resources, applications and code available for free, online.
 
 ####A Sample of Oral Arguments
 
