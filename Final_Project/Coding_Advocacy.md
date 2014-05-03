@@ -57,6 +57,8 @@ For our purposes, I've selected transcripts from five, high-profile cases' oral 
 
 **U.S. Department of Health and Human Services v. Florida** (Mar 26, 2012)
 
+![florida](http://patellis.files.wordpress.com/2014/05/florida.png)
+
 **Shelby County v. Holder** (Feb 27, 2013)
 
 **United States v. Windsor** (Mar 27, 2013)
