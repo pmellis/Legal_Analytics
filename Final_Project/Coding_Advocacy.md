@@ -33,7 +33,7 @@ But what if it is merely an inability to detect the information? A confusion of 
 - Shullman, Sarah Levien. 2004. “The Illusion Of Devil’s Advocacy: How The Justices Of The Supreme Court Foreshadow Their Decisions During Oral Argument.” Journal of Appellate Practice and Process. Vol. 6: 2.
 - Lindgren, Jim. 2005. “[Does Asking More Questions Tip the Outcome of Supreme Court Cases?](http://www.volokh.com/posts/chain_1115878999.shtml)” Volokh Conspiracy.
 
-Their accuracy, consistency, and comprehensiveness is, however, debatable. Then, and much worse, are the pundits and legal experts who point to “the intangibles” during argument – [such as Mr. Verrilli’s cough](http://www.buzzfeed.com/zekejmiller/solicitor-general-coughs-stumbles-stutters-throu) – that allegedly factor into the calculus of a case’s outcome. I can’t help but think of the scene from Moneyball:
+Their accuracy, consistency, and comprehensiveness is, however, debatable. Then, and much worse, are the pundits and legal experts who point to “the intangibles” during argument – [such as Mr. Verrilli’s cough](http://www.buzzfeed.com/zekejmiller/solicitor-general-coughs-stumbles-stutters-throu) – that allegedly factor into the calculus of a case’s outcome. I can’t help but think of the scene from [Moneyball](http://www.imdb.com/title/tt1210166/):
 
 > Scout Artie: I like Perez. He's got a classy swing, it's a real clean stroke.
 
