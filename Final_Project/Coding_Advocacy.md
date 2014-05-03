@@ -57,9 +57,9 @@ Thus, the battle between “expert” opinion and statistical techniques seems s
 
 ####A Sample of Oral Arguments
 
-Unfortunately, I do not have the time nor the resources to perform the kind of comprehensive analysis it would take to determine if there are any latent patterns or cues in Supreme Court oral arguments. However, I can provide an introduction and starting place with five oral argument transcripts, which I've converted to a cleaner, more machine-readable format. 
+Unfortunately, I do not have the time [the Bar Exam is getting in the way] nor the resources to perform the kind of comprehensive analysis it would take to determine if there are any latent patterns or cues in Supreme Court oral arguments. However, I can provide an introduction and starting place with five oral argument transcripts, which I've converted to a cleaner, more machine-readable format. 
 
-For our purposes, I've selected transcripts from five, high-profile cases' oral arguments, all of which were decided on a 5-4 basis. From these five samples, I am interested in determining if there are any hints of pattern in the way justices conduct themselves during oral argument and the way they vote. A link to the cleaned transcripts and the voting outcomes of the cases follow:
+For these purposes, I've selected transcripts from five, high-profile cases' oral arguments, all of which were decided on a 5-4 basis. From these five samples, I am interested in determining if there are any hints of pattern in the way justices conduct themselves during oral argument and the way they vote. A link to the cleaned transcripts and the voting outcomes of the cases follow:
 
 **U.S. Department of Health and Human Services v. Florida** (Mar 26, 2012)
 
