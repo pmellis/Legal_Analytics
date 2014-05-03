@@ -51,11 +51,11 @@ Their accuracy, consistency, and comprehensiveness is, however, debatable. Then,
 
 > Matt Keough: Ugly girl friend means no confidence.
 
-Maybe there is something to it. But probably not. In fact, [studies](http://www.washingtonpost.com/blogs/wonkblog/wp/2012/06/25/experts-arent-very-good-at-predicting-supreme-court-cases/) have found that “expert” commentators on the Supreme Court barely do better than a coin flip and are consistently beaten by [statistical methods](http://www.volokh.com/posts/chain_1115878999.shtml). A result of irrational confidence in their ability to read the sibylline leaves. 
+Maybe there is something to it. But probably not. In fact, [studies](http://www.washingtonpost.com/blogs/wonkblog/wp/2012/06/25/experts-arent-very-good-at-predicting-supreme-court-cases/) have found that “expert” commentators on the Supreme Court barely do better than a coin flip and are consistently beaten by [statistical methods](http://www.volokh.com/posts/chain_1115878999.shtml). A result of irrational confidence in their ability to read the sibylline leaves. This is not to say that expert opinions are entirely worthless and "anecdata" is a valuable commodity in the space of legal prediction. I fear, however, that continually failing predictions that rely heavily on expert opinion may make the Supreme Court, and consequentially our entire Justice system, seem unpredictable, or even worse, irrational. Perhaps then, there is a better way.
 
 ####A New Approach
 
-Thus, the battle between “expert” opinion and statistical techniques seems settled, through the power of statistical techniques is still in question . . . [FILL SECTION]
+
 
 ####A Sample of Oral Arguments
 
@@ -73,7 +73,7 @@ For these purposes, I've selected transcripts from five, high-profile cases' ora
 
 **[Koontz v. St. Johns River Water Management District](https://github.com/SpartyLegal/Legal_Analytics/blob/master/Final_Project/Koontz.txt)** (Jan 15, 2013)
 
-
+####Beyond SCOTUS
 
 **To be continued . . .**
 
