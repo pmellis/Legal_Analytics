@@ -9,7 +9,7 @@ Despite defining prediction as the object of our study over one hundred years ag
 
 The following paper attempts to introduce new approaches to analyze the United States' Supreme Court's rich tradition of oral argument, and suggest ways these methods could be further developed to forecast Supreme Court case outcomes, and potentially, case assessment and prediction in lower courts. Specifically, this paper will use **[FILL IN]** to examine oral arguments. These techniques are certainly not new or even very advanced in the world of data science and analytics, but they are rarely applied to a field and profession that needs them perhaps more than ever. 
 
-I would greatly appreciate any feedback, as this is an ongoing experiment and effort to learn, and hopefully assist in developing new approaches to old problems.
+I would greatly appreciate any feedback as this is an ongoing experiment and effort to learn, and hopefully assist in developing new approaches to old problems.
 
 ####Predicting SCOTUS: Tea Leaves vs. Math
 
