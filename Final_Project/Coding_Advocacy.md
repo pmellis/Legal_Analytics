@@ -24,7 +24,7 @@ Toobin was, of course, wrong . . . *twice*. But we shouldn’t judge Toobin (too
 
 ![Intrade](http://static3.businessinsider.com/image/4feb67a3ecad04801300001d/obamacare-intrade.png)
 
-But what if it merely an inability to detect the information? A confusion of noise and signals? Many studies have attempted to address this problem and have conjectured that oral arguments do have some predictive power:
+But what if it is merely an inability to detect the information? A confusion of noise and signal? Many studies have attempted to address this problem and have conjectured that oral arguments do have some predictive power:
 
 - Epstein, Lee, Landes, William M. and Posner, Richard A. 2009. “[Inferring the Winning Party in the Supreme Court from the Pattern of Questioning at Oral Argument.](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1414317)” University of Chicago Law & Economics, Olin Working Paper No. 466. 
 - Johnson, Timothy R., Black, Ryan C., Goldman, Jerry and Treul, Sarah. 2009 “[Inquiring Minds Want to Know: Do Justices Tip Their Hands with Questions at Oral Argument in the U.S. Supreme Court?](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1373965)." Washington University Journal of Law & Policy, Vol. 29, 2009.  
