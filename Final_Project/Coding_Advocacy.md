@@ -86,7 +86,7 @@ A link to the cleaned transcripts and the voting outcomes of the cases follow:
 
 - **[United States v. Windsor](https://github.com/SpartyLegal/Legal_Analytics/blob/master/Final_Project/Windsor.txt)** (Mar 27, 2013)
 
-- **McCutcheon v. Federal Election Commission** (Oct 8, 2013)
+- **[McCutcheon v. Federal Election Commission](https://github.com/SpartyLegal/Legal_Analytics/blob/master/Final_Project/McCutcheon.txt)** (Oct 8, 2013)
 
 - **[Koontz v. St. Johns River Water Management District](https://github.com/SpartyLegal/Legal_Analytics/blob/master/Final_Project/Koontz.txt)** (Jan 15, 2013)
 
