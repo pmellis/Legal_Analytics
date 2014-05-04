@@ -80,15 +80,15 @@ For these purposes, I've selected transcripts from five, high-profile cases' ora
 
 A link to the cleaned transcripts and the voting outcomes of the cases follow:
 
-**[U.S. Department of Health and Human Services v. Florida](https://github.com/SpartyLegal/Legal_Analytics/blob/master/Final_Project/Obamacare.txt)** (Mar 26, 2012)
+- **[U.S. Department of Health and Human Services v. Florida](https://github.com/SpartyLegal/Legal_Analytics/blob/master/Final_Project/Obamacare.txt)** (Mar 26, 2012)
 
-**Shelby County v. Holder** (Feb 27, 2013)
+- **Shelby County v. Holder** (Feb 27, 2013)
 
-**United States v. Windsor** (Mar 27, 2013)
+- **United States v. Windsor** (Mar 27, 2013)
 
-**McCutcheon v. Federal Election Commission** (Oct 8, 2013)
+- **McCutcheon v. Federal Election Commission** (Oct 8, 2013)
 
-**[Koontz v. St. Johns River Water Management District](https://github.com/SpartyLegal/Legal_Analytics/blob/master/Final_Project/Koontz.txt)** (Jan 15, 2013)
+- **[Koontz v. St. Johns River Water Management District](https://github.com/SpartyLegal/Legal_Analytics/blob/master/Final_Project/Koontz.txt)** (Jan 15, 2013)
 
 ####Beyond SCOTUS
 
