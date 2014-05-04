@@ -63,11 +63,21 @@ Today, the addition of computer science to the skills of the man or woman of the
 
 > The world’s most powerful programming language for statistical computing, machine learning and graphics as well as a thriving global community of users, developers and contributors. R includes virtually every data manipulation, statistical model, and chart that the modern data scientist could ever need. As a thriving open-source project, R is supported by a community of more than 2 million users and thousands of developers worldwide. Whether you’re using R to optimize portfolios, analyze genomic sequences, or to predict component failure times, experts in every domain have made resources, applications and code available for free, online.
 
+Thus, Legal Analytics, which [Lex Machina](https://lexmachina.com/what-we-do/) describes as "the discovery and communication of meaningful patterns in [legal] data," can be performed at some level by anyone with a laptop, for free. Here goes an example.
+
+####The Issue
+
+Do Supreme Court oral arguments exhibit any patterns, latent or obvious, that suggest how the justices will vote in a given case?
+
 ####A Sample of Oral Arguments
 
-Unfortunately, I do not have the time [the Bar Exam is getting in the way] nor the resources to perform the kind of comprehensive analysis it would take to determine if there are any latent patterns or cues in Supreme Court oral arguments. However, I can provide an introduction and starting place with five oral argument transcripts, which I've converted to a cleaner, more machine-readable format. 
+Unfortunately, I do not have the time (the Bar Exam is getting in the way) to perform the kind of comprehensive analysis it would take to answer my given question . . . for now. However, I can provide an introduction and starting place with five oral argument transcripts, which I've converted to a cleaner, more machine-readable format. This is by far the most tedious process, and any suggestions or resources to automate the process would be greatly appreciated. 
 
-For these purposes, I've selected transcripts from five, high-profile cases' oral arguments, all of which were decided on a 5-4 basis. From these five samples, I am interested in determining if there are any hints of pattern in the way justices conduct themselves during oral argument and the way they vote. A link to the cleaned transcripts and the voting outcomes of the cases follow:
+For these purposes, I've selected transcripts from five, high-profile cases' oral arguments, all of which were decided on a 5-4 basis. These cases also fairly characterize the political ideologies of the justices, with one significant departure, Justice Roberts vote in the Obamacare cases, based on the image below from [VoteView Blog](http://voteview.com/blog/?p=105).
+
+![pic](http://voteview.com/images/martin_quinn_supreme_court_2010.jpg)
+
+A link to the cleaned transcripts and the voting outcomes of the cases follow:
 
 **U.S. Department of Health and Human Services v. Florida** (Mar 26, 2012)
 
