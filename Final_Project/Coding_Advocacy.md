@@ -84,7 +84,7 @@ A link to the cleaned transcripts and the voting outcomes of the cases follow:
 
 - **[Shelby County v. Holder](https://github.com/SpartyLegal/Legal_Analytics/blob/master/Final_Project/VRA.txt)** (Feb 27, 2013)
 
-- **United States v. Windsor** (Mar 27, 2013)
+- **[United States v. Windsor](https://github.com/SpartyLegal/Legal_Analytics/blob/master/Final_Project/Windsor.txt)** (Mar 27, 2013)
 
 - **McCutcheon v. Federal Election Commission** (Oct 8, 2013)
 
