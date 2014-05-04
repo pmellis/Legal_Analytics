@@ -1,0 +1,1098 @@
+JACKSON: Mr. Chief Justice, and may it please the Court
+ 
+There is no justiciable case before this Court. Petitioner, the United States, does not ask this Court to redress the injuries it asserts. The House of Representatives’ Bipartisan Legal Advisory Group, the BLAG, which does seek redress in the form of reversal, asserts no judicially cognizable injury.
+ 
+While it is natural to want to reach the merits of such a significant issue, as in Raines v. Byrd, this natural urge must be put aside because however important the constitutional question, Article III prevents its decision here and requires this Court to await another case, another day, to decide the question.
+ 
+In the district court, Ms. Windsor alleged *6 classical Article III injury for which she sought redress. Other persons injured by DOMA’s operation could likewise sue in a first instance court and, if their challenge succeeds, obtain relief. But to exercise jurisdiction on this appeal when the United States asked for the judgment below, fully agrees with it, and --
+ 
+SOTOMAYOR: Who else is going to be aggrieved if she is not? Meaning another person who is -- whose benefits are withheld, tax refund is withheld, is going to be in an identical situation to her? Who else could come in?
+ 
+JACKSON: Your Honor, it is possible that in district courts where other taxpayers sue the United States on similar relief, that the district courts will rule differently. At least one district court that I’m aware of, in a case called Louie v. Holder, ruled against -- upheld DOMA even though the government had switched its position at that time.
+ 
+In addition, the issue of DOMA --
+ 
+SCALIA: Excuse me. If there is no jurisdiction here, why was there jurisdiction at the trial level?
+ 
+JACKSON: Your Honor -- *7 SCALIA: I mean, the government comes in and says “I agree” -- or if there was jurisdiction, why did the Court ever have to get to the merits?
+ 
+If you have a, let’s say, a lawsuit on an -- on an indebtedness and the alleged debtor comes in and says, yes, I owe them money, but I’m just not gonna pay it, which is the equivalent of the government saying, yes, it’s unconstitutional but I’m going to enforce it anyway.
+ 
+What would happen in that -- in that indebtedness suit is that the court would enter judgment and say, if you agree that you owe it, by God, you should pay it. And there would be a judgment right there without any consideration of the merits, right? Why didn’t that happen here?
+ 
+JACKSON: Your Honor, the -- the two questions that you asked me, why did the district court have jurisdiction, the first answer is that the party invoking the district court’s jurisdiction was Ms. Windsor, who did have an injury.
+ 
+As to why the district court didn’t enter judgment when the United States switched its position, I -- I imagine that the Court was -- would have wanted to have development of that issue, which was achieved *8 through the intervention of the BLAG in the trial court, so that the judgment of unconstitutionality and of refund would have had a robust hearing as it did.
+ 
+SCALIA: Really, that’s very peculiar. When -- when both parties to the case agree on what the law is? What, the -- just for fun, the district judge is -- is going to have a hearing?
+ 
+JACKSON: Well, Your Honor, the jurisdiction of the Court, it seems to me, is not affected by the length of the proceedings it undertook. In Kentucky --
+ 
+SCALIA: I’m not talking about jurisdiction now. I’m talking about why the district court, without getting to the merits, should not have entered judgment against the government.
+ 
+JACKSON: I am not sure I have a wonderful answer to that question, Justice Scalia, but I do think the case bears some similarities to Kentucky v. Indiana, which was discussed by the parties, where Kentucky sued Indiana in this Court’s original jurisdiction on a contract. The two States had a contract. Indiana agreed it was obligated to perform, but it wasn’t performing. There -- it was worried about a State court lawsuit. This Court exercised original jurisdiction to give Kentucky relief. And I think *9 that’s analogous to what the district court did there.
+ 
+The issue before us today, I think, is an issue of appellate jurisdiction. And the U.S. is seeking to invoke the appellate jurisdiction of Article III courts, notwithstanding that it doesn’t seek relief, it seeks affirmance.
+ 
+ALITO: Well, the Solicitor General’s standing argument is very abstract. But here is one possible way of understanding it, perhaps the Solicitor General will disavow it, but it would go like this. The President’s position in this case is that he is going to continue to enforce DOMA, engage in conduct that he believes is unconstitutional, until this Court tells him to stop.
+ 
+The judgment of the Second Circuit told the Executive Branch to comply with the Equal Protection Clause immediately. The President disagrees with the temporal aspect of that, so the Executive is aggrieved in the sense that the Executive is ordered to do something prior to the point when the Executive believes it should do that thing.
+ 
+Now, wouldn’t that be sufficient to make -- to create injury in the Executive and render the Executive an aggrieved party?
+ 
+JACKSON: I think not, Your Honor. I *10 think not because I don’t see how that would be any different from any party saying, well, we really don’t want to pay this judgment until we’re sure all of the courts agree. And I think this Court’s -- this Court doesn’t have a lot of case law where a party seeks review to get affirmance.
+ 
+But in the Princeton University v. Schmidt case, there was a State court conviction, high State court overturns it, Princeton University seeks review because its regulations were at issue. New Jersey joins in seeking review, but does not ask for relief, does not take a position on what relief would be appropriate.
+ 
+BREYER: Why -- why wouldn’t -- imagine -- there in Article II, it says that the President shall take care that the laws be faithfully executed. So the President has worked out -- I, personally, and for reasons in -- in my department, others think that this law is unconstitutional, but I have this obligation. And because I have this obligation, I will not -- I will continue to execute this law. I will continue to execute it though I disagree with it. And I execute it until I have an authoritative determination not to.
+ 
+Now, how is that different from a trustee who believes that he has an obligation to a trust to do *11 something under a certain provision that he thinks doesn’t require that, but -- you know, there’s a debate about it, but he says, I have the obligation here. I’m going to follow this through.
+ 
+There’d be standing in the second case for any fiduciary, despite his personal beliefs, to continue. We’d understand that and say there was standing. Why don’t we here?
+ 
+JACKSON: Well, the trustee, I think, would be able to go to a court of first instance to get an adjudication of the claim. What I’m submitting to you that the trustee could not do, after getting the first -- the judgment in the court of first instance stating what the remedy -- what the liability is, then seek review of that judgment, but ask only for it to be affirmed.
+ 
+BREYER: And that’s the part I don’t understand. For -- if, in fact, as you agree, the trustee or other fiduciary in my example would indeed have standing to act according to the law, even though he thinks that that law is unconstitutional because of his obligation such as under Section 2. You agree he has the -- he has -- there is standing when he goes into court in the first place, which surely he could interpret Article II as saying and you follow it through *12 as long as you can do it, which includes appeals until the matter is determined finally and authoritatively by a court. If you could do the first, what suddenly stops you from doing the second?
+ 
+JACKSON: In the first instance, the obligations are uncertain the trustee is presumably subject to potentially adverse competing claims on his or her action.
+ 
+ROBERTS: Well, I would have thought --
+ 
+JACKSON: Those are --
+ 
+ROBERTS: I would have thought your answer would be that the Executive’s obligation to execute the law includes the obligation to execute the law consistent with the Constitution. And if he has made a determination that executing the law by enforcing the terms is unconstitutional, I don’t see why he doesn’t have the courage of his convictions and execute not only the statute, but do it consistent with his view of the Constitution, rather than saying, oh, we’ll wait till the Supreme Court tells us we have no choice.
+ 
+JACKSON: Mr. Chief Justice, I think that’s a hard question under Article II. But I think the Article III questions that this Court is facing turn on what the parties in the case have alleged, what *13 relief they’re seeking, and what the posture is.
+ 
+KENNEDY: In Federal court’s jurisprudence, are you saying there’s a lack of adversity here?
+ 
+JACKSON: I am saying primarily --
+ 
+KENNEDY: Can you give us a pigeonhole?
+ 
+JACKSON: I -- it’s a little difficult because the circumstance is unusual, Justice Kennedy, but I think the most apt of the doctrines, although they are overlapping and reinforce each other, the most apt is standing.
+ 
+This Court has made clear that a party on appeal has to meet the same Article III standing requirements of injury caused by the action complained of and redressable by the relief requested by the parties.
+ 
+KENNEDY: But it seems to me there -- there’s injury here.
+ 
+JACKSON: Well, Your Honor, I do not agree that the injuries alleged by the United States should be cognizable by the Article III courts because those injuries are exactly what it asked the courts below to -- to produce. But even if we treat the injuries as sufficiently alleged, Article III requires *14 that the party complaining of injury ask the court to remedy that injury. And that’s a very important requirement, I think, under Article III for several reasons.
+ 
+The idea of the case or controversy limitation, as I understand it, is part of a broader separation of powers picture, to make sure the Federal courts perform their proper role. Their proper role is the redress of injury. And it is the need to redress injury in ordinary litigation that justifies judicial review of constitutional issues. But --
+ 
+KAGAN: But, Ms. Jackson, I mean, to go back to Justice Kennedy’s point, we have injury here in the most classic, most concrete sense. There’s $300,000 that’s going to come out of the government’s treasury if this decision is upheld, and it won’t if it isn’t.
+ 
+Now, the government is willing to pay that $300,000, would be happy to pay that $300,000. But whether the government is happy or sad to pay that $300,000, the government is still paying the $300,000, which in the usual set of circumstances is the classic Article III injury.
+ 
+Why isn’t it here?
+ 
+JACKSON: Justice Kagan, there is a *15 three-prong test. Even if you treat that as injury, it does not meet the requirements for standing on appeal because the government has not asked this Court to remedy that injury. The government has not asked this Court to overturn the rulings below so it doesn’t have to pay the $365,000. It has asked this Court to affirm. And the case or controversy requirements that we’re talking about are nested in an adversarial system where we rely on the parties to state their injuries and make their claims for relief.
+ 
+If the government or any party is not bound with respect to standing by its articulated request for a remedy, what that does is it enables the Court to fill in, to reshape. And for a doctrine that is supposed to be limiting the occasions for judicial review of constitutionality, that is troubling.
+ 
+KAGAN: But don’t we often separate those two things, ask whether there’s injury for Article III purposes and causation and redressability, as you say, but then say, well, sometimes when all of those are met, there’s not going to be adequate presentation of the arguments, and so we will appoint an amicus or we’ll restructure things? And we do that when the government confesses error often. I mean, we do that several times a year in this courtroom.
+ 
+JACKSON: Yes, Your Honor. But confession of error cases, with respect, are quite different because in confession of error cases typically both parties at the appellate level end up being adverse to the judgment below and they are asking relief from this Court from the judgment below.
+ 
+But here we have a situation where, putting BLAG to one side for the moment, between the United States and Ms. Windsor there is no adversity, they’re in agreement, and neither of them is asking this Court to reverse or modify the judgment below. And so I think the confession of error cases are quite different from the perspective of Article III.
+ 
+BREYER: No, they’re -- they’re not in agreement about whether to pay the money or not. They are in agreement about what arguments are correct legal arguments. And I can’t think of a case other than the sham cases which -- which this isn’t, where -- where you would find no standing or other obstacle. And I can think of one case, which you haven’t mentioned, namely, Chadha, which seems about identical.
+ 
+JACKSON: Your Honor, I don’t think that Chadha is identical, with respect. In -- for two main reasons. In Chadha, the Court was, I think, quite careful to avoid deciding whether the United States had *17 Article III standing. It intensively analyzed a statute, since repealed, 1252, which gave this Court mandatory jurisdiction in cases in which a Federal statute was held unconstitutional and the U.S. was a party. And it framed its analysis of whether the statute permitted the appeal. What I think was -- oh, may I reserve my time for rebuttal?
+ 
+ROBERTS: You can finish your sentence.
+ 
+JACKSON: Thank you.
+ 
+What was -- what was going on there was the Court said, well, the statute wanted to reach very broadly, perhaps implicit, not stated, perhaps more broadly than Article III.
+ 
+Congress said whenever you have this configuration, you go up to the Supreme Court. Then the Supreme Court in Chadha says, of course, in addition to the statute, there must be Article III case or controversy, the presence of the congressional intervenors here provides it. And that --
+ 
+ROBERTS: Thank you, counsel. That was more than a sentence.
+ 
+JACKSON: Oh, I’m sorry. I’m sorry, Your Honor. Thank you.
+ 
+ROBERTS: Mr. Srinivasan?
+
+SRINIVASAN: Thank you, Mr. Chief Justice, and may it please the Court
+ 
+This Court has jurisdiction in this case based on the petition filed by the United States for the same reasons it had jurisdiction in parallel circumstances in Chadha and Lovett. There are two issues that have been -- that have been brought up this morning and I’d like to address each in turn.
+ 
+One is whether there’s a concrete case or controversy -- case or controversy in the sense of adversity in this Court. And the second is the question of whether there’s Article III standing for the government to bring this case before the Court.
+ 
+ROBERTS: On the first one, is there any case where all the parties agreed with the decision below and we upheld appellate jurisdiction? Any case?
+ 
+SRINIVASAN: Where the parties agreed --
+ 
+ROBERTS: All the parties agreed with the decision below and we nonetheless upheld appellate jurisdiction.
+ 
+SRINIVASAN: Well, you didn’t speak to *19 it in Lovett, Your Honor, but that was the circumstance in Lovett.
+ 
+ROBERTS: No, it wasn’t raised -- it wasn’t raised or addressed, and that had the distinct situation of an appeal, direct appeal from an Article I tribunal.
+ 
+SRINIVASAN: Well, I don’t -- I don’t know that that matters because you had to satisfy Article III prerequisites to have the case in this Court. Now, Your Honor is, of course, correct that the -- the Court didn’t affirmatively engage on the issue of jurisdiction, but that is a scenario --
+ 
+ROBERTS: Okay. So putting Lovett aside, since none of this was discussed, is there any -- any case?
+ 
+SRINIVASAN: No, I don’t know of one. But these -- but, Mr. Chief Justice, with all due respect --
+ 
+ROBERTS: So this is totally unprecedented. You’re asking us to do something we have never done before to reach the issue in this case.
+ 
+SRINIVASAN: Let me say two things about that if I might, Your Honor. First is that it’s -- it’s unusual, but that’s not at all surprising because the --
+ 
+ROBERTS: No, it’s not just -- *20 it’s not unusual. It’s totally unprecedented.
+ 
+SRINIVASAN: Well, it’s totally unprecedented in one respect, Your Honor. If you look at Chadha -- okay, the second point I’d make. Let me make one point at the outset, though, which is that whether it’s totally unusual or largely unusual, I grant you that it doesn’t happen. But the reason it doesn’t happen is because -- I wouldn’t confuse a numerator with a denominator. This set of circumstances just doesn’t arise very often.
+ 
+Now, it’s true that when this set of circumstances --
+ 
+SCALIA: It has not arisen very often in the past because in the past, when I was at the Office of Legal Counsel, there was an opinion of the Office of Legal Counsel which says that the Attorney General will defend the laws of the United States, except in two circumstances. Number one, where the basis for the alleged unconstitutionality has to do with presidential powers. When the presidential powers are involved, he’s the lawyer for the President. So he can say, we think the statute’s unconstitutional, I won’t defend it.
+ 
+The second situation is where no possible rational argument could be made in defense of it. Now, *21 neither of those situations exists here. And I’m wondering if we’re living in this new world where the Attorney General can simply decide, yes, it’s unconstitutional, but it’s not so unconstitutional that I’m not willing to enforce it, if we’re in this new world, I -- I don’t want these cases like this to come before this Court all the time.
+ 
+And I think they will come all the time if that’s -- if that’s -- if that’s the new regime in the Justice Department that we’re dealing with.
+ 
+SRINIVASAN: Justice Scalia, one recognized situation in which an act of Congress won’t be defended in court is when the President makes a determination that the act is unconstitutional. That’s what happened here. The President made an accountable legal determination that this Act of Congress is unconstitutional.
+ 
+KENNEDY: But then why does he enforce the statute?
+ 
+SRINIVASAN: Well, that’s an option that’s available to him, Justice Kennedy. In certain circumstances, it makes sense not to enforce. But I don’t think the take-care responsibility is an all or nothing proposition, such that when the President reaches a determination that a statute is *22 unconstitutional, it necessarily follows that he wouldn’t enforce it. That’s not what happened in Lovett. That’s not --
+ 
+KENNEDY: But let me ask you, suppose that constitutional scholars have grave doubts about the practice of the President signing a bill, but saying that he thinks it’s, unconstitutional -- what do you call it, signing statements or something like that. It seems to me that if we adopt your position that that would ratify and confirm and encourage that questionable practice because if the President thinks the law is unconstitutional he shouldn’t sign it, according to some views. And that’s a lot like what you’re arguing here. It’s very troubling.
+ 
+SRINIVASAN: I -- in the -- in the signing statement situation, Your Honor, one example in the past is Turner Broadcasting. In Turner Broadcasting, that was a circumstance in which it was -- it was a veto, but in the course of the veto the President made the determination that a particular aspect of that statute was unconstitutional.
+ 
+And what happened as a result of that is that the Department of Justice didn’t defend that aspect of the statute in litigation. Now, a subsequent President reached a contrary conclusion. But -- but my *23 point is simply that when the President makes a determination that a statute is unconstitutional, it can follow that the Department of Justice won’t defend it in litigation.
+ 
+ROBERTS: Sometimes you do and sometimes you don’t. What is the test for when you think your obligation to take care that the laws be faithfully executed means you’ll follow your view about whether it’s constitutional or not or you won’t follow your view?
+ 
+SRINIVASAN: Mr. Chief Justice, I’d hesitate to give you a black-and-white algorithm. There are -- there are several considerations that would factor into it. One of the considerations --
+ 
+SCALIA: Excuse me. It’s not your view. It’s the President’s. It’s only when the President thinks it’s unconstitutional that you can decline to defend it? Or what if the Attorney General thinks it’s unconstitutional?
+ 
+SRINIVASAN: No, no. Of course --
+ 
+SCALIA: Or the Solicitor General, is that enough?
+ 
+SRINIVASAN: 28 U.S.C. 530(d) presupposes -- Congress presupposes that there are going to be occasions in which a statute is -- is not defended *24 because of a conclusion by the Attorney General that it’s unconstitutional.
+ 
+SCALIA: Oh, it can be either the Attorney General or the Solicitor General?
+ 
+SRINIVASAN: It could be, but this is a situation in which the President made the determination. And when the President makes that determination, there are a few considerations that I think would factor into the mix in determining whether enforcement will follow. One of them would be the consequences of enforcement for the individuals who are affected.
+ 
+And so, for example, I would assume that if it’s a criminal statute that we’re talking about, an enforcement would require criminal enforcement against somebody and -- which would beget criminal sanctions. That may be --
+ 
+SCALIA: So when Congress enacts a statute, it cannot be defended, it has no assurance that that statute will be defended in court, if the Solicitor General, in his view, thinks it’s unconstitutional?
+ 
+SRINIVASAN: There have -- Justice Scalia --
+ 
+SCALIA: Is that right?
+ 
+SRINIVASAN: -- there have been occasions in the past.
+ 
+SCALIA: Yes or no?
+ 
+SRINIVASAN: Yes. Yes, it’s true. And 28 U.S.C. 530(d) exactly presupposes that. That’s the exact occasion in which that process is -- is occasioned. Congress knew that this would happen. Now, it can happen also when -- in the rare instance in which the President himself makes that determination. And I don’t think that the take-care clause responsibility has this all or nothing capacity to it. It can be that the President decides --
+ 
+GINSBURG: Mr. Srinivasan --
+ 
+SCALIA: It’s not what the OLC opinion said, by the way.
+ 
+SRINIVASAN: It can be that the President decides to enforce it. That’s what happened in Lovett and that’s the course of events that was sought -- that happened in Chadha. And there’s --
+ 
+GINSBURG: But when the government -- when the -- when the case is adjudicated in the first instance -- we’re talking here about appellate authority.
+ 
+SRINIVASAN: Correct.
+ 
+GINSBURG: The government sometimes loses cases in the first instance and then it doesn’t appeal. If it agrees with the result that the court *26 reached, it doesn’t appeal and then the judgment in the first instance where there was adversity is -- is the last word. So when does the government decide, yes, we agree with the -- the adjudication in the court of first instance and so we’ll leave it there? And when does it say, yes, we agree, but we want higher authority to participate?
+ 
+SRINIVASAN: Well, there are -- there are a number of considerations that could factor into it, Justice Ginsburg. You’re right that either of those scenarios is possible. The reason that the government appealed in this case is because the President made the determination that this statute would continue to be enforced, and that was out of respect for the Congress that enacted the law and the President who signed it, and out of respect for the role of the judiciary in saying what the law is.
+ 
+The point of taking an appeal here is that the government suffered an injury because a judgment was entered against the government in the court of appeals. That’s a classic case for injury.
+ 
+SOTOMAYOR: Counsel, could you not run out of time on the BLAG standing? I know we -- we didn’t permit Ms. Jackson to -- to address it. So don’t run out of time on that.
+ 
+SRINIVASAN: I -- I won’t, Your Honor. I’ll be happy to turn -- turn to BLAG standing. I would like to make a couple of points on the question of our own standing to bring the petition before the Court.
+ 
+And I think Justice Breyer was right. The key precedent here is Chadha. Chadha establishes a couple of things. First, Chadha establishes that there is aggrievement in the circumstances of this case. And I don’t see what the difference is between aggrievement, for purposes of statutory -- the statutory analysis at issue in Chadha, and injury, for purposes of Article III.
+ 
+ALITO: Well, how are you aggrieved? “Aggrieved” means that you are deprived of your legal rights. And you don’t think that you’ve been deprived of your legal rights because your rights -- your obligations under the Constitution supercede DOMA, and you haven’t been deprived of anything that you’re entitled to under the Constitution. So how are you aggrieved?
+ 
+SRINIVASAN: I guess we’d -- I’d subscribe to the aggrievement analysis that the Court made in Chadha at pages 929 to 931 of its opinion. And what the Court said is this: “When an agency of the United States is a party to a case in which an act of *28 Congress that it administers is held unconstitutional, it is an aggrieved party. The agency’s status as an aggrieved party is not altered by the fact that the Executive may agree with the holding that the statute in question is unconstitutional.” That description is on all fours with the circumstances of this case.
+ 
+ALITO: Could I just -- before you go on to the House group, could I just clear up something? In your brief, you argue that you are representing all three branches of the government, is that right?
+ 
+SRINIVASAN: Correct.
+ 
+ALITO: You’re -- you’re representing the Judiciary as you stand before us here today --
+ 
+SRINIVASAN: Well --
+ 
+ALITO: -- trying to persuade the Court, you’re representing the Court?
+ 
+SRINIVASAN: We represent the sovereign interests of the United States. Of course, in a case like this, the -- the -- we’re submitting the dispute to the Judiciary for resolution, so in that sense, we -- I’m not going to stand here and tell you that I can dictate the -- that the Judiciary comes out in one direction or the other. I certainly would like to be *29 able to do that, but I don’t think I can, in all fairness, do that. But I --
+ 
+ALITO: It seems very strange. So in -- in a criminal case where it’s the United States v. Smith, appearing before an Article III judge, the United States, the prosecutor is representing the court as well?
+ 
+SRINIVASAN: Well, I think -- I guess what I would say is this, the United -- the United States -- the Executive Branch represents the sovereign interests of the United States before the Court. It’s not -- I think the point of this is that it’s not that the Executive Branch is representing the Executive Branch alone.
+ 
+The Executive Branch is representing the sovereign interests of the United States. And those interests would include the interests of the Congress that enacted the law, the interests of the President that signed it, and the interests of the Judiciary in pronouncing on what the law is. And the course of action that the President chose to undertake here is in keeping with all of those considerations.
+ 
+KAGAN: Mr. Srinivasan, Chadha says what you said it said about what it means to be aggrieved --
+ 
+SRINIVASAN: Yes.
+ 
+KAGAN: -- but Chadha also left open the Article III question. Why did Chadha leave it open if it’s the same thing?
+ 
+SRINIVASAN: I don’t -- I don’t know why Chadha didn’t engage on it in particular. I think part of it, Justice Kagan, is that the Court didn’t have the methodology at that point in time that it does now. I don’t know that it neatly divided between those questions in the same way. So yes, it left the Article III question open, but I think the question of Article III injury necessarily follows from aggrievement and I haven’t -- I haven’t heard a persuasive argument to the contrary.
+ 
+If we were aggrieved in the circumstances of Chadha, it seems to me it necessarily follows that we’re injured. We’re injured in a couple of ways. An act of Congress has been declared unconstitutional, which Chadha itself says constitutes aggrievement and therefore constitutes injury. In this case also, we’re required to pay a judgment --
+ 
+SCALIA: Didn’t Chadha -- didn’t Chadha suggest that Congress could have standing in -- in Chadha?
+ 
+SRINIVASAN: I’m sorry?
+ 
+SCALIA: In Chadha, there was an argument that Congress had standing because what was at issue in the case was precisely a prerogative of Congress to exercise the one-house or two-house veto.
+ 
+SRINIVASAN: There wasn’t a -- there -- that was an issue in Chadha. I don’t know that that issue was joined, actually, Justice Scalia. The Court did say, at page 939 of its opinion, that Congress is a proper party to defend the constitutionality of the Act and a proper petitioner, and I think that’s the best language for the other side on this issue.
+ 
+ROBERTS: So you say we shouldn’t be concerned about that part of Chadha because the issue wasn’t joined there?
+ 
+SRINIVASAN: Well, I don’t -- I don’t read the --
+ 
+ROBERTS: But we should take Lovett as a binding precedent even though the issue wasn’t addressed at all?
+ 
+SRINIVASAN: I didn’t -- to be -- to be fair or, as was suggested this morning, to be crickets, I -- I didn’t mean to suggest that Lovett is binding precedent, Mr. Chief Justice. What I’m saying is Lovett is a case in which this same scenario as happens here occurred. That’s my -- that’s my point about Lovett.
+ 
+SOTOMAYOR: All right. Let’s go to the BLAG issue.
+ 
+SRINIVASAN: So -- sure.
+ 
+SOTOMAYOR: And the issue wasn’t joined. So what do you think we meant? And I know Justice Scalia doesn’t care what you think we meant.
+ 
+SRINIVASAN: Right. Well --
+ 
+SOTOMAYOR: But what is your reading of what that means, that Congress can --
+ 
+SRINIVASAN: I think that --
+ 
+SOTOMAYOR: -- intervene in situations in which its interests are injured?
+ 
+SRINIVASAN: Sure. So there are two aspects of Chadha that are relevant on pages 939 and 940. The second discussion at page 940, I think, deals with prudential considerations that this Court ought to take into account to make sure that it has a sufficient adverse presentation of the competing arguments before it.
+ 
+And that’s accounted for by an amicus type role, and I think that’s what the Court had in mind in Chadha because the two cases that are cited in support of that proposition were both cases in which there was an appointed amicus. So that -- that deals with that aspect of Chadha.
+ 
+The other aspect of Chadha is the sentence that I alluded to earlier. And I guess I’m not -- I’m not going to tell you that that sentence doesn’t bear on the issue at all, but I will say this, what’s cited in that sentence is 28 U.S.C. 1254.
+ 
+So I think the point that was directly -- directly being made is that the House and Senate were parties for purposes of the statute and they were parties because they had intervened and so they had party status.
+ 
+SOTOMAYOR: So are you accepting the amici’s formulation that somehow the representative has to be of both houses and not just one?
+ 
+SRINIVASAN: No. I guess my -- my point is a little bit different. My point is that this was talking about whether they’re a party for statutory purposes under 1254. I don’t read this to address the question of Article III standing.
+ 
+On the question of Article III standing, I guess what I would say is this, Chadha at most, if it says anything about Article III standing -- and I don’t know that it does with respect to the House or Senate -- at most what it would say was in the unique circumstances of that case, where you had a legislative veto that uniquely affected a congressional *34 prerogative --
+ 
+SOTOMAYOR: So you take the position that Congress --
+ 
+SRINIVASAN: -- there might be standing in that situation. Even that I don’t want to concede, but --
+ 
+SOTOMAYOR: Well, I want to know what you’re conceding.
+ 
+SRINIVASAN: I’m conceding that at most --
+ 
+SOTOMAYOR: Let’s assume this very case. Would -- who would ever have standing on behalf of Congress? Anyone? Or are you saying there’s never standing?
+ 
+SRINIVASAN: Well, there are two different cases. This case is different because this case doesn’t involve the kind of unique congressional prerogative that was at issue in Chadha. Chadha involved a legislative veto.
+ 
+Here, if I could just finish this --
+ 
+ROBERTS: You can finish your sentence.
+ 
+SRINIVASAN: -- this thought. Thank you, Mr. Chief Justice.
+ 
+Here, I don’t think the interest that’s *35 being asserted is even in the same plane as the one that was asserted and found deficient in Raines v. Byrd.
+ 
+ROBERTS: Thank you, counsel.
+ 
+Mr. Clement?
+ 
+Thank you, Mr. Chief Justice, and may it please the Court
+ 
+This Court not only addressed the issue of the House’s standing in Chadha, it held that the House is the proper party to defend the constitutionality of an Act of Congress when the executive agency charged with its enforcement agrees with plaintiff that the statute is unconstitutional.
+ 
+SOTOMAYOR: Mr. Clement, Chadha was somewhat different because there was a unique House prerogative at question. But how is this case any different than enforcing the general laws of the United States? There’s no unique House power granted by the legislation.
+ 
+CLEMENT: Well, Justice Sotomayor --
+ 
+SOTOMAYOR: It’s a law of the United States and the person who defends it generally is the *36 Solicitor -- Solicitor General.
+ 
+CLEMENT: Sure, generally, unless and until they stop defending it, at which point we submit --
+ 
+SOTOMAYOR: Well, then, why shouldn’t -- why shouldn’t taxpayers have a right to come in? And we say they don’t.
+ 
+CLEMENT: Because the House is very -- in a very different position in a case like this and in Chadha from just the general taxpayer. Now, in a case like Chadha, for example, you’re right, it was the one-house veto, if you will, that was at issue. But it would be a strange jurisprudence that says that the House has standing to come in and defend an unconstitutional one-house veto, but it doesn’t have standing to come in and defend its core Article I prerogative, which is to pass statutes and have those statutes --
+ 
+KENNEDY: Well, that -- that assumes the premise. We didn’t -- the House didn’t know it was unconstitutional. I mean --
+ 
+CLEMENT: Well, with all due respect, Justice Kennedy, I think the House --
+ 
+KENNEDY: We are talking about ex ante, not ex post, what is standing at the outset? And *37 the House says this is constitutional.
+ 
+CLEMENT: Sure. And it -- there is a presumption that its acts are constitutional. That presumption had real life here because when Congress was considering this statute it asked the Justice Department three times whether DOMA was constitutional, and three times the Justice Department told them that it was in fact constitutional. So I think it’s a fair assumption that they at least have standing to have that determination made by the courts, and this Court has held that in the context of State legislatures and the courts have --
+ 
+KENNEDY: So you don’t think that there is anything to the argument that in Chadha the House had its own unique institutional responsibilities and prerogatives at stake, either the one-house veto or the legislative veto?
+ 
+CLEMENT: Well, I would say two things.
+ 
+KENNEDY: That’s irrelevant?
+ 
+CLEMENT: I don’t think -- I don’t think it’s irrelevant. I would say two things. One is, I don’t think there was anything particularized about the fact that it was the House that exercised the one-house veto because the Court allowed the Senate to participate as well. And the Senate’s interest in that was really *38 just the constitutionality of the legislation and perhaps the one-house veto going forward.
+ 
+But what I would say is I just -- I would continue to resist the premise, which is that the House’s prerogatives aren’t at stake here. The House’s single most important prerogative, which is to pass legislation and to have that legislation, if it’s going to be repealed, only be repealed through a process where the House gets to fully participate.
+ 
+ROBERTS: What if you -- what if you disagree with -- the executive is defending one of your laws, if that’s the way you insist on viewing it, and you don’t like their arguments, you say, they are not making the best argument. Is that a situation in which you have standing to intervene to defend the law in a different way than the executive is?
+ 
+CLEMENT: No, I would say we would not, Mr. Chief Justice. I would say in that circumstance the House would have the prerogative to file an amicus brief if it wanted to. But that’s because of a sound prudential reason, which is when the Executive is actually discharging its responsibility, its traditional obligation to defend an Act of Congress, if Congress comes in as a party it has the possibility of second-guessing the way that they are actually defending *39 it.
+ 
+But if the Executive is going to vacate the premises or, in a case like this, not just vacate the premises, but stay in court and attack the statute, you don’t have that prudential concern. And that’s why what I --
+ 
+KAGAN: How about a couple of cases sort of in the middle of the Chief Justice’s and this one? So let’s say that the Attorney General decides that a particular application of a statute is unconstitutional and decides to give up on that application. Or even let’s say the Attorney General decides that the application of the statute might be unconstitutional, so decides to interpret the statute narrowly in order to avoid that application. Could Congress then come in?
+ 
+CLEMENT: Well, I think -- if in a particular case, which is obviously not this case, the Executive decides, we are not going to defend the statute as applied I think in that situation the House could come in. I think as a matter of practice it probably wouldn’t.
+ 
+And it’s not like the House and the Senate are very anxious to exercise this prerogative. In the 30 years since the Chadha decision, there’s only been 12 *40 instances in which the -- in which the House has come in and intervened as a party. And I think it’s very important to recognize that whatever --
+ 
+GINSBURG: Does that include the -- does that include the courts of appeals or just this Court?
+ 
+CLEMENT: That includes all courts, but excluding the DOMA cases. So from the point of Chadha until the DOMA cases, there were a total of 12 cases where the House intervened as a party.
+ 
+And I do think that particularly in the lower court cases, it’s very important to understand that party status is critical. I mean, in this case it doesn’t make a huge differences if you are an amicus with argument time versus a party. But in the district court that makes all the difference. Only a party can take a deposition.
+ 
+BREYER: This is what -- we have always had the distinction between the public action and the private action. A public action, which does not exist under the Federal Constitution, is to vindicate the interest in the law being enforced. Now, when the government, State or Federal, in fact has the interest, a special interest, in executing the law, here given to the President, and they can delegate that interest to *41 Congress, if they did, which arguably they didn’t do here. But to say that any legislator has an interest on his own without that delegation to defend the law is to import in that context the public action into the Federal government.
+ 
+Now, that -- it hasn’t been done, I don’t think, ever. I can see arguments for and against it, but I can’t think of another instance where that’s happened.
+ 
+CLEMENT: Well, I would -- a couple of things, Justice Breyer. I mean, I would point you to Chadha and I realize you can distinguish Chadha.
+ 
+BREYER: Chadha is really different because of course there is an interest in the legislature in defending a procedure of the legislature. Now, that’s -- that isn’t tough. But this is because the only interest I can see here is the interest in the law being enforced.
+ 
+CLEMENT: Well, if I --
+ 
+BREYER: And that’s -- I’m afraid of opening that door.
+ 
+CLEMENT: Well, it’s understandable. I mean, obviously nobody’s suggesting, at least in the Legislative Branch, that this is a best practices situation.
+ 
+BREYER: No, no. But think of another instance where that’s happened. Where in all of the 12 cases or whatever that what this Court has said, without any special delegation of the power of the State or Federal government to execute the law, without any special delegation, a legislator simply has the power, which a private citizen wouldn’t have, to bring a lawsuit as a party or defend as a party to vindicate the interest in the law being enforced, the law he has voted for?
+ 
+Now I can imagine arguments on both sides, so I’m asking you only, is there any case you can point me to which will help?
+ 
+CLEMENT: I can point to you a couple of cases that will help, but may not be a complete solution for some of the reasons you built into your question. The cases I would point to help are Coleman v. Miller, Karcher v. May, and Arizonans for Official English. And all of those -- I don’t think Coleman involved any specific legislative authorization, but you can distinguish it, I suppose.
+ 
+But in trying to distinguish it, keep in mind that this Court gave those 20 Senators not just standing to make the argument about the role of the lieutenant governor, but also gave them standing to make *43 the separate argument, which is the only one this Court reached because it was divided four to four on the lieutenant governor’s role, the only issue that the Court reached was the issue whether prior ratification disabled them from subsequent legislation action, which is just a way of saying what they did was unconstitutional.
+ 
+So I think Coleman is quite close. Karcher, Arizonans against English, there was an authorization. We would say H. Res. 5 is enough of authorization for these purposes.
+ 
+SOTOMAYOR: Can you tell me where the authorization is here? I know that there is a statute that gives the Senate specifically authorization to intervene. And there was consideration of extending that right to the House. But the appointment of BLAG is strange to me because it’s not in a statute, it’s in a House rule.
+ 
+So where -- how does that constitute anything other than a private agreement among some Senators, the Senate -- the House leadership? And where -- from where do they derive the right, the statutory right, to take on the power of representing the House in items outside of the House? I know they control the procedures within the House, but that’s a very different *44 step than saying that they can decide who -- or to create standing in some way, prudential or otherwise, Article III or otherwise.
+ 
+CLEMENT: Well, Justice Sotomayor, I can point you to two places. One is the House rules that are pursuant to the rulemaking authority and approved by the institution. They’re approved in every Congress. Rule 2.8.
+ 
+SOTOMAYOR: What other House Rule creates the power of the majority leaders to represent the House outside of the functions of the House?
+ 
+CLEMENT: I’m not sure there is another one, but that’s the sole purpose of Rule 2.8. It creates the Office of the General Counsel --
+ 
+SOTOMAYOR: This would be, I think, sort of unheard of, that --
+ 
+CLEMENT: I don’t think so, Justice Sotomayor. That’s the same authority that gave the House, essentially a predecessor to it -- - it would be the same authority that has had the House appear in litigation ever since Chadha. In Chadha, there was a vote that authorized it specifically, but we have that here in H. Res. 5, which is the second place I would point you.
+ 
+SOTOMAYOR: We don’t even have a *45 vote here.
+ 
+CLEMENT: We do. We do have a vote in H. Res. 5. At the beginning of this Congress in January, the House passed a resolution that passed, that authorized the BLAG to continue to represent the interests of the House in this particular litigation. So I think if there was a question before H. Res. 5, there shouldn’t be now.
+ 
+I would like to --
+ 
+KENNEDY: Under your view, would the Senate have the right to have standing to take the other side of this case, so we have the House on one side and the Senate on the other?
+ 
+CLEMENT: No, Justice Kennedy, they wouldn’t have the standing to be on the other side of this case. They would have standing to be on the same side of this case, and I think that’s essentially what you had happen in the Chadha case.
+ 
+KENNEDY: Well, why not? They’re concerned about the argument and you say that the House of Representatives standing alone can come into the court. Why can’t the Senate standing alone come into court and intervene on the other side?
+ 
+CLEMENT: It -- because it wouldn’t have the authority to do so under Chadha. What -- Chadha *46 makes the critical flipping of the switch that gives the House the ability to intervene as a party is that the Executive Branch declines to defend the statute. So if the Senate wants to come in and basically take -- share argument time or something as an amicus, they can, but there’s no need for them to participate as -- as a party.
+ 
+And I would want to emphasize that in the lower courts, participation by a party is absolutely critical. It doesn’t make sense to have the party that wants to see the statute invalidated be in charge of the litigation in the district courts. Because whether the statute is going to be invalidated is going to depend on what kind of record there is in the district court.
+ 
+It’d be one thing, Justice Scalia, if all that happened is they entered consent judgment. I suppose then the thing would end, and then in the long run, the Executive would be forced to do their job and actually defend these statutes --
+ 
+ALITO: Then why is --
+ 
+CLEMENT: -- but if that’s not going to happen --
+ 
+ALITO: Then why is it sufficient for one house to take the position that the statute is constitutional? The enactment of legislation requires *47 both houses, and usually the signature of the President.
+ 
+CLEMENT: Justice Alito, I think it makes perfect sense in this context because every -- each individual house has a constitutional rule before a statute is repealed. And so yes, it takes two of them to make the law. But each of their’s participation is necessary to repeal a law. So if the Executive wants to go into court and effectively seek the judicial repeal of a law, it makes sense that one house can essentially vindicate its role in our constitutional scheme by saying, wait a minute, we passed that law, it can’t be repealed without our participation.
+ 
+ALITO: Well, if the law is passed by a bare majority of one of the houses, then each member of that -- of that house who was part of the majority has the same interest in defending its constitutionality.
+ 
+CLEMENT: I don’t think that’s right after Raines, Justice Alito. In Raines, this Court carefully distinguished between the situation of an individual legislator and the situation of one of the houses as a whole. And it specifically said this might be a different case if we had that kind of vote. And that’s what you have here. That’s what you had in Chadha.
+ 
+And again, I do think that -- I mean, the only alternatives here are really to say that the Executive absolutely must enforce these laws, and if they don’t, I mean because after all -- you know, I -- I really don’t understand why it’s -- if they’re not going to -- if they’ve made a determination that the law is unconstitutional, why it makes any sense for them to continue to enforce the law and put executive officers in the position of doing something that the President has determined is unconstitutional.
+ 
+I mean, think about the qualified immunity implications of that for a minute.
+ 
+So that’s problematic enough. But if they’re going to be able to do that and get anything more than a consent judgment, then the House is going to have to be able to play its role. And it’s going to have to play the role of a party. An amicus just doesn’t get it done. And I really think, in a sense, the Executive gives the game away by conceding that our participation as an amicus here is necessary to solve what would otherwise be a glaring adverseness problem.
+ 
+Because once you recognize that we can participate as an amicus, you’ve essentially recognized that there’s nothing inherently executive about coming in and defending the constitutionality of an act of *49 Congress. Or more to the point, there’s nothing inherently unlegislative about coming in and making arguments in defense of the statute.
+ 
+And if that’s critical, absolutely necessary to ensure there’s an adverse presentation of the issues, well, there’s no reason the House should have to do that with one hand tied behind its back. If its participation is necessary, it should participate as a full party. And as I say, that’s critically important in the lower courts so they can take depositions, build a factual record, and allow for a meaningful defense of the statute.
+ 
+Because the alternative really puts the Executive Branch in an impossible position. It’s a conflict of interest. They’re the ones that are making litigation decisions to promote the defense of a statute they want to see invalidated. And if you want to see the problems with their position, look at Joint Appendix page 437. You will see the most anomalous motion to dismiss in the history of litigation. A motion to dismiss, filed by the United States, asking the district court not to dismiss the case.
+ 
+I mean, that’s what you get under their view of the world, and that doesn’t serve as separation of powers.
+ 
+KENNEDY: That -- that would give you intellectual whiplash.
+ 
+I’m going to have to think about that.
+ 
+(Laughter.)
+ 
+CLEMENT: It -- it does. It does. And then -- you know -- and the last thing I’ll say is, we saw in this case certain appeals were expedited, certain appeals weren’t. They did not serve the interest of defending the statute, they served the distinct interest of the Executive.
+ 
+Thank you.
+ 
+ROBERTS: Thank you, counsel.
+ 
+Ms. Jackson, you have 4 minutes remaining.
+ 
+JACKSON: Thank you, Your Honor.
+ 
+I have five points I’ll try to get to.
+ 
+Just very quickly, Justice Breyer, I only answered part of a question you asked me earlier, and I just want to say, the U.S. is asking this Court to tell it to pay money. It’s not asking for relief.
+ 
+Justice Sotomayor, you asked me about how the issue could come up otherwise. I don’t think I had a chance to mention, private party litigation, employees against employers, there’s an interpleader action right *51 now pending that was cited in the brief of the 287 employers on page 32 at note 54 giving examples of how the issue of DOMA’s constitutionality could arise in private litigation.
+ 
+In addition, State and local government employees might have, for example, FMLA claims in which the issue could arise. So I think that there are a number of ways in which the issue could arise.
+ 
+On the question of what the purpose of 1252 could be if it wasn’t to coincide with Article III injury that was raised by my -- my friend in his argument, I wonder whether the Court in Chadha wasn’t saying something like this, 1252 was Congress’s wish list. It was like -- like a citizen suit provision, to be exercised only to the extent that Article III power was there. That’s a way to make sense out of what the Court is doing in the text and footnote there.
+ 
+As to the question of BLAG, which has been very fully discussed already, I do want to say that after-the-fact authorization seems to me quite troubling and inconsistent with this Court’s approach in Summers v. Earth Institute, and in the -- I think it was in the plurality in Lujan, where you -- you -- if a party has standing, they need to have it in the first court that they’re in, either when it starts or certainly before *52 judgment.
+ 
+And the rule as Justice Sotomayor observed just doesn’t seem to say anything about authority to litigate. I think that in addition, the -- the big problem here is the injury being complained of is inconsistent with the separation of powers.
+ 
+Bowsher and Buckley make very clear that once the litigation is enacted, Congress’s authority to supervise it is at an end. It goes over to the Executive Branch. And whether the Executive Branch does it well or badly, in the view of Congress, it’s in its domain. And separation of powers will not be meaningful if all it means is the Congress has to stay out unless it thinks that the President is doing it badly.
+ 
+So I think Article II helps give shape to what kinds of injuries alleged by parts of Congress can be cognizable.
+ 
+Finally, the three -- two or three cases cited by my colleague who last spoke Coleman, Karcher and Arizona, all involved State level of government, where the Federal separation of powers doctrines articulated in cases like Bowsher and Buckley were not at issue.
+ 
+Unless there are other questions, I will sit down.
+ 
+ALITO: Well, could I ask you this question, on the question of the House resolution --
+ 
+JACKSON: Yes, sir.
+ 
+ALITO: -- if -- if a house -- if one of the houses passes a resolution saying that a particular group was always authorized to represent us, do you think it’s consistent with the separation of powers for us to examine whether that’s a correct interpretation of the rules of that House of Congress?
+ 
+JACKSON: Yes, I do, Your Honor, because that resolution is not something operating only internally within the House. It is having effect in the world of the Article III courts, which this Court, in proceedings in it, is in charge of.
+ 
+Moreover, in the Smith case, the -- this Court said that when the Senate passed an after-the-fact interpretation of what a prior rule meant, notwithstanding the great respect given to the Senate’s interpretation, this Court could reach and did reach an alternative interpretation of the meaning of the Senate rules, and I would urge this Court to do the same thing here.
+ 
+BREYER: Maybe I -- as long as you have a minute, I -- what did you think of Mr. Clement’s argument this way, that -- that the execution -- can *54 I --
+ 
+ROBERTS: Sure.
+ 
+BREYER: -- to execute the laws is in Article II, but where the President doesn’t in a particular law, under those circumstances, a member of the legislature, appropriately authorized, has the constitutional power -- a power that is different than the average person being interested in seeing that the law is carried out, they can represent the power to vindicate the interest in seeing that the law is executed. And that’s a special interest, existing only when the Executive declines to do so.
+ 
+JACKSON: Your Honor, I think that when the Executive declines to do so, it is exercising its Take Care Clause authority. The Take Care Clause says that the Executive shall take care that the laws be faithfully executed. I think the laws include the Constitution.
+ 
+So I don’t think the distinction offered by my colleague is -- is appropriate. I think it would result in a significant incursion on the separation of powers between the legislature and the Executive Branch, and would bring this -- the Federal courts into more controversies that have characteristics of interbranch confrontation, in which this Court has traditionally *55 been very cautious.
+ 
+ROBERTS: Ms. Jackson, before you sit down, I would like to note that you briefed and argued this case as amicus curiae at the invitation of the Court, and you have ably discharged the responsibility, for which you have the gratitude of the Court.
+ 
+JACKSON: Thank you, Your Honor.
+ 
+ROBERTS: Thank you.
+ 
+We’ll now take a very short break and turn to the merits.
+ 
+(Recess.)
+ 
+ROBERTS: I meant that we would take a break, not that -- we will continue argument in the case on the merits.
+ 
+Mr. Clement?
+ 
+CLEMENT: Mr. Chief Justice, and may it please the Court
+ 
+The issue of same-sex marriage certainly implicates profound and deeply held views on both sides of the issue. But the legal question on the merits before this Court is actually quite narrow. On the *56 assumption that States have the constitutional option either to define marriage in traditional terms or to recognize same-sex marriages or to adopt a compromise like civil unions, does the Federal government have the same flexibility or must the Federal government simply borrow the terms in State law?
+ 
+I would submit the basic principles of federalism suggest that as long as the Federal government defines those terms solely for purposes of Federal law, that the Federal government has the choice to adopt a constitutionally permissible definition or to borrow the terms of the statute.
+ 
+GINSBURG: Mr. Clement, the problem is that it would totally tort the States’ decision that there is a marriage between two people, for the Federal government then to come in to say no joint return; no marital deduction; no Social Security benefits; your spouse is very sick, but you can’t get leave; people -- if that set of attributes, one might well ask, what kind of marriage is this?
+ 
+CLEMENT: And I think the answer to that, Justice Ginsburg, would be to say that that is a marriage under State law, and I think this Court’s cases when it talks about the fundamental right to marriage, I take it to be talking about the State law status of *57 marriage, and the question of what does that mean for purposes of Federal law has always been understood to be a different matter. And that’s been true certainly in a number of situations under a number of statutes, so it’s simply not the case that as long as you are married under State law you absolutely are going to be treated as married --
+ 
+GINSBURG: How about divorce? Same thing? That you can have a Federal notion of divorce, and that that doesn’t relate to what the State statute is?
+ 
+CLEMENT: Well, we’ve never had that, Your Honor, and I think that there is a difference when it comes to divorce because with divorce uniquely, you could have the -- possibility that somebody’s married to two different people for purposes of State law and Federal law.
+ 
+But with the basic question of even whether to recognize the marriage -- or probably the best way to put it is just whether the Federal law treats you as married for a particular purpose or not, there always have been differences between the Federal law treatment and the State law treatment.
+ 
+The Federal treatment, for example, recognizes common law marriages in all States whereas a *58 lot of States don’t recognize common law marriages, but Federal law recognizes that for some purposes -- the Social Security Act, I think it’s at page 4 of our brief. And --
+ 
+SOTOMAYOR: But only if the State recognizes it.
+ 
+CLEMENT: No, I don’t think that is true for purposes of that provision.
+ 
+SOTOMAYOR: There is a common law, Federal common law definition?
+ 
+CLEMENT: That’s my understanding, that’s -- as discussed --
+ 
+SOTOMAYOR: I thought it was reverse, that if the State law recognized common law marriages, the Federal law --
+ 
+CLEMENT: My understanding is that there is a Federal -- that the Federal law recognizes in -- in the Social Security context even if it doesn’t. And in all events, there are other situations -- immigration context, tax consequences. For tax consequences, if you get a divorce every December -- you know, for tax consequences, the State may well recognize that divorce. The Federal government has long said, look, we are not going to allow you get a divorce every December just to get remarried in January so you have a filing tax *59 status that works for you that is more favorable to you.
+ 
+So the Federal government has always treated this somewhat distinctly. It always has its own efforts, and I do think for purposes of the federalism issue, it really matters that all DOMA does is take this term where it appears in Federal law and define it for purposes of Federal law. It would obviously be a radically different case if Congress had, in 1996, decided to try to stop States from defining marriage in a particular way or dictate how they would decide it in that way.
+ 
+KENNEDY: Well, it applies to over what, 1,100 Federal laws, I think we are saying. So it’s not -- it’s -- it’s -- I think there is quite a bit to your argument that if it’s a tax deduction case, which is specific, whether or not if Congress has the power it can exercise it for the reason that it wants, that it likes some marriage it does like, I suppose it can do that.
+ 
+But when it has 1,100 laws, which in our society means that the Federal government is intertwined with the citizens’ day-to-day life, you are at -- at real risk of running in conflict with what has always been thought to be the essence of the State police power, which is to regulate marriage, divorce, custody.
+ 
+CLEMENT: Well, Justice Kennedy, two points. First of all, the very fact that there are 1,100 provisions of Federal law that define the terms “marriage” and “spouse” goes a long way to showing that Federal law has not just stayed completely out of these issues. It’s gotten involved in them in a variety of contexts where there is an independent Federal power that supported that.
+ 
+Now, the second thing is the fact that DOMA affects all 1,100 statutes at once is not really a sign of its irrationality. It is a sign that what it is, and all it has ever purported to be, is a definitional provision. And like every other provision in the Dictionary Act, what it does is it defines the term wherever it appears in Federal law in a consistent way. And that was part and parcel of what Congress was trying to accomplish with DOMA in 1996.
+ 
+KENNEDY: Well, but it’s not really uniformity because it regulates only one aspect of marriage. It doesn’t regulate all of marriage.
+ 
+CLEMENT: Well, that’s true but I don’t think that’s a mark against it for federalism purposes. And it -- it addressed a particular issue at a point, remember in 1996, Congress is addressing this issue because they are thinking that the State of Hawaii, *61 through its judicial action, is about to change the definition of marriage from a way that it had been defined in every jurisdiction in the United States. And what that meant is that when Congress passed every one of the statutes affected by DOMA’s definition, the Congress that was passing that statute had in mind the traditional definition.
+ 
+And so Congress, in 1996, at that point says, the States are about to experiment with changing this, but the one thing we know is all these Federal statutes were passed with the traditional definition in mind. And if rational basis is the test, it has to be rational for Congress then to say, well, we are going to reaffirm what this word has always meant for purposes of Federal law.
+ 
+ALITO: Suppose we look just at the estate tax provision that’s at issue in this case, which provides specially favorable treatment to a married couple as opposed to any other individual or economic unit. What was the purpose of that? Was the purpose of that really to foster traditional marriage, or was Congress just looking for a convenient category to capture households that function as a unified economic unit?
+ 
+CLEMENT: Well, I think for these *62 purposes actually, Justice Alito, if you go back to the beginning of the estate tax deduction, what Congress was trying to do was trying to provide uniform treatment of taxpayers across jurisdictions, and if you look at the brief that Senator Hatch and some other Senators filed, they discussed this history because what was happening, in 1948 when this provision was initially put into Federal law, was you had community property States and common law States, and actually there was much more favorable tax treatment if you were in a community law State than a common law State.
+ 
+And Congress didn’t want to have an artificial incentive for States to move from common law to community property. It wanted to treat citizens the same way no matter what State they were in. So it said, we will give a uniform Federal deduction based on marriage, and I think what that shows is that when the Federal government gets involved in the issue of marriage, it has a particularly acute interest in uniform treatment of people across State lines.
+ 
+So Ms. Windsor wants to point to the unfairness of the differential treatment of treating two New York married couples differently, and of course for purposes of New York law that’s exactly the right focus, but for purposes of Federal law it’s much more rational  *63 for Congress to -- to say, and certainly a rational available choice, for Congress to say, we want to treat the same-sex couple in New York the same way as the committed same-sex couple in Oklahoma and treat them the same. Or even more to the point for purposes --
+ 
+SOTOMAYOR: But that’s begging the question because you are treating the married couples differently.
+ 
+CLEMENT: Well --
+ 
+SOTOMAYOR: You are saying that New York’s married couples are different than Nebraska’s.
+ 
+CLEMENT: But -- but the only way --
+ 
+SOTOMAYOR: I picked that out of a hat. But the point is that there is a difference.
+ 
+CLEMENT: But the -- the only way they are different is because of the way the State law treats them. And just to be clear how -- you know, what this case is about, and how sort of anomalous the -- the treatment, the differential treatment in two States is, is this is not a case that is based on a marriage license issued directly by the State of New York after 2011 when New York recognized same-sex marriage. This is -- the status of Ms. Windsor as married depends on New York’s recognition of an Ontario marriage certificate issued in 2007.
+ 
+BREYER: You would say it would be the same thing if the State passed a law -- Congress passes a law which says, well, there’s some States -- they all used to require 18 as the age of consent. Now, a lot of them have gone to 17. So if you’re 17 when you get married, then no tax deduction, no medical, no nothing.
+ 
+Or some States had a residence requirement of a year, some have six months, some have four months. So Congress passes a law that says, well unless you’re there for a year, no medical deduction, no tax thing, no benefits of any kind, that that would be perfectly constitutional. It wouldn’t be arbitrary, it wouldn’t be random, it wouldn’t be capricious.
+ 
+CLEMENT: Well, I guess I would -- I would say two things. I would say that the first question would be what’s the relevant level of scrutiny and I assume the level of scrutiny for the things --
+ 
+BREYER: No, I just want your bottom line. The bottom line here is we can imagine -- you know, I can make them up all day. So can you - differences between --
+  
+BREYER: Differences between States have nothing to do with anything -- you know, residence *65 requirements, whether you have a medical exam, whether -- we can think them up all day -- how old you are. And Congress just passes a law which takes about, let’s say, 30 percent of the people who are married in the United States and says no tax deduction, no this, no that, no medical -- medical benefits, none of these good things, none of them for about 20, 30 percent of all of the married people.
+ 
+Can they do that?
+ 
+CLEMENT: Again, I think the right way to analyze it would be -- you know, is -- is there any distinction drawn that implicates what level of scrutiny is implicated. If the level of scrutiny is rational basis, then my answer to you would be, yes, they can do that. I mean, we’d have to talk about what the rational basis would be --
+ 
+BREYER: No, there isn’t any. I’m trying to think of examples, where I just can’t imagine what it is.
+ 
+CLEMENT: Well, I -- I think the uniform treatment of individuals across State lines --
+ 
+BREYER: All right. So you’re saying uniform treatment’s good enough no matter how odd it is, no matter how irrational. There is nothing but uniformity. We could take -- no matter. You see what *66 I’m -- where I’m going?
+ 
+CLEMENT: No, I see exactly where you’re going, Justice Breyer.
+ 
+BREYER: All right.
+ 
+(Laughter.)
+ 
+CLEMENT: And -- and obviously, every one of those cases would have to be decided on its own. But I do think there is a powerful interest when the Federal government classifies people --
+ 
+BREYER: Yes, okay. Fine.
+ 
+CLEMENT: -- there’s a powerful interest in treating --
+ 
+BREYER: Fine, but once -- the first part. Every one of those cases has to be decided on its own, okay? Now, what’s special or on its own that distinguishes and thus makes rational, or whatever basis you’re going to have here, treating the gay marriage differently?
+ 
+CLEMENT: Well, again, if we’re -- if we’re coming at this from the premise that the States have the option to choose, and then we come at this from the perspective that Congress is passing this not in a vacuum, they’re passing this in 1996. And what they’re confronting in 1996 is the prospect that one State, through its judiciary, will adopt same-sex marriage, and *67 then by operation of the full faith and credit law, that will apply to any -- any couple that wants to go there.
+ 
+And the State that’s thinking about doing this is, Hawaii, it’s a very nice place to go and get married. And so Congress is worried that people are going to go there, go back to their home jurisdictions, insist on the recognition in their home jurisdictions of their same-sex marriage in Hawaii, and then the Federal government will borrow that definition, and therefore, by the operation of one State’s State judiciary, same-sex marriage is basically going to be recognized throughout the country.
+ 
+And what Congress says is, wait a minute. Let’s take a timeout here. This is a redefinition of an age-old institution. Let’s take a more cautious approach where every sovereign gets to do this for themselves. And so Section 2 of DOMA says we’re going to make sure that on full faith and credit principles that a decision of one State --
+ 
+SOTOMAYOR: But what gives the Federal government the right to be concerned at all at what the definition of marriage is? Sort of going in a circle. You’re saying -- you’re saying, we can create this special category -- men and women -- because the *68 States have an interest in traditional marriage that they’re trying to protect. How do you get the Federal government to have the right to create categories of that type, based on an interest that’s not there, but based on an interest that belongs to the States?
+ 
+CLEMENT: Well, at least two -- two responses to that, Justice Sotomayor. First is that one interest that supports the Federal government’s definition of this term is whatever Federal interest justifies the underlying statute in which it appears.
+ 
+So in every one of these statutes that affected, by assumption, there’s some Article I Section 8 authority --
+ 
+SOTOMAYOR: So they can create a class they don’t like -- here, homosexuals, or a class that they consider is suspect in the marriage category, and they can create that class and decide benefits on that basis when they themselves have no interest in the actual institution of marriage as marriage. The State’s control that.
+ 
+CLEMENT: Just to clarify, Justice Sotomayor, I’m not suggesting that the Federal government has any special authority to recognize traditional marriage. So if -- the assumption is that nobody can do it. If the States can’t do it either, *69 then the Federal government can’t do it. So the Federal government --
+ 
+SOTOMAYOR: No, I’m -- I’m assuming --
+ 
+CLEMENT: Okay. So then the question is --
+ 
+SOTOMAYOR: Assuming I assume the States can --
+ 
+CLEMENT: So then, if the States can --
+ 
+SOTOMAYOR: -- what creates the right --
+ 
+CLEMENT: -- the Federal government has sort of two sets of authorities that give it sort of a legitimate interest to wade into this debate. Now, one is whatever authority gives rise to the underlying statute. The second and complementary authority is that -- you know, the Federal government recognizes that it’s a big player in the world, that it has a lot of programs that might give States incentives to change the rules one way or another.
+ 
+And the best way -- one way to stay out of the debate and let just the -- the States develop this and let the democratic process deal with this is to just say, look, we’re going to stick with what we’ve always had, which is traditional definition. We’re not going *70 to create a regime that gives people an incentive and point to Federal law and say, well, another reason you should have same-sex marriage is because then you’ll get a State tax deduction. They just stayed out of it. They’ve said, look, we’re --
+ 
+KENNEDY: But I - I see an illogic in your argument. I -- I hadn’t thought of the relation between Section 2 and Section 3 in the way you just said. You said, now Section 2 was in order to help the States. Congress wanted to help the States. But then Section 3, that Congress doesn’t help the States, which have come to the conclusion that gay marriage is lawful. So that’s inconsistent.
+ 
+CLEMENT: No, no. They treat them -- which is to say they -- they are preserving, they are helping the States in the sense of having each sovereign make this decision for themselves.
+ 
+KENNEDY: We’re helping the States do -- if they do what we want them to, which is -- which is not consistent with the historic commitment of marriage and -- and of questions of -- of the rights of children to the State.
+ 
+CLEMENT: With respect, Justice Kennedy, that’s not right. No State loses any benefits by recognizing same-sex marriage. Things stay the same. *71 What they don’t do is they don’t sort of open up an additional class of beneficiaries under their State law for -- that get additional Federal benefits. But things stay the same. And that’s why in this sense --
+ 
+GINSBURG: They’re not -- they’re not a question of additional benefits. I mean, they touch every aspect of life. Your partner is sick. Social Security -- I mean, it’s pervasive. It’s not as though, well, there’s this little Federal sphere and it’s only a tax question.
+ 
+It’s -- it’s -- as Justice Kennedy said, 1,100 statutes, and it affects every area of life. And so you are really diminishing what the State has said is marriage. You’re saying, no, State did two kinds of marriage, the full marriage, and then this sort of skim milk marriage.
+ 
+(Laughter.)
+ 
+CLEMENT: With respect, Justice Ginsburg, that’s not what the Federal government is saying. The Federal government is saying that within its own realm in Federal policies, where we assume that the Federal government has the authority to define the terms that appear in their own statutes, that in those areas, they are going to have their own definition. And that’s --
+ 
+KAGAN: Mr. Clement, for the most part and historically, the only uniformity that the Federal government has pursued is that it’s uniformly recognized the marriages that are recognized by the State. So this was a real difference in the uniformity that the Federal government was pursuing. And it suggests that maybe something -- maybe Congress had something different in mind than uniformity.
+ 
+So we have a whole series of cases which suggest the following -- which suggest that when Congress targets a group that is not everybody’s favorite group in the world, that we look at those cases with some -- even if they’re not suspect -- with some rigor to say, do we really think that Congress was doing this for uniformity reasons, or do we think that Congress’s judgment was infected by dislike, by fear, by animus, and so forth?
+ 
+I guess the question that this statute raises, this statute that does something that’s really never been done before, is whether that sends up a pretty good red flag that that’s what was going on.
+ 
+CLEMENT: A couple of responses, Justice Kagan. First of all, I think I would take issue with the premise, first of all, that this is such an unusual Federal involvement on an issue like marriage. If you *73 look at historically, not only has the Federal government defined marriage for its own purposes distinctly in the context of particular -- particular programs, it’s also intervened in -- in other areas, including in-State prerogatives. I mean, there’s a reason that 4 State constitutions include a prohibition on polygamy. It’s because the Federal Congress insisted on them. There is a reason that, in the wake of the Civil War and in Reconstruction, Congress specifically wanted to provide benefits for spouses of freed slaves who fought for the Union.
+ 
+In order to do it, it essentially had to create State law marriages because in the Confederacy, the slaves couldn’t get married. So they developed their own State -- essentially, a Federal, sort of, condition to define who was married under those laws. So where there have been needs in the past to get involved, the Federal government has gotten involved.
+ 
+The other point I would make -- but I also eventually want to get around to the animus point -- but the other point I would make is, when you look at Congress doing something that is unusual, that deviates from the way they -- they proceeded in the past, you have to ask, well, was there a good reason? And in a sense, you have to understand that, in 1996, something’s *74 happening that is, in a sense, forcing Congress to choose between its historic practice of deferring to the States and its historic practice of preferring uniformity.
+ 
+Up until 1996, it essentially has it both ways, every State has the traditional definition. Congress knows that’s the definition that’s embedded in every Federal law. So that’s fine. We can defer.
+ 
+Okay. 1996 --
+ 
+KAGAN: Well, is what happened in 1996 -- and I’m going to quote from the House Report here -- is that “Congress decided to reflect an honor of collective moral judgment and to express moral disapproval of homosexuality.”
+ 
+Is that what happened in 1996?
+ 
+CLEMENT: Does the House Report say that? Of course, the House Report says that. And if that’s enough to invalidate the statute, then you should invalidate the statute. But that has never been your approach, especially under rational basis or even rational basis-plus, if that is what you are suggesting.
+ 
+This Court, even when it’s applied more heightened scrutiny, the O’Brien case we cite, it suggests, look, we are not going to strike down a statute just because a couple of legislators may have *75 had an improper motive. We’re going to look, and under rational basis, we look, is there any rational basis for the statute?
+ 
+And so sure, the House Report says some things that we are not -- we’ve never invoked in trying to defend the statute.
+ 
+But the House Report says other things, like Congress was trying to promote democratic self-governance. And in a situation where an unelected State judiciary in Hawaii is on the verge of deciding this highly contentious, highly divisive issue for everybody, for the States -- for the other States and for the Federal government by borrowing principles, it makes sense for Congress --
+ 
+KENNEDY: Well, but your statute applies also to States where the voters have decided it.
+ 
+CLEMENT: That’s true. I -- but again, I don’t know that that fact alone makes it irrational. And I suppose if that’s what you think --
+ 
+KENNEDY: Well -- just to be clear, I think your answer is fair and rational.
+ 
+We’ve switched now from Federal power to rationality. There is -- there is a difference. We’re talking -- I think we are assuming now that there is Federal power and asking about the -- the degree of *76 scrutiny that applies to it. Or are we going back to whether there is a Federal power? They are -- they are intertwined.
+ 
+CLEMENT: I think -- I think there is so clearly is a Federal power because DOMA doesn’t define any term that appears anywhere other than in a Federal statute that we assume that there is Federal power for. And if there is not Federal power for the statutes in which these terms appear, that is a problem independent of DOMA, but it is not a DOMA problem. So I will assume we have Federal power.
+ 
+Then the question is --
+ 
+KENNEDY: Well, I think -- I think it is a DOMA problem. The question is whether or not the Federal government, under our federalism scheme, has the authority to regulate marriage.
+ 
+CLEMENT: And -- and it doesn’t have the authority to regulate marriages, as such, but that’s not what DOMA does. DOMA provides certain -- DOMA defines a term as it appears in Federal statutes, many of those Federal statutes provide benefits. Some of those Federal statutes provide burdens. Some of those Federal statutes provide disclosure obligations. It appears in lots of places, and if any one of --
+ 
+ALITO: Well, Congress could have *77 achieved exactly what it achieved under Section 3 by excising the term “married” from the United States Code and replacing it with something more neutral. It could have said “certified domestic units,” and then defined this in exactly the way that Section 3 -- exactly the way DOMA defines “marriage.”
+ 
+Would that make a difference? In that instance, the Federal government wouldn’t be purporting to say who is married and who is not married, it would be saying who is entitled to various Federal benefits and burdens based on a Federal definition?
+ 
+CLEMENT: That would make no difference, Justice Alito. It does -- the hypothetical helpfully demonstrates, though, that when the Federal government is defining this term as it appears in the Federal Code, it is not regulating marriage as such. And it is important to recognize that people that are married in their State, based on either the legislative acts or by judicial recognition, remain married for purposes of State law.
+ 
+BREYER: You started, you started by, I think, agreeing -- maybe not -- that uniformity in and of itself with nothing else is not likely to prove sufficient, at least if it’s rational basis-plus. And -- and why? Because we can think of *78 weird categories that are uniform.
+ 
+So you say, look at it on the merits. Now that’s where you are beginning to get. But so far, what I’ve heard is, well, looking at it on the merits, there is certainly a lot of harms. And on the plus side what there is, is one, we don’t want courts deciding this. But of course, as was just pointed out, in some States it’s not courts, it’s the voters.
+ 
+Then you say, ah, but we want -- there are too many courts deciding it. Now, is -- too many courts might decide it. Now what else is there? What else? I want to -- I want to be able to have a list -- you know, of really specific things that you are saying justify this particular effort to achieve uniformity. And I want to be sure I’m not missing any.
+ 
+And so far, I’ve got those two I mentioned. What else?
+ 
+SCALIA: I didn’t understand that courts were so central to your position. I -- I thought you didn’t want the voters in one State to dictate to other States any more than you would want the courts in one State to dictate to other States.
+ 
+CLEMENT: Well, I -- I think that’s true, Justice Scalia. The point about the courts, though, is -- I mean, it’s particularly relevant here.
+ 
+BREYER: That means courts -- the courts, they do dictate in respect to time. They dictate in respect to age. They dictate in respect to all kinds of things. And what I’m looking for is what, in your opinion, is special about this homosexual marriage that would justify this, other than this kind of pure uniformity, if there is such a thing?
+ 
+CLEMENT: Well, let me -- let me just get on record that -- to take issue with one of the premises of this, which is we are at somehow rational basis-plus land because I would suggest strongly that three levels of scrutiny are enough.
+ 
+But in all events, if you are thinking about the justifications that defend this statute, that justify the statute, they are obviously in the brief. But it’s uniformity -- but it’s not -- it’s not just that Congress picked this -- you know, we need a uniform term, let’s pick this out of the air.
+ 
+They picked the traditional definition that they knew reflected the underlying judgments of every Federal statute on the books at that point. They knew it was the definition that had been tried in every jurisdiction in the United States and hadn’t been tried anywhere until 2004. And then, of course, it was, as they correctly predicted, a judicial decision.
+ 
+And in this context, in particular, they are thinking about an individual -- I mean, this couple goes to Ontario, they get the -- they get a marriage certificate. A couple could -- from Oklahoma, could have gotten -- gone to Ontario and gotten a marriage certificate that same day and gone back to Oklahoma. And from the Federal law perspective, there is certainly a rational basis in treating those two couples the same way.
+ 
+If I may reserve my time.
+ 
+ROBERTS: Thank you, Mr. Clement.
+ 
+General Verrilli?
+VERRILLI: Mr. Chief Justice, and may it please the Court
+ 
+The equal protection analysis in this case should focus on two fundamental points. First, what does Section 3 do. And second, to whom does Section 3 do it?
+ 
+What Section 3 does is exclude from an array of Federal benefits lawfully married couples. That means that the spouse of a soldier killed in the line of *81 duty cannot receive the dignity and solace of an official notification of next of kin.
+ 
+ROBERTS: I suppose your -- you agree that Congress could go the other way, right? Congress could pass a new law today that says, we will give Federal benefits. When we say “marriage” in Federal law, we mean same -- committed same-sex couples as well, and that could apply across the board? Or do you think that they couldn’t do that?
+ 
+VERRILLI: We think that wouldn’t raise an equal protection problem like this statute does, Mr. Chief Justice.
+ 
+ROBERTS: Well, no, my point is it wouldn’t -- you don’t think it would raise a federalism problem either, do you?
+ 
+VERRILLI: I don’t think it would raise a federalism problem.
+ 
+ROBERTS: Okay.
+ 
+VERRILLI: And I -- but the key for the -- for the -- our purposes is that, in addition to denying these fundamental important -- fundamentally important benefits, is who they are being denied to.
+ 
+ROBERTS: So just to be clear, you don’t think there is a federalism problem with what Congress has done in DOMA?
+ 
+VERRILLI: We -- no, we don’t, Mr. Chief Justice. The question is what is the constitutionality for equal protection purposes, and because it’s unconstitutional and it’s embedded into numerous Federal statutes, those statutes will have an unconstitutional effect. But it’s the equal protection violation from -- from the perspective of the United States that --
+ 
+KENNEDY: You think Congress can use its powers to supercede the traditional authority and prerogative of the States to regulate marriage in all respects? Congress could have a uniform definition of marriage that includes age, consanguinity, et cetera, et cetera?
+ 
+VERRILLI: No, I’m not saying that, Your Honor. I think if Congress passed such a statute, then we would have to consider how to defend it. But that’s not --
+ 
+KENNEDY: Well, but then there is a federalism interest at stake here. And I thought you told the Chief Justice there was not.
+ 
+VERRILLI: Well, with respect to Section 3 of DOMA, the problem is an equal protection problem from the point of view of the United States.
+ 
+KAGAN: Yes, but General, surely the question of what the Federal interests are and whether those Federal interests should take account of the historic State prerogatives in this area is relevant to the equal protection inquiry?
+ 
+VERRILLI: It’s central to the inquiry, Justice Kagan. I completely agree with that point.
+ 
+ROBERTS: Oh, so it would be central to the inquiry if Congress went the other way, too?
+ 
+VERRILLI: Well, the difference is what Section 3 does is impose this exclusion from Federal benefits on a class that has undeniably been subject to a history of terrible discrimination on the basis of character --
+ 
+ROBERTS: I understand that. That’s your equal protection argument. It’s not very responsive to my concern that I’m trying to get an answer to. You don’t think federalism concerns come into play at all in this, right?
+ 
+VERRILLI: Well, I think -- I want -- I just want to clarify. The equal protection question would be different than the other circumstance. That’s a matter of --
+ 
+ROBERTS: I know the equal protection argument would be different.
+ 
+VERRILLI: But the federalism concerns come into play in the following way in that Mr. Clement has made the argument that, look, whatever States can do in terms of recognizing marriage or not recognizing marriage, the Federal government has commensurate authority to do or not do. We don’t think that’s right as a matter of our equal protection analysis because we don’t think the Federal government should be thought of as the 51st State. States, as we told the Court, yesterday we believe heightened scrutiny ought to apply even to the State decisions --
+ 
+KENNEDY: But you’re -- you are insisting that we get to a very fundamental question about equal protection, but we don’t do that unless we assume that the law is valid otherwise to begin with. And we are asking is it valid otherwise. Is -- what is the Federal interest in enacting this statute and is it a valid Federal interest assuming -- before we get to the equal protection analysis?
+ 
+VERRILLI: Yes. We think whatever the outer bounds of the Federal government’s authority, and there certainly are outer bounds, would be, apart *85 from the equal protection violation, we don’t think that Section 3 apart from equal protection analysis raises a federalism problem. But we do think the federalism analysis does play into the equal protection analysis because the Federal -- the Federal government is not the 51st state for purposes of -- of the interests that Mr. Clement has identified on behalf of BLAG.
+ 
+ALITO: Can I take you back to the example that you began with where a member of the military is injured. So let’s say three soldiers are injured and they are all in same-sex relationships, and in each instance the other partner in this relationship wants to visit the soldier in -- in a hospital.
+ 
+The first is a spouse in a State that allows same-sex marriage, the second is a domestic partner in a State that an allows that, but not same-sex marriage, the third is in an equally committed loving relationship in a State that doesn’t involve either. Now, your argument is that, under Federal law, the first would be admitted -- should be admitted, but the other two would be kept out?
+ 
+VERRILLI: The question in the case, Justice Alito is whether Congress has a sufficiently persuasive justification for the exclusion that it has imposed. And it -- and it does not. The only way in *86 which -- that BLAG’s arguments for its -- for the constitutionality of this statute have any prospect of being upheld is if the Court adopts the minimal rationality standard of Lee Optical. But the fundamental --
+ 
+ALITO: But if I could just take you back to the example. Your -- your position seems to me, yes, one gets in, two stay out, even though your legal arguments would lead to the conclusion that they all should be treated the same.
+ 
+VERRILLI: Well, the question before the Court is whether the exclusion that DOMA imposes violates equal protection, and it does violate equal protection because you can’t treat this as though it were just a distinction between optometrists and ophthalmologists, as the Lee Optical case did. This is a different kind of a situation because the discrimination here is being visited on a group that has historically been subject to terrible discrimination on the basis of personal --
+ 
+SCALIA: But that’s -- that’s the same in the example that he just gave you, that discrimination would have been visited on the same group, and you say there it’s okay.
+ 
+VERRILLI: No, I didn’t say that. I *87 said it would be subject to equal protection analysis, certainly, and there might be a problem.
+ 
+SCALIA: So you think that’s bad as well, that all three of those have to be treated the same, despite State law about marriage.
+ 
+VERRILLI: But the issue -- they have to be analyzed under equal protections principles, but whatever is true about the other situations. In the situation in which the couple is lawfully married for purposes of State law and the exclusion is a result of DOMA itself, the exclusion has to be justified under this Court’s equal protection analysis, and DOMA doesn’t do it.
+ 
+SOTOMAYOR: General, I have a question. You think, I think from your brief yesterday and today, that on some level sexual orientation should be looked at on an intermediate standard of scrutiny?
+ 
+VERRILLI: Yes, Your Honor.
+ 
+SOTOMAYOR: All right, heightened in some way. Going back to the Chief’s question about a law that was passed recognizing common law heterosexual -- homosexual marriages. I think even under your theory that might be suspect because -- that law might be suspect under equal protection because once *88 we say sexual orientation is suspect, it would be suspect whether it’s homosexual or heterosexual. The law favors homosexuals, it would be suspect because it’s based on sexual orientation.
+ 
+VERRILLI: You would have -- you would have to impose the -- the heightened scrutiny equal protection analysis, sure.
+ 
+SOTOMAYOR: Exactly. And so when we decided race was a suspect class, people who are not blacks have received --
+ 
+VERRILLI: Yes, that’s certainly --
+ 
+SOTOMAYOR: -- strict scrutiny on whether the use of race as a class, whether they are white or a black, is justified by a compelling interest.
+ 
+VERRILLI: That -- that is certainly true, Your Honor. If I could turn to the interest that BLAG has actually identified as supporting this statute, I think there are -- there are -- I think that you can see what the problem is here.
+ 
+Now, this statute is not called the Federal Uniform Marriage Benefits Act; it’s called the Defense of Marriage Act. And the reason for that is because the statute is not directed at uniformity in the administration of Federal benefits. All -- there is two equally uniform systems, the system of respecting the *89 State choices and the system of -- that BLAG is advocating here.
+ 
+And what BLAG’s got to do in order to satisfy equal protection scrutiny is justify the choice between one and the other. And the difference between the two is that the Section 3 choice is a choice that -- Section 3 choice is a choice that discriminates. And so it’s not simply a matter sufficient to say, well, uniformity is enough. Section 3 discriminates. And with respect --
+ 
+ROBERTS: So as soon as one State adopted same sex marriage, the definition of marriage throughout the Federal code had to change? Because there is no doubt that up until that point every time Congress said “marriage” they understood they were acting under the traditional definition of marriage.
+ 
+VERRILLI: Well, I don’t know, Mr. Chief Justice, why you wouldn’t assume that what Congress was doing when it enacted a statute, particularly a statute that had the word “marriage” in it, was assuming that the normal rule that applies in the vast majority of circumstances of deference to the State definition of marriage would be the operative principle.
+ 
+ROBERTS: So you don’t think *90 that when Congress said “marriage” in every one of these provisions that they had in mind same-sex marriages?
+ 
+VERRILLI: No, but they may well have had in mind deferring to the normal State definition of marriage, whatever it is. Not that they were making the specific choice that my friend suggested they were. But whatever is the case, when Congress enacted DOMA that choice of exclusion has to be justified under appropriate equal protection principles.
+ 
+And so the issue of uniformity just doesn’t get you there because there is no uniformity advantage to Section 3 of DOMA as opposed to the traditional rule. The issue of administration doesn’t get you there. I mean, at a very basic level administrative concerns ought not be an important enough interest to justify this kind of a discrimination under the Equal Protection Clause.
+ 
+But even if you look at them, there are no genuine administrative benefits to DOMA. If anything, DOMA -- Section 3 of DOMA makes Federal administration more difficult because now the Federal government has to look behind valid State marriage licenses and see whether they are about State marriages that are out of compliance with DOMA.
+ 
+It’s an additional administrative burden. *91 So there is no administrative -- there is no administrative advantage to be gained here by what -- by what Congress sought to achieve. And the fundamental reality of it is, and I think the House report makes this glaringly clear, is that DOMA was not enacted for any purpose of uniformity, administration, caution, pausing, any of that.
+ 
+It was enacted to exclude same-sex married -- lawfully married couples from Federal benefit regimes based on a conclusion that was driven by moral disapproval. It is quite clear in black and white in the pages of the House report which we cite on page 38 of our brief --
+ 
+ROBERTS: So that was the view of the 84 Senators who voted in favor of it and the President who signed it? They were motivated by animus?
+ 
+VERRILLI: No, Mr. Chief Justice. We quoted our -- we quoted the Garrett concurrence in our brief. And I think there is a lot of wisdom there, that it may well not have been animus or hostility. It may well have been what Garrett described as the simple want of careful reflection or an instinctive response to a class of people, or a group of people who we perceive as alien or other.
+ 
+But whatever the explanation, whether it’s *92 animus, whether it’s that -- more subtle, more unthinking, more reflective kind of discrimination, Section 3 is discrimination. And I think it’s time for the Court to recognize that this discrimination, excluding lawfully married gay and lesbian couples from Federal benefits, cannot be reconciled with our fundamental commitment to equal treatment under law.
+ 
+This is discrimination in its most very basic aspect and the House Report, whether -- and I certainly would not suggest that it was universally motivated by something other than goodwill -- but the reality is that it was an expression of moral disapproval of exactly the kind that this Court said in Lawrence would not justify the law that was struck down there.
+ 
+SOTOMAYOR: General, your bottom line is, it’s an equal protection violation for the Federal government, and all States as well?
+ 
+VERRILLI: Yes, Your Honor, and that’s the -- we took the position we took yesterday with respect to marriage -- the analysis --
+ 
+SOTOMAYOR: Is there any argument you can make to limit this to this case, vis-a-vis the Federal government and not the States?
+ 
+VERRILLI: Well, as we said *93 yesterday, we think it’s an open question with respect to State recognition of marriage, and they may well be able to advance interests -- they may be able to advance it. I guess I shouldn’t say “may well,” because I do think it would be difficult, as we said yesterday. They may be able to advance interests that would satisfy heightened scrutiny and justify non-recognition --
+ 
+BREYER: Then yet --
+ 
+VERRILLI: But -- but here, the Federal government’s not in the same position because as BLAG concedes, the Federal government at the most can act at the margins in influencing these decisions about marriage and child rearing at the State level. And the Second Circuit and the First Circuit both concluded that there’s no connection at all, and that’s of course because Section 3 doesn’t make it any more likely that unmarried men and women in States that -- unmarried men and women who confront an unplanned pregnancy are going to get married.
+ 
+And -- and elimination of Section 3 wouldn’t make it any less likely that unmarried men and women are going to get married. It doesn’t have any effect at all. It doesn’t have any connection at all. So it’s not at the margins. There’s no interest at all at this -- in DOMA in promoting --
+ 
+BREYER: Or if there’s no interest -- I mean, I’m back where we were yesterday. It seems to me, forgetting your -- your preferable argument, it’s a violation of equal protection everywhere. Well, if it is, then all States have to have something like pacts. And if they have to have something like pacts, then you say then they also have to allow marriage.
+ 
+So then are you not arguing they all have to allow marriage? And then you say no. All right, so with that point --
+ 
+VERRILLI: But our point here, Justice Breyer, is that whatever -- may I finish?
+ 
+Thank you.
+ 
+Whatever the issue is, with -- whatever the outcome is with respect to States and marriage, that the Federal government’s interest in advancing those justifications through Section 3 of DOMA is so attenuated that two Federal courts of appeals have seen it as non-existent, and it cannot justify Section 3.
+ 
+ROBERTS: Thank you, General.
+ 
+Ms. Kaplan?
+ 
+KAPLAN: Mr. Chief Justice, and may it *95 please the Court
+ 
+I’d like to focus on why DOMA fails even under rationality review. Because of DOMA, many thousands of people who are legally married under the laws of nine sovereign States and the District of Columbia are being treated as unmarried by the Federal government solely because they are gay.
+ 
+These couples are being treated as unmarried with respect to programs that affect family stability, such as the Family Leave Act, referred to by Justice Ginsburg. These couples are being treated as unmarried for purposes of Federal conflict of interest rules, election laws, and anti-nepotism and judicial recusal statutes.
+ 
+And my client was treated as unmarried when her spouse passed away, so that she had to pay $363,000 in estate taxes on the property that they had accumulated during their 44 years together.
+ 
+ROBERTS: Could I ask you the same question I asked the Solicitor General?
+ 
+Do you think there would be a problem if Congress went the other way, the federalism problem? Obviously, you don’t think there’s an equal protection problem --
+ 
+KAPLAN: Right.
+ 
+ROBERTS: -- but a federalism issue, Congress said, we’re going to recognize same-sex couples -- committed same-sex couples -- even if the State doesn’t, for purposes of Federal law?
+ 
+KAPLAN: Obviously, with respect to marriage, the Federal government has always used the State definitions. And I think what you’re -- Mr. Chief Justice, what you’re proposing is to extend -- the Federal government extend additional benefits to gay couples in States that do not allow marriage, to equalize the system.
+ 
+ROBERTS: I just am asking whether you think Congress has the power to interfere with the -- to not adopt the State definition, if they’re extending benefits. Do they have that authority?
+ 
+KAPLAN: I think the question under the Equal Protection Clause is what -- is what the distinction is.
+ 
+ROBERTS: No, no. I know that.
+ 
+You’re following the lead of the Solicitor General and returning to the Equal Protection Clause every time I ask a federalism question.
+ 
+Is there any problem under federalism *97 principles?
+ 
+KAPLAN: With the Federal government --
+ 
+ROBERTS: With Congress passing a law saying, we are going to adopt a different definition of marriage than those States that don’t recognize same-sex marriage. We don’t care whether you do as a matter of State law, when it comes to Federal benefits, same-sex marriage will be recognized.
+ 
+KAPLAN: It has certainly been argued in this case by others that -- whether or not that’s in the enumerated powers of the Federal government. For the reasons Justice Kagan mentioned, we think the federalism principles go toward a novelty question. I think whether or not the Federal government could have its own definition of marriage for all purposes would be a very closely argued question.
+ 
+SCALIA: I don’t understand your answer. Is your answer yes or no? Is there a federalism problem with that or isn’t there a federalism problem?
+ 
+KAPLAN: I -- I think the Federal government could extend benefits to gay couples to equalize things on a programmatic basis to make things more equal. Whether the Federal government can have its own definition of marriage, I think, would be -- there’s *98 a -- it’d be very closely argued whether that’s outside the enumerated approach.
+ 
+SCALIA: Well, it’s just -- all these statutes use the term “marriage,” and the Federal government says in all of these statutes when it says marriage, it includes same-sex couples, whether the State acknowledges them to be married or not.
+ 
+KAPLAN: But that -- I don’t know if that would work because they wouldn’t --
+ 
+SCALIA: Never mind whether or not it would work? I don’t care if it works.
+ 
+(Laughter.)
+ 
+SCALIA: Does it -- does it create a federalism problem?
+ 
+KAPLAN: The power to marry people is a power that rests with the States.
+ 
+SCALIA: Yes.
+ 
+KAPLAN: The Federal government doesn’t issue marriage licenses. It never has.
+ 
+SCALIA: Well, it’s not doing that, it’s just saying for purposes -- just what it’s doing here. It says, for purposes of all these Federal statutes, when we say marriage, we mean -- instead of saying we mean heterosexual marriage, we mean, whenever we use it, heterosexual and homosexual marriage.
+ 
+If that’s what it says, can it do that?
+ 
+KAPLAN: As long as the people were validly married under State law, and met the requirements of State law to get married --
+ 
+SCALIA: No, no, no, no. It includes --
+ 
+KAPLAN: I’m not sure that the Federal government -- this answers your question, Justice Scalia -- I’m not sure the Federal government can create a new Federal marriage that would be some kind of marriage that States don’t permit.
+ 
+ALITO: Well, let me get to the question I asked Mr. Clement. It just gets rid of the word “marriage,” takes it out of the U.S. Code completely. Substitutes something else, and defines it as same-sex -- to include same-sex couples. Surely it could do that.
+ 
+KAPLAN: Yes. That would not be based on the State’s --
+ 
+ALITO: So it’s just the word “marriage”? And it’s just the fact that they use this term “marriage”?
+ 
+KAPLAN: Well, that’s what the Federal government has always chosen to do. And that’s the way the Federal law is structured, and it’s always been *100 structured for 200 years based on the State police power to define who’s married. The Federal government, I presume, could decide to change that if it wanted, and somehow, it would be very strange for all 1,100 laws, but for certain programs -- you have different requirements other than marriage, and that would be constitutional or unconstitutional depending on the distinction.
+ 
+ALITO: But if the estate tax follows State law, would not that create an equal protection problem similar to the one that exists here? Suppose there were a dispute about the -- the State of residence of your client and her partner spouse. Was it New York, was it some other State where same-sex marriage would not have been recognized? And suppose there was -- the State court said the State of residence is a State where it’s not recognized.
+ 
+Would -- would you not have essentially the same equal protection argument there that you have now?
+ 
+KAPLAN: Well, let me -- let me answer that question very clearly. Our position is only with respect to the nine States -- and I think there are two others that recognize these marriages. So if my client -- if a New York couple today marries and moves to North Carolina, one of which has a constitutional *101 amendment, a State constitutional amendment -- and one of the spouses dies, they would not -- since estate taxes determine where the person dies, they would not be entitled to the deduction.
+ 
+That is not our claim here.
+ 
+Moreover, Justice Alito, in connection with a whole host of Federal litigation, there has been Federal litigation for hundreds of years with respect to the residency of where people live or don’t live, or whether they are divorced or not divorced throughout the Federal system. And the Federal government has always handled that and has never before -- and we believe this is why it’s unconstitutional -- separated out a class of married gay couples solely because they were gay.
+ 
+ALITO: Just -- if I could follow up with one -- one question. What if the -- the hypothetical surviving spouse, partner in North Carolina, brought an equal protection argument, saying that there is no -- it is unconstitutional to treat me differently because I am a resident of North Carolina rather than a resident of New York. What would be -- would that be discrimination on the basis of sexual orientation? What would be the level of scrutiny? Would it survive?
+ 
+KAPLAN: That would be certainly a *102 different case. It’d be more similar to the case I think you heard yesterday than the case that we have today. We certainly believe that sexual-orientation discrimination should get heightened scrutiny. If it doesn’t get heightened scrutiny, obviously, it’d be rational basis, and the question would be what the State interests were in not allowing couples, for example, in North Carolina who are gay to get married.
+ 
+No one has identified in this case, and I don’t think we’ve heard it in the argument from my friend, any legitimate difference between married gay couples on the one hand and straight married couples on the other that can possibly explain the sweeping, undifferentiated, and categorical discrimination of DOMA, Section 3 of DOMA.
+ 
+And no one has identified any legitimate Federal interest that is being served by Congress’s decision, for the first time in our nation’s history to undermine the determinations of the sovereign States with respect to eligibility for marriage. I would respectfully contend that this is because there is none.
+ 
+Rather, as the title of the statute makes clear, DOMA was enacted to defend against the marriages of gay people. This discriminatory purpose was rooted in moral disapproval as Justice Kagan pointed out.
+ 
+BREYER: What -- what do you think of his -- the argument that I heard was, to put the other side, at least one part of it as I understand it said, look, the Federal government needs a uniform rule. There has been this uniform one man, one woman rule for several hundred years or whatever, and there’s a revolution going on in the States. We either adopt the resolution -- the revolution or push it along a little, or we stay out of it. And I think Mr. Clement was saying, well, we’ve decided to stay out of it.
+ 
+KAPLAN: I don’t --
+ 
+BREYER: And the way to stay out of it is to go with the traditional thing. I mean, that -- that’s an argument. So your answer to that argument is what?
+ 
+KAPLAN: I think it’s an incorrect argument, Justice Breyer, for the --
+ 
+BREYER: I understand you do, I’d like to know the reason.
+ 
+(Laughter.)
+ 
+KAPLAN: Of course. Congress did not stay out of it. Section 3 of DOMA is not staying out of it. Section 3 of DOMA is stopping the recognition by the Federal government of couples who are already married, solely based on their sexual orientation, and *104 what it’s doing is undermining, as you can see in the briefs of the States of New York and others, it’s undermining the policy decisions made by those States that have permitted gay couples to marry.
+ 
+States that have already resolved the cultural, the political, the moral -- whatever other controversies, they’re resolved in those States. And by fencing those couples off, couples who are already married, and treating them as unmarried for purposes of Federal law, you’re not -- you’re not taking it one step at a time, you’re not promoting caution, you’re putting a stop button on it, and you’re having discrimination for the first time in our country’s history against a class of married couples.
+ 
+ROBERTS: Is the --
+ 
+SOTOMAYOR: Now, the -- the discriminations are not the sexual orientation, but on a class of marriage, is that what you’re --
+ 
+KAPLAN: It’s a class of married couples who are gay.
+ 
+SOTOMAYOR: So I pose the same question I posed to the General to you. Do you think there’s a difference between that discrimination and this -- and the discrimination of States who say homosexuals can’t get married?
+ 
+KAPLAN: I think that it’s -- they’re different cases. I think when you have couples who are gay who are already married, you have to distinguish between those classes. Again, the Federal government doesn’t give marriage licenses, States do. And whatever the issues would be in those States would be what interest the States have, as opposed to here, what interest -- and we think there is none -- the Federal government has.
+ 
+There is little doubt that the answer to the question of why Congress singled out gay people’s marriages for disrespect through DOMA. The answer can’t be uniformity as we’ve discussed. It can’t be cost savings because you still have to explain then why the cost savings is being wrought at the expense of married couples who are gay. And it can’t be any of the State interests that weren’t discussed, but questions of family law in parenting and marriage are done by the States, not by the Federal government.
+ 
+The only -- the only conclusion that can be drawn is what was in the House Report, which is moral disapproval of gay people, which the -- Congress thought was permissible in 1996 because it relied on the Court’s Bowers decision, which this Court has said was wrong, not only at the time it was overruled in Lawrence, but  *106 was wrong when it was decided.
+ 
+ROBERTS: So 84 Senators -- it’s the same question I asked before. 84 Senators based their vote on moral disapproval of gay people?
+ 
+KAPLAN: No, I think -- I think what is true, Mr. Chief Justice, is that times can blind, and that back in 1996 people did not have the understanding that they have today. That there is no distinction, there is no constitutionally permissible distinction --
+ 
+ROBERTS: Well, does that mean -- times can blind. Does that mean they did not base their votes on moral disapproval?
+ 
+KAPLAN: No, some clearly did. I think it was based on an understanding that gay -- an incorrect understanding that gay couples were fundamentally different than straight couples, an understanding that I don’t think exists today. And that’s the sense I’m using that times can blind. I think there was -- we all can understand that people have moved on this, and now understand that there is no such distinction. So I’m not saying it was animus or bigotry, I think it was based on a misunderstanding on gay people and their --
+ 
+SCALIA: Why -- why are you so confident in that -- in that judgment? How many -- how *107 many States permit gay -- gay couples to marry?
+ 
+KAPLAN: Today? Nine, Your Honor.
+ 
+SCALIA: Nine. And -- and so there has been this sea change between now and 1996.
+ 
+KAPLAN: I think with respect to the understanding of gay people and their relationships there has been a sea change, Your Honor.
+ 
+GINSBURG: How many States have civil unions now?
+ 
+KAPLAN: I believe -- that was discussed in the arguments, eight or nine, I believe.
+ 
+GINSBURG: And how many had it in 1996?
+ 
+KAPLAN: I -- yes, it was much, much fewer at the time. I don’t have that number, Justice Ginsburg, I apologize.
+ 
+ROBERTS: I suppose the sea change has a lot to do with the political force and effectiveness of people representing, supporting your side of the case?
+ 
+KAPLAN: I disagree with that, Mr. Chief Justice, I think the sea change has to do, just as was discussed in Bowers and Lawrence, with an understanding that there is no difference -- there was fundamental difference that could justify this kind of *108 -- categorical discrimination between gay couples and straight couples.
+ 
+ROBERTS: You don’t doubt that the lobby supporting the enactment of same sex-marriage laws in different States is politically powerful, do you?
+ 
+KAPLAN: With respect to that category, that categorization of the term for purposes of heightened scrutiny, I would, Your Honor. I don’t --
+ 
+ROBERTS: Really?
+ 
+KAPLAN: Yes.
+ 
+ROBERTS: As far as I can tell, political figures are falling over themselves to endorse your side of the case.
+ 
+KAPLAN: The fact of the matter is, Mr. Chief Justice, is that no other group in recent history has been subjected to popular referenda to take away rights that have already been given or exclude those rights, the way gay people have. And only two of those referenda have ever lost. One was in Arizona, it then passed a couple years later. One was in Minnesota where they already have a statute on the books that prohibits marriages between gay people.
+ 
+So I don’t think -- and until 1990 gay people were not allowed to enter this country. So I *109 don’t think that the political power of gay people today could possibly be seen within that framework, and certainly is analogous -- I think gay people are far weaker than the women were at the time of Frontiero.
+ 
+ROBERTS: Well, but you just referred to a sea change in people’s understandings and values from 1996, when DOMA was enacted. And I’m just trying to see where that comes from, if not from the political effectiveness of -- of groups on your side of the case.
+ 
+KAPLAN: To flip the language of the House Report, Mr. Chief Justice, I think it comes from a moral understanding today that gay people are no different, and that gay married couples’ relationships are not significantly different from the relationships of straight married couples. I don’t think --
+ 
+ROBERTS: I understand that. I am just trying to see how -- where that that moral understanding came from, if not the political effectiveness of a particular group.
+ 
+KAPLAN: I -- I think it came -- is, again is very similar to the, what you saw between Bowers and Lawrence. I think it came to a societal understanding.
+ 
+I don’t believe that societal understanding *110 came strictly through political power. And I don’t think that gay people today have political power as that -- this Court has used that term with -- in connection with the heightened scrutiny analysis.
+ 
+ROBERTS: Thank you, Ms. Kaplan.
+ 
+Mr. Clement, you have 3 minutes remaining.
+
+CLEMENT: Thank you, Mr. Chief Justice, just three points in rebuttal.
+ 
+First of all, I was not surprised to hear the Solicitor General concede that there is no unique federalism problem with DOMA because in the Gill litigation in the First Circuit, the State of Massachusetts -- the Commonwealth of Massachusetts invoked the Tenth Amendment, and on that issue the United States continued to defend DOMA because there is no unique federalism problem with it, as the Chief Justice’s question suggested. If 10 years from now there are only 9 States left and Congress wants to adopt a uniform Federal law solely for Federal law purposes to going the other way, it is fully entitled to do that. It has the power to do that.
+ 
+*111 I would say also the Federal government has conceded in this litigation that there is a rational basis for this statute, something else to keep in mind.
+ 
+I would also say that this provision is not so unique. The very next provision in the Dictionary Act --
+ 
+GINSBURG: Rational basis, Mr. Clement -- is a problem in your briefing. You seem to say and you repeat it today that there is three tiers, and if you get into rational basis, then it’s anything goes. But the history of this Court is, in the very first gender discrimination case, Reed v. Reed, the Court did something it had never done in the history of the country under rational basis. There was no intermediate tier then. It was rational basis.
+ 
+CLEMENT: Well --
+ 
+GINSBURG: And yet the Court said this is rank discrimination and it failed.
+ 
+CLEMENT: And, Justice Ginsburg, applying rational basis to DOMA, I think that there are many rational bases that support it. And the Solicitor General says, well -- you know, the United States is not the 51st State to be sure, but the Federal government has interests in uniformity that no other entity has.
+ 
+And we heard today that there’s a problem *112 when somebody moves from New York to North Carolina, they can lose their benefits. The Federal government uniquely, unlike the 50 States, can say, well, that doesn’t make any sense, we are going to have the same rule. We don’t want somebody, if they are going to be transferred in the military from West Point to Fort Sill in Oklahoma, to resist the transfer because they are going to lose some benefits.
+ 
+It makes sense to have a uniform Federal rule for the Federal government. It is not so anomalous that the term “marriage” is defined in the U.S. Code. The very next provision of the Dictionary Act defines “child.” These terms, although they are the primary province of State governments, do appear in multiple Federal statutes and it’s a Federal role to define those terms.
+ 
+The last point I would simply make is in thinking about animus, think about the fact that Congress asked the Justice Department three times about the constitutionality of the statute. That’s not what you do when you are motivated by animus. The first two times they got back the answer it was constitutional. The third time, they asked again in the wake of Romer, and they got the same answer, it’s constitutional.
+ 
+Now the Solicitor General wants to say, *113 well, it was want of careful reflection. Well, where do we get careful reflection in our system? Generally, careful reflection comes in the democratic process. The democratic process requires people to persuade people.
+ 
+The reason there has been a sea change is a combination of political power, as defined by this Court’s cases as getting the attention of lawmakers, certainly they have that. But it’s also persuasion. That’s what the democratic process requires. You have to persuade somebody you’re right. You don’t label them a bigot. You don’t label them as motivated by animus. You persuade them you are right.
+ 
+That’s going on across the country. Colorado, the State that brought you Amendment 2, has just recognized civil unions. Maine, that was pointed to in the record in this case as being evidence of the persistence of discrimination because they voted down a statewide referendum, the next election cycle it came out the other way.
+ 
+And the Federal Congress is not immune. They repealed “Don’t Ask, Don’t Tell.” Allow the democratic process to continue.
+ 
+Thank you, Your Honor.
+ 
+ROBERTS: Thank you, counsel, counsel.
