@@ -1,0 +1,753 @@
+ROBERTS: We will hear argument this morning in Case Number 11-398, Department of Health and Human Services v. Florida.
+ 
+LONG: Mr. Chief Justice, and may it please the Court:
+ 
+The Anti-Injunction Act imposes a pay first, litigate later rule that is central to Federal tax assessment and collection. The Act applies to essentially every tax penalty in the Internal Revenue Code. There is no reason to think that Congress made a special exception for the penalty imposed by section 5000A. On the contrary, there are three reasons to conclude that the Anti-Injunction Act applies here.
+ 
+First, Congress directed that the section 5000A penalty shall be assessed and collected in the same manner as taxes. Second, Congress provided that penalties are included in taxes for assessment purposes. And third, the section 5000A penalty bears the key indicia of a tax.
+ 
+Congress directed that the section 5000A penalty shall be assessed and collected in the same manner as taxes. That derivative triggers the Anti-Injunction Act which provides that “no suit for the purpose of restraining the assessment or collection of any tax may be maintained in any court by any person.”
+ 
+SCALIA: Well, that depends, as -- as the government points out on whether that directive is a directive to the Secretary of the Treasury as to how he goes about getting this penalty, or rather a directive to him and to the courts. All -- all of the other directives there seem to me to be addressed to the Secretary. Why -- why should this one be directed to the courts? When you say in the same manner, he goes about doing it in the same manner, but the courts simply accept that -- that manner of proceeding but nonetheless adjudicate the cases.
+ 
+LONG: Well, I think I have a three-part answer to that, Justice Scalia. First, the text does not say that the Secretary shall assess and collect taxes in the same manner; it just says that it shall be assessed in the same manner as a tax, without addressing any party particularly.
+ 
+SCALIA: Well, he’s assessing and collecting it in the same manner as a tax.
+ 
+LONG: Well, the assessment -- the other two parts of the answer are, as a practical matter, I don’t think there is any dispute in this case that if the Anti-Injunction Act does not apply, this penalty, the section 5000A penalty, will as a practical matter be assessed and collected in a very different manner from other taxes and other tax penalties.
+ 
+There -- there are three main differences. First, when the Anti-Injunction Act applies, you have to pay the tax or the penalty first and then litigate later to get it back with interest. Second, you have to exhaust administrative remedies; even after you pay the tax you can’t immediately go to court. You have to go to the Secretary and give the Secretary at least 6 months to see if the matter can be resolved administratively. And third, even in the very carefully defined situations in which Congress has permitted a challenge to a tax or a penalty before it’s paid, the Secretary has to make the first move. The taxpayer is never allowed to rush into court before the tax -- before the Secretary sends a notice of deficiency to start the process.
+ 
+Now if -- if the Anti-Injunction Act does not apply here, none of those rules apply. That’s not just for this case; it will be for every challenge to a section 5000A penalty going forward. The -- the taxpayer will be able to go to court at any time without exhausting administrative remedies; there will be none of the limitations that apply in terms of you have to wait for the Secretary to make the --
+ 
+KENNEDY: Why -- why will the administrative remedies rule not be applicable -- exhaustion rule not be applicable?
+ 
+LONG: Well, because if the Anti-Injunction Act doesn’t apply there is -- there is no prohibition on courts restraining the assessment or collection of this penalty, and you can simply --
+ 
+KENNEDY: Well, but courts apply the exhaustion rule. I mean, I know you’ve studied this. I’m just not following it. Why couldn’t the court say well, you haven’t exhausted your remedies, no injunction?
+ 
+LONG: Well, in -- you could do that, I think as a matter of -- of common law or judicially imposed doctrine, but in the code itself which is all -- I mean, the Anti-Injunction Act is an absolutely central statute to litigation --
+ 
+KENNEDY: Yes, yes.
+ 
+LONG: -- about taxes. And the code says, first it says you must pay the tax first and then litigate. So that’s the baseline. And then in addition it says you must -- I mean, it’s not common law; it’s in the code -- you must apply for a refund, you must wait at least 6 months. That’s -- many of these provisions are extremely specific, with very specific time limits --
+ 
+ROBERTS: They would apply even if the rule is not jurisdictional. The only difference would be that the court could enforce it or not enforce it in particular cases, which brings me to the Davis case, which I think is your biggest hurdle. It’s a case quite similar to this in which the constitutionality of the Social Security Act was at issue, and the government waived its right to insist upon the application of this Act.
+ 
+Of course, if it’s jurisdictional, you can’t waive it. So are you asking us to overrule the Davis case?
+ 
+LONG: Well, Helvering v. Davis was decided during a period when this Court interpreted the Anti-Injunction Act as simply codifying the pre-statutory equitable principles that usually but not always prohibited a court from enjoining the assessment or collection of taxes. So that understanding, which is what was the basis for the Helvering v. Davis decision, was rejected by the Court in Williams Packing and a series of subsequent cases -- Bob Jones. And so I would say effectively, the Davis case has been overruled by subsequent decisions of this Court.
+ 
+GINSBURG: Mr. Long, why don’t we simply follow the statutory language? I know that you’ve argued that the Davis case has been overtaken by later cases, but the language of the Anti-Injunction Act is “no suit shall be maintained.” It’s remarkably similar to the language in -- that was at issue in Reed Elsevier: “No civil action for infringement shall be instituted.” And that formulation, “no suit may be maintained,” contrasts with the Tax Injunction Act, that says the district court shall not enjoin. That Tax Injunction Act is the same pattern as 2283, which says “courts of the United States may not stay a proceeding in State court.”
+ 
+So both of those formulas, the TIA and the no injunction against proceedings in State court, are directed to “court.” The Anti-Injunction Act, like the statute at issue in Reed Elsevier, says “no suit shall be maintained,” and it has been argued that that is suitor-directed in contrast to court-directed.
+ 
+LONG: Right. Well, I mean, this Court has said several times that the Tax Injunction Act was based on the Anti-Injunction Act. You are quite right,  the language is different; but we submit that the Anti-Injunction Act itself, by saying that no suit shall be maintained, is -- is addressed to courts as well as litigants. I mean, after all, a case cannot go from beginning to end without the active cooperation of the court.
+ 
+GINSBURG: But how is that different from no civil action for infringement shall be instituted -- “maintained and instituted”? Anything turn on that?
+ 
+LONG: Well, it’s -- I mean -- perhaps a party could initiate an action without the active cooperation of the court, but to maintain it from beginning to end again requires the court’s cooperation. And -- and even if -- I mean, if the Court were inclined to say as an initial matter if this statute were coming before us for the first time today, given all of your recent decisions on jurisdiction, that you might be inclined to say this is not a jurisdictional statute.
+ 
+A lot of water has gone over the dam here. The Court has said multiple times that this is a jurisdictional statute. Congress has not disturbed those decisions. To the contrary --
+ 
+SOTOMAYOR: Counsel --
+ 
+ALITO: Well, Congress said that many times, but is there any case in which the result would have been different if the Anti-Injunction Act were not viewed as jurisdictional but instead were viewed as a mandatory claims processing -- rule?
+ 
+LONG: There -- there are certainly a number of cases where the Court dismissed saying it is jurisdictional.
+ 
+As I read the cases, I don’t think any of them would necessarily have come out differently, because I don’t think we had a case where the argument was, well, you know, the government has waived this, so, you know, even -- if it’s not jurisdictional
+ 
+ALITO: Well, the clearest -- the clearest way of distinguishing between a jurisdictional provision and a mandatory claims processing rule is whether it can be waived and whether the Court feels that it has an obligation to raise the issue sua sponte.
+ 
+Now, if there are a lot of cases that call it jurisdictional, but none of them would have come out differently if the Anti-Injunction Act were simply a mandatory claims processing rule, you have that on one side.
+ 
+And on the other side, you have Davis, where the Court accepted a waiver by the Solicitor General; the Sunshine Anthracite coal case, where there also was a waiver; and, there’s the Williams Packing case, which is somewhat hard to understand as viewing the Anti-Injunction Act as a jurisdictional provision.
+ 
+The Court said that there could be a suit if there is no way the government could win, and the Plaintiff would suffer irreparable harm. Now, doesn’t that sound like an equitable exception to the Anti-Injunction Act?
+ 
+LONG: No. I think the -- I think the best interpretation of the Court’s cases is that it was interpreting a jurisdictional statute. And, indeed, in Williams Packing, the Court said it was a jurisdictional statute.
+ 
+But, again, even if you have doubt about simply the cases, there is more than that because Congress has -- has not only not disturbed this Court’s decision stating that the statute is jurisdictional, they’ve passed numerous amendments to this Anti-Injunction Act.
+ 
+ROBERTS: Well, it seems -- you can’t separate those two points. The idea that Congress has acquiesced in what we have said only helps you if what we have said is fairly consistent. And you, yourself, point out in the brief that we’ve kind of gone back and forth on whether this is a jurisdictional provision or not. So, even if Congress acquiesced in it, I’m not sure what they acquiesced in.
+ 
+LONG: Well, what you have said, Mr. Chief Justice, has been absolutely consistent for 50 years, since the Williams Packing case. The period of inconsistency was after the first 50 years, since the statute was enacted in 1867. And there was a period, as I said, when the Court was allowing extraordinary circumstances exceptions and equitable exceptions, but then, very quickly, it cut back on that. And since -- and since Williams Packing, you have been utterly consistent --
+ 
+KAGAN: Well, even since Williams Packing, there was South Carolina v. Regan. And that case can also be understood as a kind of equitable exception to the rule, which would be inconsistent with thinking that the rule is jurisdictional.
+ 
+LONG: Well, again, I mean, I think the best understanding of South Carolina v. Regan is not that its an equitable exception, but it’s the court interpreting a jurisdictional statute as it would interpret any statute in light of its purpose, and deciding in that very special case, it’s a very narrow 3 exception, where the --
+ 
+SOTOMAYOR: Mr. Long, in Bowles, the Court looked to the long history of appellate issues as being jurisdictional, in its traditional sense, not as a claim processing rule, but as a pure jurisdiction rule, the power of the Court to hear a case.
+ 
+From all the questions here, I count at least four cases in the Court’s history where the Court has accepted a waiver by the Solicitor General and reached a tax issue. I have at least three cases, one of them just mentioned by Justice Kagan, where exceptions to that rule were read in.
+ 
+Given that history, regardless of how we define jurisdictional statutes versus claim processing statutes in recent times, isn’t the fairer statement that Congress has accepted that in the extraordinary case we will hear the case?
+ 
+LONG: No. No, Justice Sotomayor, because in many of these amendments which have come in the ‘70s and the ‘90s and the 2000’s, the Congress has actually framed the limited exceptions to the Anti-Injunction Act in jurisdictional terms. And it’s written many of the express exceptions by saying notwithstanding Section 7421 --
+ 
+SOTOMAYOR: But doesn’t that just 4 prove that it knows that the Court will impose a claim processing rule in many circumstances, and so, in those in which it specifically doesn’t want the Court to, it has to be clearer?
+ 
+LONG: Well, but Congress says, notwithstanding 7421, the Court “shall have jurisdiction to restrain the assessment and collection of taxes in very limited” --
+ 
+SOTOMAYOR: Could you go back to the question that Justice Alito asked. Assuming we find that this is not jurisdictional, what is the parade of horribles that you see occurring if we call this a mandatory claim processing rule? What kinds of cases do you imagine that courts will reach?
+ 
+LONG: Right. Well, first of all, I think you would be saying that for the refund statute, as well as for the Anti-Injunction Act -- which has very similar wording, so if the Anti-Injunction Act is not jurisdictional, I think that’s also going to apply to the refund statute, the statute that says you have to first ask for a refund and then file, you know, within certain time -- so it would be -- it would be both of those statutes. And, you know, we are dealing with taxes here, if people --
+ 
+SOTOMAYOR: That wasn’t my question.
+ 
+LONG: I’m sorry.
+ 
+SOTOMAYOR: My question was if we deem this a mandatory claim processing rule --
+ 
+LONG: Right.
+ 
+SOTOMAYOR: -- what cases do you imagine courts will reach on what grounds? Assuming the government does its job and comes in and raises the AIA as an immediate defense --
+ 
+LONG: Well, that’s --
+ 
+SOTOMAYOR: -- where can a Court then reach the question, despite -
+ 
+LONG: That would certainly be the first class of cases, it occurs to me, where, if the government does not raise it in a timely way, it could be waived. I would think plaintiffs would see if there was some clever way they could get a suit going that wouldn’t immediately be apparent that --
+ 
+SOTOMAYOR: Assumes the lack of competency of the government, which I don’t, but what other types of cases?
+ 
+SCALIA: Mr. Long, I don’t think you are going to come up with any, but I think your response is you could say that about any jurisdictional rule. If it’s not jurisdictional, what’s going to happen is you are going to have an intelligent federal court deciding 6 whether you are going to make an exception. And there will be no parade of horribles because all federal courts are intelligent.
+ 
+So it seems to me it’s a question you can’t answer. It’s a question which asks “why should there be any jurisdictional rules?” And you think there should be.
+ 
+LONG: Well, and, Justice Scalia, I mean, honestly, I can’t predict what would happen, but I would say that not all people who litigate about federal taxes are necessarily rational. And I think there would be a great --
+ 
+BREYER: I just don’t want you to lose the second half of your argument. And we have spent all the time so far on jurisdiction. And I accept, pretty much, I’m probably leaning in your favor on jurisdiction, but where I see the problem is in the second part, because the second part says “restraining the assessment or collection of any tax.”
+ 
+Now, here, Congress has nowhere used the word “tax.” What it says is penalty. Moreover, this is not in the Internal Revenue Code “but for purposes of collection.”
+ 
+And so why is this a tax? And I know you point to certain sentences that talk about taxes within 7 the code --
+ 
+LONG: Right.
+ 
+BREYER: -- and this is not attached to a tax. It is attached to a health care requirement.
+ 
+LONG: Right.
+ 
+BREYER: -- so why does it fall within that word?
+ 
+LONG: Well, I mean, the first point is -- our initial submission is you don’t have to determine that this is a tax in order to find that the Anti-Injunction Act applies, because Congress very specifically said that it shall be assessed and collected in the same manner as a tax, even if it’s a tax penalty and not a tax. So that’s one argument --
+ 
+BREYER: But that doesn’t mean the AIA applies. I mean -- and then they provide some exceptions, but it doesn’t mean the AIA applies.
+ 
+It says “in the same manner as.” It is then attached to chapter 68, when that -- it references that as “being a manner of.” Well, that it’s being applied -- or if it’s being collected in the same manner as a tax doesn’t automatically make it a tax, particularly since the reasons for the AIA are to prevent interference with revenue sources. And here, an advance attack on this does not interfere with the 8 collection of revenues.
+ 
+I mean, that’s -- you have read the arguments, as have I. But I would like to know what you say succinctly in response to those arguments.
+ 
+LONG: So specifically on the argument that it -- it is actually a tax, even setting aside the point that it should be assessed and collected in the same manner as a tax.
+ 
+The Anti-Injunction Act uses the term “tax”; it doesn’t define it. Somewhat to my surprise, “tax” is not defined anywhere in the Internal Revenue Code. In about the time that Congress passed the Anti-Injunction Act, tax had a very broad definition. It’s broad enough to include this exaction, which is codified in the Internal Revenue Code. It’s part of the taxpayers’ annual income tax return. The amount of the liability and whether you owe the liability is based in part on your income. It’s assessed and collected by the IRS.
+ 
+SCALIA: There -- there is at least some doubt about it, Mr. Long, for the reasons that Justice Breyer said, and I -- I thought that we -- we had a principle that ousters of jurisdiction are -- are narrowly construed, that, unless it’s clear, courts are not deprived of jurisdiction, and I find it hard to think that this is clear. Whatever else it is, it’s 9 easy to think that it’s not clear.
+ 
+LONG: Well, I mean, the Anti-Injunction Act applies not only to every tax in the code, but, as far as I can tell, to every tax penalty in the code.
+ 
+GINSBURG: Mr. Long, you -- you said before -- and I think you were quite right -- that the Tax Injunction Act is modeled on the Anti-Injunction Act, and, under the Tax Injunction Act, what can’t be enjoined is an assessment for the purpose of raising revenue. The Tax Injunction Act does not apply to penalties that are designed to induce compliance with the law rather than to raise revenue. And this is not a revenue-raising measure, because, if it’s successful, they won’t -- nobody will pay the penalty and there will be no revenue to raise.
+ 
+LONG: Well, in -- in Bob Jones the Court said that they had gotten out of the business of trying to determine whether an exaction is primarily revenue raising or primarily regulatory. And this one certainly raises -- is expected to raise very substantial amounts of revenues, at least $4 billion a year by the --
+
+SOTOMAYOR: But Bob Jones involved a statute where it denominated the exaction as a tax.
+ 
+LONG: That’s --
+ 
+SOTOMAYOR: Here we have one where the Congress is not denominating it as a tax; it’s denominating it as a penalty.
+ 
+LONG: That’s -- that’s absolutely right, and that’s obviously why, if it were called a tax, there would be absolutely no question that the Anti-Injunction Act applies.
+ 
+SOTOMAYOR: Absolutely. But even the section of the Code that you referred to previously, the one following 7421, the AIA, it does very clearly make a difference -- 7422 -- make a difference between tax and penalties. It’s very explicit.
+ 
+LONG: Yes, that’s -- it does, that is correct, and there are many other places in the Code where --
+ 
+BREYER: The best collection I’ve found in your favor, I think, is in Mortimer Caplin’s brief on page 16, 17. He has a whole list. All right. So -- I got my law clerk to look all those up. And it seems to me that they all fall into the categories of either, one, these are penalties that were penalties assessed for not paying taxes, or, two, they involve matters that were called by the court taxes, or, three, in some instances they were deemed by the Code to be taxes.
+ 
+Now what we have here is something that’s in a different statute that doesn’t use the word “tax” once except for a collection device, and, in fact, in addition, the underlying AIA reason, which is to say to the Solicitor General, we don’t care what you think, we, in Congress, don’t want you in court where the revenue of a state -- Tax Injunction Act -- or the revenue of the federal government is at stake, and, therefore, you can’t waive it.
+ 
+Now I got that. Here it’s not at stake and here there are all the differences I just mentioned. So I ask that because I want to hear your response.
+ 
+LONG: Well, I mean, there are penalties in the Internal Revenue Code that you really couldn’t say are related in any -- in any close way to some other tax provision. There is a penalty -- it’s discussed in the briefs -- for selling diesel fuel that doesn’t comply with EPA’s regulations, you know. So there are all kinds of penalties in the Code, and I think it’s -- it could be --
+ 
+KAGAN: Mr. Long, aren’t there places in this Act -- fees and penalties -- that were specifically put under the Anti-Injunction Act? There is one on health care plans, there is one on pharmaceutical manufacturers, where Congress 2 specifically said the Anti-Injunction Act is triggered for those. It does not say that here. Wouldn’t that suggest that Congress meant for a different result to obtain?
+ 
+LONG: Well, I mean, Congress didn’t use the language the Anti-Injunction Act shall apply --
+ 
+KAGAN: No, but it -- it in section 9008 and in section 9010 --
+ 
+LONG: Right.
+ 
+KAGAN: -- it specifically referred to the part of the Code where the Anti-Injunction Act is.
+ 
+LONG: Right, all of subtitle F, which picks up lots of administration and procedure provisions, but those -- those are fees, and they are not -- Congress did not provide, you know, in the sections themselves that they should be paid as part of a tax return. So they were free-standing fees, and by using that subtitle F language, Congress plugged in a whole set of rules for how to collect and administer the fees, and it went not just to assessment and collection -- and the IRS has recognized this -- but to examination, privacy, a whole series of additional things.
+ 
+So I think it would be a mistake to look at 3 that language and say, “oh, here’s Congress saying they want the Anti-Injunction Act to apply.” They are actually doing more than that. And, yes, I grant you, you could look at section 5000A, the individual coverage requirement, and say, well, they could have been clearer about saying the Anti-Injunction Act applied, and that’s certainly true, but, again, they were trying to accomplish a lot. Maybe --
+ 
+KENNEDY: It’s easier to talk about this case if we just forget the words “for the purpose of restraining assessment or collection.” In a sense, that brings the jurisdictional question and Justice Breyer’s question together.
+ 
+It seems to me -- maybe you could just comment on that language. Is that sort of language usually contained in a jurisdictional provision? I mean, you often don’t know the purpose of a suit until after the thing is underway. I can see it with malicious prosecution and some civil rights cases. Does it strike you as somewhat unusual to have this provision in a jurisdictional case?
+ 
+LONG: It does strike me, honestly, as a bit unusual, but this is an old statute. I mean, this -- the core language is essentially unchanged since 1867, and, you know, I think that’s part of the 4 explanation for it. And, again, it’s, you know, become the center of a series of provisions that very carefully control the circumstances in which litigation about federal taxes can take place.
+ 
+GINSBURG: Mr. Long, there’s another argument that has been made that I would like you to address, and that is all this talk about tax penalties is all beside the point because this suit is not challenging the penalty. This is a suit that is challenging the must-buy provision, and the argument is made that, if, indeed, “must-buy” is constitutional, than these complainants will not resist the penalty.
+ 
+So what they’re seeking is a determination that that “must-buy” requirement, stated separately from the penalty, that “must-buy” is unconstitutional, and, if that’s so, that’s the end of the case; if it’s not so, they are not resisting the penalty.
+ 
+LONG: Well, I think that argument doesn’t work for two reasons. I mean, first, if you look at the Plaintiff’s own complaint, they clearly challenge both the minimum coverage requirement and the penalty. At page 122 of the Joint Appendix they challenge the requirement that the individuals obtain health care coverage or pay a penalty.
+ 
+ALITO: Why is that?
+ 
+GINSBURG: If that’s -- if that’s the problem, it’s easier to amend the complaint. They can just take that out of the complaint. So it can’t turn on that.
+ 
+LONG: Well, yes, I mean, it’s -- or another complaint would be filed, but, still, I think that’s a serious problem. But even if they had filed a different complaint, I don’t think you -- in this case I don’t think you can separate the minimum coverage requirement from the penalty because the penalty is the sole means of enforcing the minimum coverage requirement.
+ 
+So -- so, first, I mean, I think these Plaintiffs would not be satisfied if the Court were to render a judgment saying the minimum coverage requirement is invalidated; the penalty, however, remains standing. Anybody who doesn’t have insurance has to pay the penalty. Then they would have to pay a penalty equal to the cost of insurance and they wouldn’t even have insurance. So I don’t think that would be --
+ 
+ALITO: Well, they say they want to obey the law, and they say that your argument puts them in the position of having to disobey the law in order to obtain review of their claim. And what is your answer to that?
+ 
+LONG: Well, I mean, first of all, I can’t find that in the record, in their declarations. I don’t see a statement that they will, you know, never incur a penalty under any circumstances. But -- but even if that were so, what this Court has said in Americans United is the Anti-Injunction Act bars any suit, not just to enjoin the collection of your own taxes, but to enjoin the collection of anyone’s taxes.
+ 
+And so even if it were really true that these plaintiffs were not interested in the penalty and would never pay the penalty, if they were to succeed in this case in striking down the minimum coverage requirement the inevitable result would be that the penalty would fall as well, because the government couldn’t collect the penalty for failing to follow an unconstitutional requirement, and so it would still be barred because it would be a suit that would prevent the collection of some of the --
+
+ALITO: Well, that may take us back to Justice Kennedy’s question about the “for the purpose of” language. I take it you interpret the statute to mean the following: “For the purpose of” means having the effect of. Is that correct?
+ 
+LONG: Well -- - well, I mean, this Court in the Bob Jones case, where a similar kind of 7 argument was being made by the plaintiff in that case, said: Look, you know, where the -- where it’s inevitable that this is what the suit is about, they’re sort of two sides of the same coin, that clearly is a primary purpose of the suit. And it’s -- and you can’t by clever pleading get away from that. That’s just the nature of the situation.
+ 
+KAGAN: But, Mr. Long, aren’t you trying to rewrite the statute in a way? The statute has two sections. One is the you have to have insurance section and the other is the sanction. The statute has two different sets of exceptions corresponding to those two different sections. You are trying to suggest that the statute says: Well, it’s your choice; either buy insurance or pay a -- or pay a fee.
+ 
+But that’s not the way the statute reads. And Congress, it must be supposed, you know, made a decision that that shouldn’t be the way the statute reads, that it should instead be a regulatory command and a penalty attached to that command.
+ 
+LONG: Well, I would not argue that this statute is a perfect model of clarity, but I do think the most reasonable way to read the entire statute is that it does impose a single obligation to pay a penalty if you are an applicable individual and you are not subject to an exemption. And the reason I say that, if you look at the exemptions from the penalty, I mean the very first one is you are exempt from the penalty because you can’t afford to purchase insurance. And it just doesn’t seem reasonable to me to interpret the statute as Congress having said, well, you know, this person is exempt from paying a penalty because we find they can’t afford to buy insurance, however they still have a legal obligation to buy insurance. That just doesn’t seem reasonable.
+ 
+So I -- so I do think, although it’s -- I certainly wouldn’t argue it’s clear -- that that’s the best way to understand the statute as a whole.
+ 
+But again, I would say, you know, that’s not essential to the question we’re discussing now of whether the Anti-Injunction Act applies. Again, you know, I think --
+ 
+SOTOMAYOR: Could you tell me why you think the Solicitor General’s reading creates a problem?
+ 
+LONG: Well, in going back to -- so if the result were to say simply, this is not -- oh, I’m sorry. The Solicitor General’s reading. So now it’s not --
+ 
+SOTOMAYOR: That it is a 9 jurisdictional bar, but there’s an exemption for those items that Congress has designated solely as penalties that are not like taxes.
+ 
+LONG: Right. Well, I mean, I think the Solicitor General’s reading would probably create the fewest problems, as I understand it. I mean, my -- my main objection to the Solicitor General’s reading is I don’t think it makes a whole lot of sense. I mean, basically the Solicitor General says every penalty in the Internal Revenue Code, every other penalty in the Affordable Care Act is -- -
+ 
+SOTOMAYOR: But that’s not -- that’s carrying it too far, because he says if a penalty is designated as a tax by Congress then it’s subject to the AIA, and that’s most of the code, the tax code. And he says for those portions of the Affordable Care Act that designate things as taxes, the AIA applies. So it’s only -- and I haven’t found another statute. I’m going to ask him if there’s another one. It’s only for those statutes in which Congress has designated something solely as a penalty.
+ 
+LONG: Right.
+ 
+SOTOMAYOR: And not indicated that it’s a tax.
+ 
+LONG: Right.
+ 
+SOTOMAYOR: They don’t fall within the AIA.
+ 
+LONG: I think my -- my take on it is if you adopted the Solicitor General’s approach there are probably three penalties for alcohol and tobacco-related offenses at 5114(c), 5684, and 5761 that I think would be very difficult to distinguish from this one, and possibly the 527(j) penalty for failure to disclose political contributions.
+ 
+If there are no further questions, I would like to reserve my time.
+ 
+ROBERTS: Thank you, Mr. Long.
+ 
+General Verrilli.
+ 
+VERRILLI: Mr. Chief Justice and may it please the Court:
+ 
+This case presents issues of great moment, and the Anti-Injunction Act does not bar the Court’s consideration of those issues. That is so even though the Anti-Injunction Act is a jurisdictional limit that serves what this Court described in Clintwood Elkhorn as an exceedingly strong interest in protecting the financial stability of the Federal Government, and even though the minimum coverage provision of the Affordable 1 Care Act is an exercise of Congress’s taxing power as well as its commerce power.
+ 
+Congress has authority under the taxing power to enact a measure not labeled as a tax, and it did so when it put section 5000A into the Internal Revenue Code. But for purposes of the Anti-Injunction Act, the precise language Congress used is determinative. And there is no language in the Anti-Injunction Act -- excuse me, no language in section 5000A of the Affordable Care Act or in the Internal Revenue Code generally that provides a textual instruction that --
+ 
+ALITO: General Verrilli, today you are arguing that the penalty is not a tax. Tomorrow you are going to be back and you will be arguing that the penalty is a tax.
+ 
+Has the Court ever held that something that is a tax for purposes of the taxing power under the Constitution is not a tax under the Anti-Injunction Act?
+ 
+VERRILLI: No, Justice Alito, but the Court has held in a license tax cases that something can be a constitutional exercise of the taxing power whether or not it is called a tax. And that’s because the nature of the inquiry that we will conduct tomorrow is different from the nature of the inquiry that we will 2 conduct today. Tomorrow the question is whether Congress has the authority under the taxing power to enact it and the form of words doesn’t have a dispositive effect on that analysis. Today we are construing statutory text where the precise choice of words does have a dispositive effect on the analysis.
+ 
+SOTOMAYOR: Well, General, you also have the Bailey child labor tax cases, because there the Court said that the tax, which was a prohibitory tax alone, was a tax subject to the AIA, and then it said it was beyond the Court’s taxing power in a separate case, correct?
+ 
+VERRILLI: Yes. I do think, Justice Sotomayor, that, with respect to one of the arguments that my friend from the NFIB has made in of the brief, that Bailey v. George is a significant problem because I think their argument on the constitutionality under the taxing power is essentially that the Affordable Care Act provision is the same thing as the provision that was held unconstitutional in Bailey v. Drexel Furniture Company.
+ 
+SOTOMAYOR: That’s a different issue.
+ 
+VERRILLI: But on the same day -- right, but on the same day as Bailey v. Drexel 3 Furniture, the court issued Bailey v. George, which held that the Anti-Injunction Act did bar a challenge to that provision, even though the Court had concluded that it was invalid under the tax power.
+ 
+So -- and I think the reason for that has been -- is clear now after Williams Packing and Bob Jones, in that in order to find that the Anti-Injunction Act doesn’t apply to something that otherwise would be a tax that triggers it, you have to conclude essentially that there is no substantial argument that can be made in defense of it as a tax. We don’t have that here, so I don’t think you can get around the Anti-Injunction Act if the Court were to read it, as the amicus suggest it should be read, on that theory. But.
+ 
+GINSBURG: Mr. Verrilli, a basic question about your argument. If you are right about the second part, that is for purposes of the statute, the anti-injunction statute, this penalty does not constitute a tax, then does the Court need to decide whether the Anti-Injunction Act in other cases where it does involve a tax is jurisdictional?
+ 
+VERRILLI: No. I -- I apologize if I’m creating confusion about that, Justice Ginsburg. We think by far the better route here is to understand the statute as we have proposed that it be construed as not 4 applying here. From the perspective of the United States -- and if I could, I’d like to take a minute on this -- the idea that the Anti-Injunction Act would be construed as not being a jurisdictional provision is very troubling, and we don’t think it’s correct.
+ 
+And I -- I would, if I could follow up on a question, Justice Ginsburg, that you asked Mr. Long in terms of the language of the Anti-Injunction Act 7421(a), which can be found at page 16A of the appendix to our brief.
+ 
+I -- I’d ask the Court to compare that to the language of the very next provision in the code, which is on the next page of our statutory appendix, 17A, which is the refund statute which we’ve talked about a little bit so far this morning, 7422(a).
+ 
+The refund statute this Court held in Dolan was jurisdictional, and the Court in both Dolan and Brockamp held that the statute of limitations that applies to the refund statute cases is jurisdictional.
+ 
+The language in 7422(a) is virtually identical to the language in 7421(a) --
+ 
+KENNEDY: That -- that is correct, although in the refund context, you have the sovereign immunity problem, in which we presume that that has not been waived.
+ 
+VERRILLI: Right. But I -- 7421(a) -- were the same --
+ 
+KENNEDY: The language is quite parallel.
+ 
+VERRILLI: And -- originally, they were the same statutory provision. They were only separated out later. So I do think that’s the strongest textual indication, Justice Ginsburg, that -- that 7421(a) is jurisdictional.
+ 
+GINSBURG: But then, General, what I asked you is, if you’re right that this penalty is not covered by section 7421, if you’re right about that, why should we deal with the jurisdictional question at all? Because this statute, correct, the way you reading -- read it, doesn’t involve a tax that’s subject to the Anti-Injunction Act.
+ 
+VERRILLI: Yes, that is exactly our position. And the reason we don’t --
+ 
+GINSBURG: So -- so you -- you agree that we would not -- if we agree with you about the correct interpretation of the statute, we need not decide the jurisdiction.
+ 
+VERRILLI: There would be no reason to decide the jurisdictional issue.
+ 
+KENNEDY: Don’t you want to know the answer?
+ 
+(Laughter.)
+ 
+VERRILLI: Justice Kennedy, I think we all want to know the answer to a lot of things in this case. But -- but I do -- I do think that the prudent course here is to construe the statute in the manner that we read it.
+ 
+KENNEDY: But -- but you indicated -- there was a discussion earlier about why does the government really care, they have competent attorneys, et cetera. But -- and you began your argument by saying it would be very troubling to say that it’s not jurisdictional.
+ 
+I’d like you to comment on that -- it’s not for us to tell a party what’s in its best interests. It would seem to me that there might be some instances in which the government would want to litigate the validity of a tax right away and would want to waive. But you say it’s -- that’s not true; that it’s very troubling.
+ 
+VERRILLI: I think there are two problems. One is the problem that Justice Scalia identified, that if it’s not jurisdictional, then courts have authority to craft equitable exceptions. And it may seem from where we stand now that that authority is or could be very, very tightly cabined, but if -- if 7 this Court were to conclude that it isn’t jurisdictional, that does empower courts to find other circumstances in which they might find it equitable to allow cases to go forward in the absence of -- of -- despite the existence of the Anti-Injunction Act.
+ 
+And second, although I certainly am not going to stand up here and disparage the attorneys from the United States in the slightest, the reality is that if this isn’t jurisdictional, then it’s -- the argument -- it’s open to the argument that it’s subject to forfeiture by a simple omission in failing to raise it in an answer. And that -- and that’s a troubling prospect.
+
+SOTOMAYOR: How, if you’re troubled by --
+ 
+GINSBURG: Can I ask --
+ 
+ROBERTS: Justice Ginsburg.
+ 
+GINSBURG: How -- how likely is it -- I mean, the government is going to be defending these suits, how likely is it that the government will overlook the Anti-Injunction Act? It seems to me that this is arming the government by saying it’s waivable at the government’s option.
+ 
+VERRILLI: That’s -- that is not our assessment of the institutional interests of the United 8 States, Justice Ginsburg. And we do think that the -- the right way to go in this case is to read the statute as not applying to the minimum coverage provision of the Affordable Care Act.
+ 
+ROBERTS: It was -- it was the calculation of the interests of the United States that your predecessor made in the Davis case.
+ 
+There, the -- the Solicitor General exercised the authority that we sanctioned to waive the -- the Anti-Injunction Act. And of course, that couldn’t be done if it were jurisdictional.
+ 
+VERRILLI: That’s true, Mr. Chief Justice. Several points about that, though.
+ 
+We do agree with Mr. Long’s analysis that Davis occurred in -- during a time in -- which under the Standard Nut case, the Court had interpreted the Anti-Injunction Act as doing no more than codifying the traditional equitable principles which allowed courts discretion to conclude that in certain circumstances, a case could go forward.
+ 
+Williams Packing repudiated that analysis, and Bob Jones v. Simon again repudiated that analysis and said, no, we’re no longer abiding by that. It is true that the Davis case has not formally been overruled, but we do think it’s fundamentally  9 inconsistent with the Court’s understanding now of --
+ 
+BREYER: Davis was the case where a shareholder sues the corporation.
+ 
+VERRILLI: Yes.
+ 
+BREYER: And the remedy is that the corporation shouldn’t pay the money to the tax authority. Now, it’s a little technical, but that isn’t actually an injunction against the tax authority collecting. He’s not -- they’re not restraining the collection of tax. They’re saying to the taxpayer, don’t pay it.
+ 
+VERRILLI: Yes. And --
+ 
+BREYER: I don’t know how far that gets you.
+ 
+VERRILLI: Well, in fairness, Justice Breyer, the United States did intervene in the -- in the Davis case and was a party, and so -- not as far as I’d like, I guess is the answer.
+ 
+SCALIA: Don’t do it again, because I think that goes too far. I don’t think that’s restraining the collection of a tax. It’s restraining the payment of a tax.
+ 
+VERRILLI: Well --
+ 
+SCALIA: You -- you don’t want to let that bone go, right?
+ 
+VERRILLI: Our view here is that it is jurisdictional. Because it’s jurisdictional as this Court understands jurisdiction now, it’s not waivable. And therefore, we don’t think that -- that that part of the Davis decision is good law.
+ 
+KAGAN: General, can I ask you about Reed Elsevier? Justice Ginsburg suggested that the language was very similar in Reed Elsevier as it is here, but there are even further similarities. Reed Elsevier pointed out that the provision in question wasn’t in Title 28. Here, too, it’s not in Title 28. In Reed Elsevier, it was pointed out that the provision there had numerous exceptions to it. Here, too, there are numerous exceptions that we find that have been created by the courts over the years.
+ 
+In Reed Elsevier, the question was essentially one about timing. Come to court after you file your registration. Here, too, the question is one about timing. Come to court after you make -- after you pay your taxes.
+ 
+So Reed Elsevier seems in multiple respects on all fours with this case.
+ 
+Why is that wrong?
+ 
+VERRILLI: I don’t think so, Justice Kagan. First, we think -- I guess I’m repeating myself 1 and I apologize, but -- we think the closest analogue is the very next provision in the United States Code, 7422(a), which this Court has held is jurisdictional, and is phrased in exactly the same way as 7421(a). In fact, as I said, they were the same provision back in the earlier days. That’s the closest analogue.
+ 
+This isn’t -- and it’s actually 7422 that’s a statute that says do something first. But this -- this statute is just a flat-out command that no suit shall be maintained to restrain --
+ 
+KAGAN: I take the point --
+ 
+VERRILLI: -- the assessment or collection.
+ 
+KAGAN: -- but if you would comment on the similarities of Reed Elsevier to this case.
+ 
+How do you think it’s different at all?
+ 
+VERRILLI: Well, because the -- the -- I think the best answer to that is there are no magic words. And that history and context matter, as the Court said in Henderson. And the history and context here is that 7422 and 7421 function together to protect an exceedingly strong interest that -- that the Court has held with respect to 7422 sufficiently strong that it -- it explains the jurisdictional nature of that. The same interest applies here.
+ 
+This isn’t just a matter of do X and then you can -- and then you can come to court. It’s just a fundamentally different set of interests at stake.
+ 
+So we -- we do think that that makes a big difference. And --
+ 
+GINSBURG: Why, in Reed Elsevier, you were dividing jurisdiction from claims processing, says you have to register before you can sue. There are a lot of things you have to do before you can sue. So why isn’t Reed Elsevier like you have to pay a filing fee before you can file a complaint?
+ 
+VERRILLI: It is -- we do think it’s very much in -- in that nature and different from this case, Your Honor.
+ 
+And one -- one way I think it’s helpful to -- to get at this is -- is to look at the history. We’ve cited a string of court of appeals cases in a footnote in our opening brief, and over time, it’s been very consistent that the courts of appeals have treated the Anti-Injunction Act as a jurisdictional provision.
+ 
+Again, if the Court agrees with our statutory construction, you don’t need to reach this issue. But they have -- in fact, one of those cases, the Hansen case, the district court in that case had dismissed the complaint under 3 Federal Rule of Civil Procedure 12(b) (6). The Court of Appeals vacated and sent it back with instructions to dismiss under 12(b)(1), which is the subject matter jurisdiction provision.
+ 
+So I do think that, to the extent this issue is before the Court, it is jurisdictional, but it doesn’t need to be before the Court because of the statutory construction argument that we had offered.
+ 
+GINSBURG: On your statutory construction argument, is there any other exaction imposed under the Internal Revenue Codes that would not qualify as a tax for Anti-Injunction Act purposes, or is 5000A just out there all by itself?
+ 
+VERRILLI: It’s not quite out there all by itself. There are other provisions that fall outside of subchapter B of chapter 68 and, therefore, wouldn’t be governed by the instruction in Section 6671(a), which answers the question about the applicability of the act for most penalties.
+ 
+The ones that we’ve identified, and I may be overlapping a little bit with Mr. Long here, one is 26 U.S.C. 857, which poses certain penalties in connection with the administration of real estate investment trusts.
+ 
+There are provisions that Mr. Long 4 identified in his brief, Sections 6038(a) through (c) of the Code, which impose certain penalties with respect to reporting requirements for foreign corporations.
+ 
+We have, in addition, in footnote 22 at page 36 of our brief, identified three provisions that Mr. Long also identified about -- about alcohol and tobacco.
+ 
+Now --
+ 
+SOTOMAYOR: Could we address, General, the question of whether there are any collateral consequences for the failure to buy -- to not buy health insurance? Is the only consequence the payment of the penalty?
+ 
+The private respondents argue that there are other collateral consequences such as for people on probation who are disobeying the law, if they don’t buy health insurance they would be disobeying the law and could be subject to having their supervised release revoked.
+ 
+VERRILLI: Yes. That is not a correct reading of the statute, Justice Sotomayor. The only consequence that ensues is the tax penalty. And the -- we have made a representation, and it was a carefully made representation, in our brief that it is the interpretation of the agencies charged with interpreting this statute, the treasury department and 5 the Department of Health and Human Services, that there is no other consequence apart from the tax penalty.
+ 
+And I do think, if I could talk for a couple of minutes about the argument that was discussed as to whether this can be conceived of as a suit just challenging the requirement, which is entirely stand-alone based on inferences drawn from the exemptions. I really don’t think that’s right. And if I could spend a minute on it, I think it’s important.
+ 
+The exemptions in section 5000A, it is true that there are two categories of exemptions. There are exemptions to the penalty and exemptions to the subsection (a) requirement. But the -- but I think, not only as a practical matter, but as a textural indication and even as a legal matter, they -- they both function as exceptions to the requirement.
+ 
+First, as a practical matter, one of those exemptions is a hardship exemption. And if the Court will just bear with me for one minute here, it’s at page 11A of the appendix to our brief. It provides that a person can go to the secretary of HHS and obtain a hardship exemption for -- which would, as a formal matter here, excuse compliance with the penalty.
+ 
+It seems to me to make very little sense to say that someone who has gone to an official of the 6 United States and obtained an exemption would, nonetheless, be in a position of being a law breaker.
+ 
+We think another way in which you can get to the same conclusion slightly differently is by considering the provision on the prior page, 10A, which is 5000A -- 5000A(e)(3), members of Indian tribes.
+ 
+Members of Indian tribes are exempt only from the penalty as a formal matter under the structure of the statute here; but, the reason for that is because members of Indian tribes obtain their healthcare through the Indian Health Service, which is a clinic-based system that doesn’t involve insurance at all. It’s an entirely different system. They were taken out of this statute because they get their healthcare through a different system. And it doesn’t make any sense to think that persons getting their health care through the Indian Health Service are violating the law because -- exempt only from the penalty, but still under a legal obligation to have insurance, when the whole point of this is that they’re supposed to be in a clinic-based system.
+ 
+SOTOMAYOR: Is your whole point that this was inartful drafting by Congress; that, to the extent that there is an exemption under the penalty, it’s an exemption from the legal obligation?
+ 
+VERRILLI: I guess what I would say about it, Your Honor, is that the way in which this statute is drafted doesn’t permit the inference that my friends from the NIB are trying to draw from it.
+ 
+And there is an additional textural indication of that, which one can find at page 13 of our reply brief. This is a provision that is 42 U.S.C.A., section 18022(e). This is a provision that provides for a certification that certain individuals can get. And it’s the paragraph starting with the words “other provisions,” contains the quote.
+ 
+And it says “An individual with a certification that the individual is exempt from the requirement under section 5000A, by reason of section 5000A(e)(1) of such code, is entitled to a certificate that allows for enrollment in a particular program for this category of people.”
+ 
+But you can see here, Congress is saying it’s an exemption under 5000A(e)(1), which is the exemption from the penalty, and not the underlying requirement is, as Congress says, an exemption from the requirement of section 5000A.
+ 
+ALITO: Sub-section 5000A says directly, “an applicable individual shall ensure that the individual has the minimum essential coverage.” And you 8 are saying it doesn’t really mean that, that if you’re not subject to the penalty, you’re not under the obligation to maintain the minimum essential coverage?
+ 
+VERRILLI: That’s correct. And we think that is what Congress is saying, both in the provision I just pointed to, Your Honor, and by virtue of the fact -- by virtue of the way the exemptions work. I just think that’s the -- reading this in context, that is the stronger reading of the statute.
+ 
+ROBERTS: Suppose it makes it easy for the government to drop the other shoe in the future, right? You have been under the law subject to this mandate all along. You have been exempt from the penalty, so all they have to do is take away the penalty.
+ 
+VERRILLI: I don’t -- I don’t think so, Mr. Chief Justice. I don’t think it makes it easy for the government in the future. We think this is the fairest reading of the statute, that the -- that the -- you cannot infer from the fact that someone is exempt from the penalty, that they are still under an obligation to have insurance. That’s just not the fairest reading of the statute.
+ 
+KAGAN: Could I --
+ 
+ALITO: I’m sorry, go ahead.
+ 
+KAGAN: The nature of the representation you made, that the only consequence is the penalty, suppose a person does not purchase insurance, a person who is obligated to do so under the statute doesn’t do it, pays the penalty instead, and that person finds herself in a position where she is asked the question, have you ever violated any federal law, would that person have violated a federal law?
+ 
+VERRILLI: No. Our position is that person should give the answer “no.”
+ 
+KAGAN: And that’s because --
+ 
+VERRILLI: That if they don’t pay the tax, they violated a federal law.
+ 
+KAGAN: But as long as they pay the penalty --
+ 
+VERRILLI: If they pay the tax, then they are in compliance with the law.
+ 
+BREYER: Why do you keep saying tax?
+ 
+VERRILLI: If they pay the tax penalty, they’re in compliance with the law.
+ 
+BREYER: Thank you.
+ 
+VERRILLI: Thank you, Justice Breyer.
+ 
+BREYER: The penalty.
+ 
+VERRILLI: Right. That’s right.
+ 
+ALITO: Suppose a person who has been receiving medical care in an emergency room -- has no health insurance but, over the years, goes to the emergency room when the person wants medical care -- goes to the emergency room, and the hospital says, well, fine, you are eligible for Medicaid, enroll in Medicaid. And the person says, no, I don’t want that. I want to continue to get -- just get care here from the emergency room. Will the hospital be able to point to the mandate and say, well, you’re obligated to enroll?
+ 
+VERRILLI: No, I don’t think so, Justice Alito, for the same reason I just gave. I think that the -- that the answer in that situation is that that person, assuming that person -- well, if that person is eligible for Medicaid, they may well not be in a situation where they are going to face any tax penalty and therefore --
+ 
+ALITO: No, they are not facing the tax penalty.
+ 
+VERRILLI: Right, right.
+ 
+ALITO: So the hospital will have to continue to give them care and pay for it themselves, and not require them to be enrolled in Medicaid.
+ 
+VERRILLI: Right.
+ 
+ALITO: Will they be able to take 1 this out and say, well, you really should -- you have a moral obligation to do it; the Congress of the United States has said, you have to enroll? No, they can’t say that?
+ 
+VERRILLI: I do think it’s -- I think it’s certainly fair to say that Congress wants people in that position to sign up for Medicaid. I think that’s absolutely right. And I think the statute is structured to accomplish that objective; but, the reality still is that the only consequence of noncompliance is the penalty.
+ 
+SOTOMAYOR: General, but I thought that people who were eligible for Medicaid weren’t subject to the penalty. Am I wrong? I could be just factually wrong.
+ 
+VERRILLI: Well, it all -- the penalty is keyed to income.
+ 
+SOTOMAYOR: Yes.
+ 
+VERRILLI: And it’s keyed to a number of things. One is, are -- are you making so little money that you aren’t obligated to file a tax return. And if you’re in that situation, you are not subject to the penalty.
+ 
+It’s also if the cost of insurance would be more than 8 percent of your income, you aren’t subject 2 to the penalty. So there -- there -- there isn’t necessarily a precise mapping between somebody’s income level and their Medicaid eligibility at the present moment. That will depend on where things are and what the eligibility requirements are in the State.
+ 
+SOTOMAYOR: But those people below --
+ 
+VERRILLI: But as a general matter, for people below the poverty line it’s almost inconceivable that they are ever going to be subject to the penalty, and they would, after the Act’s Medicaid reforms go into place, be eligible for Medicaid.
+ 
+BREYER: So is your point that the tax -- so, what we want to do is get money from these people. Most of them get the money by buying the insurance and that will help pay. But if they don’t, they are going to pay this penalty, and that will help, too. And the fact that we put the latter in brings it within the taxing power. And as far as this Act is concerned about the injunction, they called it a penalty and not a tax for a reason. They wanted it to fall outside that, it’s in a different chapter, et cetera.
+ 
+Is that the heart of what you are saying?
+ 
+VERRILLI: That’s the essence they 3 called it a penalty. They didn’t give any other textural instruction in the Affordable Care Act or in the Internal Revenue Code or that that penalty should be treated as a tax for the Anti-Injunction Act purpose.
+ 
+ROBERTS: You agree with Mr. Long, and, in fact, you just agreed with Justice Breyer that one of the purposes of the provision is to raise revenue.
+ 
+VERRILLI: It will -- well, it will raise revenue. It has been predicted by the CBO that it will raise revenue, Your Honor. But even though that’s the case, and I think that would be true of any -- of any penalty, that it will raise some revenue, but even though that’s the case, there still needs to be textual instruction in the statute that this penalty should be treated as a tax for Anti-Injunction Act purposes, and that’s what is lacking here.
+ 
+ALITO: After this takes effect, there may be a lot of people who are assessed the penalty and disagree either with whether they should be assessed the penalty at all, or with the calculation of the amount of their penalty. So under your interpretation of the Act, all of them can now go to court? None of them are barred by the Anti-Injunction Act?
+ 
+VERRILLI: Those are two different things, Justice Alito. I think for reasons that Justice Kennedy, I think, suggested in one of his questions to Mr. Long, all of the other doctrines that are an exhaustion of remedies and related doctrines would still be there. The United States would rely on them in those circumstances. And -- and so, I don’t think the answer is that they can all go to court, no.
+ 
+SOTOMAYOR: Well, why is it --
+ 
+ALITO: Two former -- two former commissioners of the IRS have filed a brief saying that your interpretation is going to lead to a flood of litigation. Are they wrong on that?
+ 
+VERRILLI: Yes. We don’t -- you know -- we’ve -- we’ve taken this position, after very careful consideration, and we’ve assessed the institutional interests of the United States and we think we are in the right place.
+ 
+SOTOMAYOR: But tell me something, why isn’t this case subject to the same bars that -- that you list in your brief? The Tax Court, at least so far, considers constitutional challenges to statutes, so why aren’t we -- why isn’t this case subject to a dismissal for failure to exhaust?
+ 
+VERRILLI: Because we don’t -- 5 because the exhaustion would go to the individual amount owed, we think, and that’s a different situation from this case.
+ 
+If the Court has no further questions.
+ 
+ROBERTS: Thank you, General.
+ 
+VERRILLI: Thank you.
+ 
+ROBERTS: Mr. Katsas.
+ 
+KATSAS: Mr. Chief Justice, and may it please the Court:
+ 
+Let me begin with the question whether the Anti-Injunction Act is jurisdictional. Justice Ginsburg, for reasons you suggested, we think the text of the Anti-Injunction Act is indistinguishable from the text of the statute that was unanimously held to be non-jurisdictional in Reed Elsevier. That statute said no suit shall be instituted. This statute says no suit shall be maintained. No --
+ 
+GINSBURG: They are different things. This said the Reed Elsevier statute says immediately after instituted unless a copyright is registered.
+ 
+KATSAS: Unless the copyright is registered. And this goes -- this goes to the character 6 of the lawsuit. The statute in Reed Elsevier says, register your copyright and then come back to court.
+ 
+GINSBURG: Why isn’t that like a filing fee, before you can maintain a suit for copyright infringement, you have to register your copyright?
+ 
+KATSAS: It -- it’s a precondition to filing suit. The -- the analogous precondition here is pay your taxes and then come back to court. The point is --
+ 
+SOTOMAYOR: No -- that -- that -- that’s not true. The suit here has nothing to do with hearing the action. It has to do with a form of relief that Congress is barring. It’s not permitting -- it is not a tax case, you can come in afterwards. It’s not permitting the court to exercise what otherwise would be one of its powers.
+ 
+KATSAS: It -- it has to be the same challenge, Justice Sotomayor, or else South Carolina v. Regan would say the Anti-Injunction Act doesn’t apply. You are right that once you file -- once you pay your taxes and then file the refund action, the act of filing the taxes converts the suit from one seeking prospective relief into one seeking money damages.
+ 
+And in that sense, you could think of the 7 statute as a remedial limitation on the courts. But whether you think of it as an exhaustion requirement or a remedial limitation, neither of those characterizations is jurisdictional. In Davis v. Passman you said that a remedial limitation doesn’t go --
+ 
+SOTOMAYOR: It does seem strange to think of a -- a law that says no court can entertain a certain action and give a certain remedy as merely a claim processing rule. What the -- the Court is being ousted from -- from what would otherwise be its power to hear something.
+ 
+KATSAS: The suit is being delayed, I think is the right way of looking at it. The jurisdictional apparatus in the district court is present. Prospective relief under 1331, money damages action under 1346. If the Anti-Injunction Act were jurisdiction-ousting, one might have expected it to be in Title 28 and to qualify those statutes and to use jurisdictional limits.
+ 
+SOTOMAYOR: How do you deal with this case and our Gonzalez -- our recent Gonzalez case where we talked about --
+ 
+KATSAS: Right.
+ 
+SOTOMAYOR: -- the language of the 8 COA statute that no appeal will be heard absent the issuance of?
+ 
+KATSAS: Gonzalez -- Gonzalez v. Thaler rests on a special rule that applies with respect to appeals from one Article III court to another. That’s -- that explains Gonzalez and it explains Bowles before it.
+ 
+You have five unanimous opinions in the last decade in which you have strongly gone the other direction on what counts as jurisdictional.
+ 
+SOTOMAYOR: There is an argument that we should just simply say that Bowles applies only to appeals, but we haven’t said that.
+ 
+KATSAS: No, you came very close. In Henderson, Justice Sotomayor, you said that Bowles, which is akin to Thaler is explained by the special rules and understandings governing appeals from one Article III court to another. And you specifically said that it does not apply to situations involving a party seeking initial judicial review of agency action, which is what we have here.
+ 
+So while you’re right, the text in Bowles and Thaler are not terribly different, those cases are explained by that principle. Under Henderson it doesn’t apply to this case.
+ 
+The text in this case speaks to the suit, the cause of action of the litigant. It doesn’t speak to the jurisdiction or power of the Court. The Anti-Injunction Act is placed in a section of the tax code governing procedure. It’s not placed in --
+ 
+SOTOMAYOR: Counsel, all of those -- all of that in particular --
+ 
+KATSAS: You did rely on that in Reed Elsevier as one consideration.
+ 
+SOTOMAYOR: And we haven’t relied on it in other cases.
+ 
+KATSAS: And another -- another consideration in Reed Elsevier that cuts in our favor is the presence of exceptions. You said three in Reed Elsevier cut against jurisdictional characterization. Here there are 11. And --
+ 
+SOTOMAYOR: Many of which themselves speak in very clear jurisdictional language.
+ 
+KATSAS: Well, some of them have no jurisdictional language at all, and not a single one of them uses the word “jurisdiction” to describe the ability of the Court to restrain the assessment and collection of taxes, which is what one would have expected --
+ 
+BREYER: Basically it begs the 0 difference -- language is relevant, there are a lot of relevant things. But one thing that’s relevant in my mind is that taxes are, for better or for worse, the life’s blood of government.
+ 
+KATSAS: Yes.
+ 
+BREYER: And so what Congress is trying to do is to say there is a procedure here that you go through. You can get your money back, or you go through the Tax Court, but don’t do this in advance for the reason that we don’t want 500 Federal judge -- judges substituting their idea of what is a proper equitable defense of when there should be an exception made about da, da, da for the basic rule. No. Okay?
+ 
+And so there is strong reason that is there. You try to apply that reason to the copyright law. You can’t find it. Registration for the copyright register is not the life’s blood of anything. Copyright law exists regardless. So the reasoning isn’t there.
+ 
+The language -- I see the similarity of language. I’ve got that. But it’s the reasoning, the sort of underlying reason for not wanting a waiver here that --that is -- has a significant role in my mind of finding that it is jurisdictional. Plus the fact that we have said it nonstop since that Northrop or whatever that other case is.
+ 
+KATSAS: Justice Breyer, as to reasoning, you -- you give an argument -- you give an argument why as a policy matter it might make sense to have a non-jurisdictional statute. But of course this Court’s recent cases time and again say Congress has to clearly rank the statute as non-jurisdictional in its text and structure. It seems to me a general appeal to statutory policies doesn’t speak with sufficient clarity --
+
+BREYER: That’s fine. I just wanted to ask the question in case you wanted to answer the policy question.
+ 
+KATSAS: As to policy -- as to policy I think Helvering against Davis is the refutation of this view. It is true that in most cases the government doesn’t want and Congress doesn’t want people coming into court. But Davis shows there may be some cases including, for instance, constitutional challenges to landmark Federal statutes where the government sensibly decides that its revenue-raising purposes are better served by allowing a party to come into court and waiving its defense. That’s what the Solicitor General did in Davis, and this Court accepted that waiver.
+ 
+As for prior cases, we have the holding in Davis and the holding in all of the equitable exception 2 cases like Williams Packing. The government --
+ 
+SOTOMAYOR: So why don’t we say -- why don’t we say it’s jurisdictional except when the Solicitor General waives?
+ 
+KATSAS: You have used --
+ 
+SOTOMAYOR: Why would that not promote Congress’s policy of insuring -- or Congress, explicitly --
+ 
+KATSAS: It’s jurisdictional except when the Solicitor General waives it?
+
+SOTOMAYOR: Yes. It’s a contradiction in terms. I don’t disagree. I don’t disagree.
+ 
+KATSAS: It is a contradiction in terms. All of your cases analyze the situation as if the statute is jurisdictional, then it’s not subject to waiver. If you were to construe this as such a one-of unique statute, it seems to me we would still win because the Solicitor General with full knowledge of the Anti-Injunction Act argument available to him affirmatively gave it up. This is not just a forfeiture where a government lawyer is -- through inadvertence fails to raise an argument. This is a case where the government --
+ 
+SOTOMAYOR: They raised it and then gave it up.
+ 
+KATSAS: They made it below. They know what it is; and not only are they not pursuing it here, they are affirmatively pursuing an argument on the other side.
+ 
+KAGAN: Mr. Katsas, is your basic position when we are talking about the jurisdiction of the district courts a statute has to say it’s jurisdictional to be jurisdictional?
+ 
+KATSAS: I wouldn’t go quite that far. I think at a minimum it has -- it has to either say that or at least be directed to the courts which is a formulation you have used in your cases and which is the formulation that Congress used in the Tax Injunction Act but did not use in this Statute.
+ 
+KAGAN: Well, how would -- I mean, I suppose one could try to make a distinction between this case and Reed Elsevier by focusing on the difference between instituting something and maintaining something, and suggesting that instituting is more what a litigant does, and maintaining, as opposed to dismissing, is more of what judge does.
+ 
+KATSAS: I don’t think so, Justice Kagan, because we -- we have an adversarial system, not an inquisitorial one. The parties maintain their lawsuits I think is the more natural way of thinking of 4 it.
+ 
+If I could turn -- if I could turn to the merits question on the AIA before my time runs out.
+ 
+The purpose of this lawsuit is to challenge a requirement -- a Federal requirement to buy health insurance. That requirement itself is not a tax. And for that reason alone, we think the Anti-Injunction Act doesn’t apply.
+ 
+What the amicus effectively seeks to do is extend the Anti-Injunction Act, not just to taxes which is how the statute is written, but to free-standing nontax legal duties. And it’s just --
+ 
+ROBERTS: The whole point -- the whole point of the suit is to prevent the collection of penalties.
+ 
+KATSAS: Of taxes, Mr. Chief Justice.
+ 
+ROBERTS: Well prevent of the collection of taxes. But the idea that the mandate is something separate from whether you want to call it a penalty or tax just doesn’t seem to make much sense.
+ 
+KATSAS: It’s entirely separate, and let me explain to you why.
+ 
+ROBERTS: It’s a command. A mandate is a command. If there is nothing behind the command. It’s sort of well what happens if you don’t 5 follow the mandate? And the answer is nothing. It seems very artificial to separate the punishment from the crime.
+ 
+KATSAS: I’m not sure the answer is nothing, but even assuming it were nothing, it seems to me there is a difference between what the law requires and what enforcement consequences happen to you. This statute was very deliberately written to separate mandate from penalty in several different ways.
+ 
+They are put in separate sections. The mandate is described as a “legal requirement” no fewer than 20 times, three times in the operative text and 17 times in the findings. It’s imposed through use of a mandatory verb “shall.” The requirement is very well defined in the statute, so it can’t be sloughed off as a general exhortation, and it’s backed up by a penalty.
+ 
+Congress then separated out mandate exceptions from penalty exceptions. It defined one category of people not subject to the mandate. One would think those are the category of people as to whom Congress is saying You need not follow this law. It then defined a separate category of people not subject to the penalty, but subject to the mandate. I don’t know what that could mean other than --
+ 
+ROBERTS: Why would you have a 6 requirement that is completely toothless? You know, buy insurance or else. Or else what? Or else nothing.
+ 
+KATSAS: Because Congress reasonably could think that at least some people will follow the law precisely because it is the law. And let me give you an example of one category of person that might be -- the very poor, who are exempt from the penalty but subject to the mandate. Mr. Long says this must be a mandate exemption because it would be wholly harsh and unreasonable for Congress to expect people who are very poor to comply with the requirement to obtain health insurance when they have no means of doing so.
+ 
+That gets things exactly backwards. The very poor are the people Congress would be most concerned about with respect to the mandate to the extent one of the justifications for the mandate is to prevent emergency room cost shifting when people receive uncompensated care. So they would have had very good reason to make the very poor subject to the mandate, and then they didn’t do it in a draconian way; they gave the very poor a means of complying with the insurance mandate, and that is through the Medicaid system.
+ 
+KAGAN: Mr. Katsas, do you think a person who is subject to the mandate but not subject to the penalty would have standing?
+ 
+KATSAS: Yes, I think that person would, because that person is injured by compliance with the mandate.
+ 
+KAGAN: What would that look like? What would the argument be as to what the injury was?
+ 
+KATSAS: The injury -- when that person is subject to the mandate, that person is required to purchase health insurance. That is a forced acquisition of an unwanted good. It’s a classic pocketbook injury.
+ 
+But even if I’m wrong about that question, Justice Kagan, the question of who has standing to bring the challenge that we seek to bring seems to me very different -- your hypothetical plaintiff is very different from the actual plaintiffs. We have individuals who are planning for compliance in order to avoid a penalty, which is what their affidavits say. And we have the States, who will be subject no doubt to all sorts of adverse ramifications if they refuse to enroll in Medicaid the people who are forced into Medicaid by virtue of the mandate.
+ 
+So we don’t have the problem of no adverse consequences in the case. And then, we have the separate distinction between the question of who has Article III standing in order to maintain a suit and the question of who is subject to a legal obligation. And 8 you’ve said in your cases that even if there may be no one who has standing to challenge a legal obligation like the incompatibility clause or something, that doesn’t somehow convert the legal obligation into a legal nullity.
+ 
+Finally, with respect to the States, even if we are wrong about everything I’ve said so far, the States clearly fall within the exception recognized in South Carolina v. Regan. They are injured by the mandate because the mandate forces 6 million new people onto their Medicaid rolls. But they are not directly subject to the mandate, nor could they violate the mandate and incur a penalty.
+ 
+KAGAN: Could I just understand, Mr. Katsas, when the States say that they are injured, are they talking about the people who are eligible now but who are not enrolled? Or are they also talking about people who will become newly eligible?
+ 
+KATSAS: It’s people who will enroll, people who wouldn’t have enrolled had they been given a voluntary choice.
+ 
+KAGAN: But who are eligible now.
+ 
+KATSAS: That’s the largest category. I think there could be future eligibles who would enroll because they are subject to a legal obligation but 9 wouldn’t have enrolled if given a voluntary choice.
+ 
+But I’m happy to -- I’m happy to focus on currently eligible people who haven’t enrolled in Medicaid. That particular class is the one that gives rise to, simply in Florida alone, a pocketbook injury on the order of 500 to $600 million per year.
+ 
+KAGAN: But that does seem odd, to suggest that the State is being injured because people who could show up tomorrow with or without this law will -- will show up in greater numbers. I mean, presumably the State wants to cover people whom it has declared eligible for this benefit.
+
+KATSAS: They -- they could, but they don’t. What the State wants to do is make Medicaid available to all who are eligible and choose to obtain it. And in any event --
+ 
+GINSBURG: Why would somebody not choose to obtain it? Why -- that’s one puzzle to me. There’s this category of people who are Medicaid eligible; Medicaid doesn’t cost them anything. Why would they resist enrolling?
+
+KATSAS: I -- I don’t know, Justice Ginsburg. All I know is that the difference between current enrollees and people who could enroll but have not is, as I said, on the -- is a $600 million delta. 0 And --
+ 
+GINSBURG: But it may be just that they haven’t been given sufficient information to understand that this is a benefit for them.
+ 
+KATSAS: It’s possible, but all we’re talking about right now is the standing of the States. And the only arguments made against the standing of the States -- I mean, there is a classic pocketbook injury here. The only arguments made about -- against the standing of the States are number one, this results from third-party actions. That doesn’t work, because the third-party actions are not unfettered in -- in the sense of Lujan; they are coerced in the sense of Bennett v. Spear. Those people are enrolling because they are under a legal obligation to do so.
+ 
+The second argument made against the States’ standing is that the States somehow forfeit their ability to challenge the constitutionality of a provision of Federal law because they voluntarily choose to participate --
+ 
+SOTOMAYOR: I’m -- I’m a little bit confused. And this is what I’m confused about. There -- there is a challenge to the individual mandate.
+ 
+KATSAS: Yes.
+ 
+SOTOMAYOR: All right. What is -- 1 the fact that the State is challenging Medicaid, how does it give the State standing to challenge an obligation that is not imposed on the State in any way?
+ 
+KATSAS: The -- the principal theory for State standing is the States are challenging the mandate because the mandate injures them when people are forced to enroll in Medicaid.
+ 
+Now, it is true they are not directly subject to the mandate, but --
+ 
+SOTOMAYOR: Yes. That’s what I’m --
+ 
+KATSAS: Okay. Let me -- let me try to --
+ 
+SOTOMAYOR: I’m confused by it.
+ 
+KATSAS: Let me try it this way -- may I finish the thought?
+ 
+ROBERTS: Go ahead.
+ 
+KATSAS: In South Carolina v. Regan, the State was not subject to the tax at issue. The State was harmed because -- as the issuer of the bonds, and the bond holders were the ones subject to the tax. So the State is injured not because it is the direct object of the Federal tax, but because of its relationship to the regulated party as issuer/bond holder.
+ 
+ROBERTS: Thank you, Mr. Katsas.
+ 
+KATSAS: Thank you, Mr. Chief Justice.
+ 
+ROBERTS: Mr. Long, you have 5 minutes remaining.
+
+LONG: Everyone agrees that the section 5000A penalty shall be assessed and collected in the same manner as taxes. And the parties’ principal argument why that does not make the Anti-Injunction Act applicable is that, well, that simply goes to the Secretary’s activities.
+ 
+And I would simply ask, if -- if you look at chapters 63 and 64 of the Internal Revenue Code which are the chapters on assessment and collection, they are not just addressed to the Secretary. There are many provisions in there that are addressed to courts and indeed talk about this interaction, the very limited situations in which courts are permitted to restrain the assessment and collection of taxes.
+ 
+There was a statement made that there aren’t -- and many of the exceptions to the Anti-Injunction Act are in the assessment and collection provisions -- there was a statement made that none of these directly confer jurisdiction to restrain the assessment and collection of taxes. That’s not true. 3 In footnote 11 of our opening brief, we cite several. I’ll simply mention section 6213 as an example.
+ 
+That says -- I quote “Notwithstanding the provisions of section 7421(a), the making of such assessment or the beginning of such proceeding or levy during the time that such prohibition is enforced, may be enjoined by a proceeding in the proper court, including the Tax Court. The Tax Court shall have no jurisdiction to enjoin any action or proceeding or order any refund under this subsection unless a timely petition for redetermination of the deficiency has been filed, and then only in respect of the deficiency that is the subject of such petition.”
+ 
+BREYER: And all that’s going to really what I think Congress’s intent was meant to be in sticking the collection thing into chapter 68, and -- and it’s certainly an argument in your favor. The -- the over-arching thing in my mind is it’s -- it’s up to Congress within leeway. And they did not use that word “tax,” and they did have a couple of exceptions. And it is true that all this language that you quote -- you know, the first two sentences and so forth, it talks about the use of tax in the IRC. It talks about the penalties and liabilities provided by this subchapter. And we look over here and it’s a penalty and liability 4 provided by a different law, which says collect it through the subchapter, and it has nothing to do with the IRC. See?
+ 
+So we’ve got it in a separate place, we can see pretty clearly what they’re trying to do. They couldn’t really care very much about interfering with collecting this one. That’s all the statutory argument.
+ 
+Are you following me?
+ 
+You see? I’m trying to get you to focus on that kind of argument.
+ 
+LONG: I mean, I think I’m following you, but -- but the fact that it’s not in the particular subchapter for assessable penalties in my view makes no difference, because they said it’s still clearly -- it’s assessed and collected in the same manner as the penalty in that subchapter, and those penalties are collected in the same manner as taxes.
+ 
+BREYER: Yes, yes.
+ 
+LONG: And so that’s -- I think it’s -- it’s rather detailed, but I think it’s a rather clear indication that the Anti-Injunction Act applies.
+ 
+The -- the refund statute that does specifically refer to penalties, that has nothing to do with this argument that it’s assessed and collected in the same manner as a tax. That would simply go to the 5 point that well, you can’t just call it a tax, because they’ve referred to it as a penalty.
+ 
+And finally, on jurisdiction, you know, I think the key point is we have a long line of this Court’s decisions that’s really been ratified by Congress with all these exceptions in jurisdictional terms. As I read Bowles and John R. Sand & Gravel, the -- the gist of these decisions was not any special sort of rule about appeals, it’s that when we have that situation, which I would submit applies as much to Federal taxes as it does to appeals from Federal district courts when we have this degree of -- of precedent, including precedent from Congress in the form of amendments to this Anti-Injunction Act, that should be -- the presumption should be that this is jurisdictional.
+ 
+If there are no further questions.
+ 
+ROBERTS: Mr. Long, you were invited by this Court to defend the proposition that the Anti-Injunction Act barred this litigation. You have ably carried out that responsibility, for which the Court is grateful.
+ 
+LONG: Thank you.
+
+ROBERTS: We will continue argument in this case tomorrow.
