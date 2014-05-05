@@ -135,6 +135,8 @@ htruncdf(dat2)   #view a truncated version of the data(see also truncdf)
 10    LONG 2.8 Congress d
 ```
 
+Once we've accomplished this step, we can start running tests on the data and analyzing it.
+
 ####Basic Stats + Visualizations
 
 The ABA Journal recently published an [article](http://www.abajournal.com/magazine/article/visual_law_services_are_worth_a_thousand_words--and_big_money/) discussing "the genesis of visual law" and its applied applications. In the article, Daniel Lewis, founder of [Ravel](https://www.ravellaw.com/), a visual-based legal research platform, explains the benefits of adding visualizations to text based research:
