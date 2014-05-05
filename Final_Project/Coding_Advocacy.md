@@ -154,6 +154,10 @@ rm.horiz.lines = FALSE))
 
 ![windsor](http://patellis.files.wordpress.com/2014/05/windsor.jpeg)
 
+![mcc](http://patellis.files.wordpress.com/2014/05/mccutcheon.jpeg)
+
+![koontz](http://patellis.files.wordpress.com/2014/05/koontz.jpeg)
+
 
 
 ####Beyond SCOTUS
