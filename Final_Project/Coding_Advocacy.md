@@ -96,7 +96,7 @@ For the following analyses, we will use a R package called "[qdap](http://cran.r
 
 > The package stands as a bridge between qualitative transcripts of dialogue and statistical analysis and visualization. qdap was born out of a frustration with current discourse analysis programs. Packaged programs are a closed system, meaning the researcher using the method has little, if any, influence on the program applied to her data. 
 
-Given our five transcripts, we must import the data into our statistical system, R, and then clean it by removing certain characters, numbers, etc. We do this with the following:
+Given our five transcripts, we must import the data into our statistical system, R, and then clean it by removing certain characters, numbers, etc. We do this with the following lines on the Obamacare argument transcript:
 
 ```{r}
 library(qdap)
@@ -108,6 +108,47 @@ left.just(dat)
 dat$dialogue <- qprep(dat$dialogue)  
 ```
 
+We then break the transcript down into sentences:
+
+```{r}
+# sentSplit splits turns of talk into sentences
+dat2 <- sentSplit(dat, "dialogue", stem.col=FALSE) 
+```
+
+And take a peek at our refined transcript:
+
+```{r}
+htruncdf(dat2)   #view a truncated version of the data(see also truncdf)
+```
+
+```
+    person tot   dialogue
+1  ROBERTS 1.1 We will he
+2  ROBERTS 1.2   Florida.
+3     LONG 2.1 Mister Chi
+4     LONG 2.2 The Act ap
+5     LONG 2.3 There is n
+6     LONG 2.4 On the con
+7     LONG 2.5 First, Con
+8     LONG 2.6 Second, Co
+9     LONG 2.7 And third,
+10    LONG 2.8 Congress d
+```
+
+####Gantt Plot Visualizations
+
+The ABA Journal recently published an [article](http://www.abajournal.com/magazine/article/visual_law_services_are_worth_a_thousand_words--and_big_money/) discussing "the genesis of visual law" and its applied applications. In the article, Daniel Lewis, founder of [Ravel](https://www.ravellaw.com/), a visual-based legal research platform, explains the benefits of adding visualizations to text based research:
+
+> We're looking at how we can group cases in a way that tells the story. If you're interested in the rules about abortion, let's start with Roe v. Wade and then track the elements of that over time. We want to help build visualizations that function like dynamically created infographics to help people see the stories in their search results.
+
+Just as maps of legal precedent tell a story, so can visualizations of oral arguments. Using R and qdap, we can explore these stories in a way that may help us better understand the ebb and flow of argument, and potentially provide insight into how the justices behave. The following function allows us to produce the plots to follow:
+
+```{r}
+with(dat2, gantt_plot(dialogue, person, title = "U.S. Department of Health and Human Services v. Florida",  
+xlab = "Argument Duration", ylab = "Speaker", x.tick=TRUE, minor.line.freq = NULL, major.line.freq = NULL, 
+rm.horiz.lines = FALSE))
+```
+![obamacare(http://patellis.files.wordpress.com/2014/05/obamacare.jpeg)
 
 ####Beyond SCOTUS
 
