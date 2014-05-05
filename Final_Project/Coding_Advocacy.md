@@ -158,7 +158,7 @@ rm.horiz.lines = FALSE))
 
 ![koontz](http://patellis.files.wordpress.com/2014/05/koontz.jpeg)
 
-
+These visualizations may be difficult to see and certainly convey a lot of information (speaking patterns, length of questions and exchanges, and are just plain fun to look at).  
 
 ####Beyond SCOTUS
 
