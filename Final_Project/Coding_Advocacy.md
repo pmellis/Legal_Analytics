@@ -204,9 +204,10 @@ v3 <- with(dat2, formality(v1, person))
 plot(v3, bar.colors=c("Dark2"))
 ```
 
-Which, when performed on each of our cases, also produces a statistical + visual form:
+Which, when performed individually on each of our arguments, also produces the following statistical + visual forms:
 
 ![pic](http://patellis.files.wordpress.com/2014/05/fscore.png)
+
 
 
 
