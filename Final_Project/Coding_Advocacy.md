@@ -180,7 +180,7 @@ When we plot Kennedy's *Windsor* statistics against our other cases, we can see 
 
 ![pic](http://patellis.files.wordpress.com/2014/05/kennedyplot.png)
 
-Is this a signal or just more noise? It will take more research to find out, but combining statistical anaylyses with visualizations certainly present some new and interesting questions! Let's take a look a more complicated analysis.
+Is this a signal or just more noise? It will take more research to find out, but combining statistical analyses with visualizations certainly present some new and interesting questions! Let's take a look a more complicated analysis.
 
 ####Contextual vs. Formality Analysis
 
