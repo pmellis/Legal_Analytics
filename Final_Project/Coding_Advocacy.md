@@ -204,11 +204,26 @@ v3 <- with(dat2, formality(v1, person))
 plot(v3, bar.colors=c("Dark2"))
 ```
 
-Which, when performed individually on each of our arguments, also produces the following statistical + visual forms:
+We can then produce formality scores, such as these on the Obamacare argument:
+
+```
+      person word.count formality
+1   VERRILLI       3017     66.52
+2     KATSAS       2037     64.83
+3       LONG       2894     62.61
+4  SOTOMAYOR        966     61.80
+5      ALITO        661     61.04
+6    ROBERTS        493     58.82
+7   GINSBURG        797     58.09
+8     BREYER       1065     57.98
+9      KAGAN        674     56.82
+10    SCALIA        317     55.05
+11   KENNEDY        290     51.72
+```
+
+Note that the three advocates have the highest level of formality, an indication of less contextualization in their speech. We can also visualize these results:
 
 ![pic](http://patellis.files.wordpress.com/2014/05/form.png)
-
-
 
 
 ####Polarity Analysis
