@@ -3,7 +3,7 @@
 
 >People want to know under what circumstances and how far they will run the risk of coming against what is so much stronger than themselves, and hence it becomes a business to find out when this danger is to be feared. **The object of our study, then, is prediction, the prediction of the incidence of the public force through the instrumentality of the courts.** 
 
-~ Oliver Wendell Holmes, Jr., *The Path of the Law*, 10 Harv. L. Rev. 457, 469 (1897).
+~ Oliver Wendell Holmes, Jr., *[The Path of the Law](http://www.constitution.org/lrev/owh/path_law.htm)*, 10 Harv. L. Rev. 457, 469 (1897).
 
 ===============================
 
