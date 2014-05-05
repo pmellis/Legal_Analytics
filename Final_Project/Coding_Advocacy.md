@@ -148,7 +148,7 @@ with(dat2, gantt_plot(dialogue, person, title = "U.S. Department of Health and H
 xlab = "Argument Duration", ylab = "Speaker", x.tick=TRUE, minor.line.freq = NULL, major.line.freq = NULL, 
 rm.horiz.lines = FALSE))
 ```
-![obamacare(http://patellis.files.wordpress.com/2014/05/obamacare.jpeg)
+![obamacare](http://patellis.files.wordpress.com/2014/05/obamacare.jpeg)
 
 ####Beyond SCOTUS
 
