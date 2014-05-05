@@ -158,7 +158,7 @@ rm.horiz.lines = FALSE))
 
 ![koontz](http://patellis.files.wordpress.com/2014/05/koontz.jpeg)
 
-These visualizations may be difficult to see and certainly convey a lot of information (speaking patterns, length of questions and exchanges, and are just plain fun to look at).  
+These visualizations may be a bit overwhelming, but they do convey a lot of information (speaking patterns, length of questions and exchanges, and are just plain fun to look at). Note, Justice Thomas is not listed on any of the graphs as he has not asked a question in seven years, with [one minor exception](http://usnews.nbcnews.com/_news/2013/01/14/16510953-for-first-time-in-nearly-seven-years-justice-clarence-thomas-talks-during-court-arguments?lite). At first glance, does anything jump out?
 
 ####Beyond SCOTUS
 
