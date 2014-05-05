@@ -94,8 +94,19 @@ A link to the cleaned transcripts and the voting outcomes of the cases follow:
 
 For the following analyses, we will use a R package called "[qdap](http://cran.r-project.org/web/packages/qdap/vignettes/qdap_vignette.html)." "qdap" developer Tyler Rinker, describes the package:
 
->
-Given our five transcripts, we must import the data into our statistical system, R, 
+> The package stands as a bridge between qualitative transcripts of dialogue and statistical analysis and visualization. qdap was born out of a frustration with current discourse analysis programs. Packaged programs are a closed system, meaning the researcher using the method has little, if any, influence on the program applied to her data. 
+
+Given our five transcripts, we must import the data into our statistical system, R, and then clean it by removing certain characters, numbers, etc. We do this with the following:
+
+```{r}
+library(qdap)
+dat <- read.transcript("R/Coy A KOONTZ Jr Petitioner v ST JOHNS RIVER WATER MANAGEMENT DISTRICT.docx", col.names=c("person", "dialogue"))
+truncdf(dat)
+left.just(dat)
+# qprep wrapper for several lower level qdap functions
+# removes brackets & dashes; replaces numbers, symbols & abbreviations
+dat$dialogue <- qprep(dat$dialogue)  
+```
 
 
 ####Beyond SCOTUS
