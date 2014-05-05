@@ -206,7 +206,7 @@ plot(v3, bar.colors=c("Dark2"))
 
 Which, when performed individually on each of our arguments, also produces the following statistical + visual forms:
 
-![pic](http://patellis.files.wordpress.com/2014/05/fscore.png)
+![pic](http://patellis.files.wordpress.com/2014/05/form.png)
 
 
 
