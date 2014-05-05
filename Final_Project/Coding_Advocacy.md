@@ -178,7 +178,7 @@ print(windsor_dat)
 9     ROBERTS              82        1156        
 ```
 
-When we plot Kennedy's *Windsor* statistics against our other cases, we can see that he 13.064% more vocal by word count in *Windsor* than his next most vocal argument, *Shelby*.
+When we plot Kennedy's *Windsor* statistics against our other cases, we can see that he was 13.064% more vocal by word count in *Windsor* than his next most vocal argument, *Shelby*.
 
 ![pic](http://patellis.files.wordpress.com/2014/05/kennedyplot.png)
 
