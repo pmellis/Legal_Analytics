@@ -100,7 +100,7 @@ Given our five transcripts, we must import the data into our statistical system,
 
 ```{r}
 library(qdap)
-dat <- read.transcript("R/Coy A KOONTZ Jr Petitioner v ST JOHNS RIVER WATER MANAGEMENT DISTRICT.docx", col.names=c("person", "dialogue"))
+dat <- read.transcript("ENTER TRANSCRIPt FROM WORKING DIRECTORY", col.names=c("person", "dialogue"))
 truncdf(dat)
 left.just(dat)
 # qprep wrapper for several lower level qdap functions
