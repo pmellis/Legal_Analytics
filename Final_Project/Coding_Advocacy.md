@@ -135,7 +135,7 @@ htruncdf(dat2)   #view a truncated version of the data(see also truncdf)
 10    LONG 2.8 Congress d
 ```
 
-####Gantt Plot Visualizations
+####Basic Stats + Visualizations
 
 The ABA Journal recently published an [article](http://www.abajournal.com/magazine/article/visual_law_services_are_worth_a_thousand_words--and_big_money/) discussing "the genesis of visual law" and its applied applications. In the article, Daniel Lewis, founder of [Ravel](https://www.ravellaw.com/), a visual-based legal research platform, explains the benefits of adding visualizations to text based research:
 
@@ -175,6 +175,16 @@ print(windsor_dat)
 2      BREYER              91        1561        
 9     ROBERTS              82        1156        
 ```
+
+When we plot Kennedy's *Windsor* statistics against our other cases, we can see that he 13.064% more vocal in Windsor than the next runner up, *Shelby*.
+
+![pic](http://patellis.files.wordpress.com/2014/05/kennedyplot.png)
+
+Is this a signal or just more noise? It will take more research to find out, but combining statistical anaylyses with visualizations certainly present some new and interesting questions! Let's take a look a more complicated analysis.
+
+####Contextual vs. Formality Analysis
+
+####Polarity Analysis
 
 ####Beyond SCOTUS
 
