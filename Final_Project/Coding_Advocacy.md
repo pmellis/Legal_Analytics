@@ -90,7 +90,7 @@ A link to the cleaned transcripts and the voting outcomes of the cases follow:
 
 - **[Koontz v. St. Johns River Water Management District](https://github.com/SpartyLegal/Legal_Analytics/blob/master/Final_Project/Koontz.txt)** (Jan 15, 2013)
 
-####Importing and Cleaning Transcripts
+####Importing and Cleaning the Transcripts
 
 For the following analyses, we will use a R package called "[qdap](http://cran.r-project.org/web/packages/qdap/vignettes/qdap_vignette.html)." "qdap" developer Tyler Rinker, describes the package:
 
