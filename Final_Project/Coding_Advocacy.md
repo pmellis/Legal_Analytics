@@ -178,9 +178,13 @@ print(windsor_dat)
 9     ROBERTS              82        1156        
 ```
 
-When we plot Kennedy's *Windsor* statistics against our other cases, we can see that he was 13.064% more vocal by word count in *Windsor* than his next most vocal argument, *Shelby*.
+We can do these for each of our five cases to obtain accurate word counts, and then plot the data:
 
-![pic](http://patellis.files.wordpress.com/2014/05/kennedyplot.png)
+![wordcount](http://patellis.files.wordpress.com/2014/05/wordcount.jpg)
+
+When we isolate Kennedy's *Windsor* statistics against our other cases, we can see that he was 13.064% more vocal by word count in *Windsor* than his next most vocal argument, *Shelby*.
+
+![pic](http://patellis.files.wordpress.com/2014/05/kennedyword.jpg)
 
 Is this a signal or just more noise? It will take more research to find out, but combining statistical analyses with visualizations certainly present some new and interesting questions! Let's take a look a more complicated analysis.
 
