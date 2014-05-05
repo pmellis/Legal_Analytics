@@ -225,9 +225,13 @@ We can then produce formality scores, such as these on the Obamacare argument:
 11   KENNEDY        290     51.72
 ```
 
-Note that the three advocates have the highest level of formality, an indication of less contextualization in their speech. We can also visualize these results:
+Note that the three advocates have the highest level of formality, an indication of less contextualization in their speech. We can also visualize these results individually in R:
 
 ![pic](http://patellis.files.wordpress.com/2014/05/form.png)
+
+Or plot the arguments against one another and look for areas of interest:
+
+![pic](http://patellis.files.wordpress.com/2014/05/formality1.png)
 
 
 ####Polarity Analysis
