@@ -74,7 +74,7 @@ Do Supreme Court oral arguments exhibit any patterns, latent or obvious, that su
 
 Unfortunately, I do not have the time (the Bar Exam is getting in the way) to perform the kind of comprehensive analysis it would take to answer my given question . . . for now. However, I can provide an introduction and starting place with five oral argument transcripts, which I've converted to a cleaner, more machine-readable format. This is by far the most tedious process, and any suggestions or resources to automate the process would be greatly appreciated. 
 
-For these purposes, I've selected transcripts from five, high-profile cases' oral arguments, all of which were decided on a 5-4 basis. These cases also fairly characterize the political ideologies of the justices (with two significant departure, Justice Roberts' vote in the Obamacare cases and Justice Kennedy's vote in Windsor) visualized in the image below from [VoteView Blog](http://voteview.com/blog/?p=105).
+For these purposes, I've selected transcripts from five, high-profile cases' oral arguments, all of which were decided on a 5-4 basis. These cases also fairly characterize the political ideologies of the justices (with two significant departure, Justice Roberts' vote in the Obamacare cases and Justice Kennedy's vote in *Windsor*) visualized in the image below from [VoteView Blog](http://voteview.com/blog/?p=105).
 
 ![pic](http://voteview.com/images/martin_quinn_supreme_court_2010.jpg)
 
@@ -100,7 +100,7 @@ Given our five transcripts, we must import the data into our statistical system,
 
 ```{r}
 library(qdap)
-dat <- read.transcript("ENTER TRANSCRIPt FROM WORKING DIRECTORY", col.names=c("person", "dialogue"))
+dat <- read.transcript("ENTER TRANSCRIPT FROM WORKING DIRECTORY", col.names=c("person", "dialogue"))
 truncdf(dat)
 left.just(dat)
 # qprep wrapper for several lower level qdap functions
