@@ -243,7 +243,7 @@ Though the Hu & Liu dictionary may not be ideal for polarity analysis on Supreme
 
 ```{r}
 #Using Obamacare Transcript
-poldata <- with(dat2, polarity(dialogue))
+poldata <- with(obamacaretrans, polarity(dialogue))
 poldata
 ```
 
@@ -257,6 +257,46 @@ POLARITY BY GROUP
 We can also visualize the group polarity with the plot() function, which produces:
 
 ![pic](http://patellis.files.wordpress.com/2014/05/picture1.png)
+
+This plot doesn't convey much information, as the bulk of the words are considered neutral. This may be due to the dictionary used. But we can break the group statistics and visuals down by individual speakers with the following: 
+
+```{r}
+poldata2 <- with(obamacaretrans, polarity(dialogue,list(person)))
+poldata2
+```
+
+```
+POLARITY BY GROUP
+=================
+      person total.sentences total.words ave.polarity
+10 SOTOMAYOR              60         966       -0.014
+1      ALITO              31         661       -0.012
+6    KENNEDY              21         290       -0.008
+3   GINSBURG              37         797       -0.008
+4      KAGAN              40         674       -0.001
+5     KATSAS             115        2037        0.006
+2     BREYER              75        1065        0.010
+9     SCALIA              17         317        0.018
+8    ROBERTS              42         493        0.030
+11  VERRILLI             151        3017        0.042
+7       LONG             126        2894        0.078
+```
+
+And plotted:
+
+![pic](http://patellis.files.wordpress.com/2014/05/polplot.jpeg)
+
+For another view, we can render a heat plot:
+
+![pic](http://patellis.files.wordpress.com/2014/05/rplot01.jpeg)
+
+This gives us much more information and a more granular view on the justices' sentiment. Of course, this information could, again, not have any predictive value. Moreover, there are some problems with running a sentiment analysis on the entire argument. For instances, one justice's sentiment could be positive toward one advocate, and negative toward another, which would balance out the total average. At an even higher level, is a justice more negative toward the side she disagrees with? Or is she perhaps more challenging to the side she agrees with to vet the issues and draw the sting? This is a question for another day, but certainly worth exploring. 
+
+Just for curiosity's sake, we can plot the sentiment scores against one another and look for areas of interest:
+
+
+
+
 
 
 ####Beyond SCOTUS
