@@ -294,7 +294,7 @@ This gives us much more information and a more granular view on the justices' se
 
 Just for curiosity's sake, we can plot the sentiment scores against one another and look for areas of interest:
 
-
+![pic](http://patellis.files.wordpress.com/2014/05/picture2.png)
 
 
 
