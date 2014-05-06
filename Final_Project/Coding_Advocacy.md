@@ -233,7 +233,7 @@ Or plot the arguments against one another and look for areas of interest:
 
 ![pic](http://patellis.files.wordpress.com/2014/05/formality1.png)
 
-This information, standing alone, does not have tremendous value. However, when combined with other information or further analyzed, formality scores may provide insight into the attitudes and understandings of the justices. Again, this is merely a starting place, but an excellent example of using R to process and dissect information that would otherwise be extremely difficult to grasp or quantify with armchair theory alone. 
+This information, standing alone, does not have tremendous value. However, when combined with other information or further analyzed, formality scores may provide insight into the attitudes and understandings of the justices. Again, this is merely a starting place, but an excellent example of using R to process and dissect information that would otherwise be extremely difficult to grasp or quantify with armchair theorization alone. 
 
 ####Polarity Analysis
 
