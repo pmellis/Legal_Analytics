@@ -296,7 +296,7 @@ Just for curiosity's sake, we can plot the sentiment scores against one another 
 
 ![pic](http://patellis.files.wordpress.com/2014/05/picture2.png)
 
-Again, it would be premature to try and forecast judicial behavior on this graph alone. We need for data and research into this issue. That said, we can take a peek at the the differing and vast ranging polarities of the justices during oral argument. Perhaps, with a more tailored dictionary and a more in-depth analysis, examining polairty would provide some insight or even have predictive power. 
+Again, it would be premature to try and forecast judicial behavior on this graph alone. We need more data and research into this issue. That said, we can take a peek at the the differing and vast ranging polarities of the justices during oral argument. Perhaps, with a more tailored dictionary and a more in-depth analysis, examining polairty would provide some insight or even have predictive power. 
 
 Or maybe, it's just noise.
 
