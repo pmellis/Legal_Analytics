@@ -1,5 +1,5 @@
 ##[de]Coding Advocacy: 
-####An Introduction to Quantitative & Computational Analyses of Supreme Court Oral Argument
+####An Introduction to Informatic Analyses of Supreme Court Oral Argument
 
 >People want to know under what circumstances and how far they will run the risk of coming against what is so much stronger than themselves, and hence it becomes a business to find out when this danger is to be feared. **The object of our study, then, is prediction, the prediction of the incidence of the public force through the instrumentality of the courts.** 
 
