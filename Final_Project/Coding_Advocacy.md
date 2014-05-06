@@ -306,7 +306,5 @@ Whether Supreme Court oral arguments have predictive power remains to be seen. O
 
 That is where the techniques shown above come in. The idea is not that a formality or polarity analysis, or visualization will replace lawyers, but they may, with the proper amount of information, computation, and development supplement our predictive powers. Perhaps the techniques, and many more, can be combined into a regression equation or performed on hundreds of arguments. Even more exciting, what if analytical tools and processes are increasingly used, not only for Supreme Court research, but also on arguments or cases in appellate courts, trial courts, or even in motion practice?
 
-As technology and data becomes increasingly accessible, it1 will be a matter of time before we can predict legal outcomes with greater speed and precision, not only for the sake of writing law review articles or blog posts, but to provide better counsel to our clients.
-
-Suffice it to say, math will be on the exam. 
+As technology and data becomes increasingly accessible, it is a matter of time before we can predict legal outcomes with greater speed and precision, not only for the sake of writing law review articles or blog posts, but to provide better counsel to our clients. Those who trust us to stand between them and "[the whole power of the state](http://www.constitution.org/lrev/owh/path_law.htm)."
 
