@@ -7,7 +7,7 @@
 
 ===============================
 
-Despite Holmes' definition of the object of our study over one hundred years ago, legal professionals' ability to forecast matter outcomes remains embryonic, at best, and largely relies on "gut feeling" and "anecdata" rather than quantitative or data-driven analyses. Recent advances in computational and statistical platforms combined with the rapid growth and increasing accessibility of data should, however, spur new efforts to predict what, how, and why courts make the decisions they make and, more importantly, how those decisions affect the clients we represent.
+Despite Holmes' definition of the object of our study over one hundred years ago, legal professionals' abilities to forecast matter outcomes remain tenuous, at best, and largely relies on "gut feeling" and "anecdata" rather than quantitative or data-driven analyses. Recent advances in computational and statistical platforms combined with the rapid growth and increasing accessibility of data should, however, spur new efforts to predict what, how, and why courts make the decisions they make and, more importantly, how those decisions affect the clients we represent.
 
 This paper attempts to introduce new approaches to analyze the Supreme Court's rich tradition of oral argument, and suggest ways these methods can be further developed to forecast Supreme Court case outcomes and, potentially, provide early case assessment tools and prediction in lower courts. Specifically, this paper will use statistical, natural language processing,and visualization techniques to examine oral arguments and suggest ways these methods could be used to uncover latent patterns in the justices' conduct. These applications are certainly not new or even particularly advanced in the world of data science and analytics, but they are rarely applied to a field and profession that needs the insight they can provide. 
 
@@ -296,7 +296,7 @@ Just for curiosity's sake, we can plot the sentiment scores against one another 
 
 ![pic](http://patellis.files.wordpress.com/2014/05/picture2.png)
 
-Again, it would be premature to try and forecast judicial behavior on this graph alone. We need more data and research into this issue. That said, we can take a peek at the the differing and vast ranging polarities of the justices during oral argument. Perhaps, with a more tailored dictionary and a more in-depth analysis, examining polairty would provide some insight or even have predictive power. 
+Again, it would be premature to try and forecast judicial behavior on this graph alone. We need more data and research into this issue. That said, we can take a peek at the the differing and vast ranging polarities of the justices during oral argument. Perhaps, with a more tailored dictionary and a more in-depth analysis, examining polarity would provide some insight or even have predictive power. 
 
 Or maybe, it's just noise.
 
