@@ -290,7 +290,7 @@ For another view, we can render a heat plot:
 
 ![pic](http://patellis.files.wordpress.com/2014/05/rplot01.jpeg)
 
-This gives us much more information and a more granular view on the justices' sentiment. Of course, this information could, again, not have any predictive value. Moreover, there are some problems with running a sentiment analysis on the entire argument. For instances, one justice's sentiment could be positive toward one advocate, and negative toward another, which would balance out the total average. At an even higher level, is a justice more negative toward the side she disagrees with? Or is she perhaps more challenging to the side she agrees with to vet the issues and draw the sting? This is a question for another day, but certainly worth exploring. 
+This gives us much more information and a more granular view on the justices' sentiment. Of course, this information could, again, not have any predictive value. Moreover, there are some problems with running a sentiment analysis on the entire argument. For instances, one justice's sentiment could be positive toward one advocate, and negative toward another, which would balance out the total average. At an even higher level, is a justice more negative toward the side she disagrees with? Or is she perhaps more challenging to the side she agrees with to vet the issues and draw the sting? Also a question for another day, but certainly worth exploring. 
 
 Just for curiosity's sake, we can plot the sentiment scores against one another and look for areas of interest:
 
