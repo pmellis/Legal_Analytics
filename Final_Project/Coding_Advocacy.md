@@ -308,5 +308,5 @@ That is where the techniques shown above come in. The idea is not that a formali
 
 ####Final Thought
 
-As technology and data becomes increasingly accessible, it is a matter of time before we can predict legal outcomes with greater speed and precision, not only for the sake of writing law review articles or blog posts, but to provide better counsel to our clients. Those who trust us to stand between them and "[the whole power of the state](http://www.constitution.org/lrev/owh/path_law.htm)."
+As technology and data becomes increasingly accessible, it is a matter of time before we can predict legal outcomes with greater speed and precision, not only for the sake of writing law review articles or blog posts, but to provide better counsel to our clients: Those who trust us to stand between them and "[the whole power of the state](http://www.constitution.org/lrev/owh/path_law.htm)."
 
