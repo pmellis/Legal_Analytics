@@ -237,6 +237,28 @@ This information, standing alone, does not have tremendous value. However, when 
 
 ####Polarity Analysis
 
+Another language-based analysis that has gained popularity, especially in the realm social analytics, is sentiment analysis. Though sentiment analyses algorithms are generally applied to written text, qdap offers a function for dialogue polarity analysis. This function compares a given text to the word polarity dictionary used by [Hu & Liu](http://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html) (2004), which has pre-coded words as either positive or negative. The algorithm uses an equation to determine the words use in its context by examining words before and after each subjected word, and then weighting the words differently, depending on the context. 
+
+Though the Hu & Liu dictionary may not be ideal for polarity analysis on Supreme Court argument, it is worth a try as it is able, again, to perform a task that humans, even experts, cannot do without tedious work and bias. In fact, a potentially great project would be to develop a sentiment dictionary for law, but that's for a later day. Using the following code, we can further examine the justices' sentiment toward the advocates:
+
+```{r}
+#Using Obamacare Transcript
+poldata <- with(dat2, polarity(dialogue))
+poldata
+```
+
+```
+POLARITY BY GROUP
+=================
+  all total.sentences total.words ave.polarity
+1 all             715       13211        0.025
+```
+
+We can also visualize the group polarity with the plot() function, which produces:
+
+![pic](http://patellis.files.wordpress.com/2014/05/picture1.png)
+
+
 ####Beyond SCOTUS
 
 **To be continued . . .**
