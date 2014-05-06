@@ -92,7 +92,7 @@ A link to the cleaned transcripts and the voting outcomes of the cases follow:
 
 ####Importing and Cleaning the Transcripts
 
-For the following analyses, we will use an R package called "[qdap](http://cran.r-project.org/web/packages/qdap/vignettes/qdap_vignette.html)." "qdap" developer Tyler Rinker, describes the package:
+For the following analyses, we will use an R package called "[qdap](http://cran.r-project.org/web/packages/qdap/vignettes/qdap_vignette.html)." qdap developer [Tyler Rinker](https://trinkerrstuff.wordpress.com/tag/tyler-rinker/), describes the package:
 
 > The package stands as a bridge between qualitative transcripts of dialogue and statistical analysis and visualization. qdap was born out of a frustration with current discourse analysis programs. Packaged programs are a closed system, meaning the researcher using the method has little, if any, influence on the program applied to her data. 
 
