@@ -190,9 +190,9 @@ Is this a signal or just more noise? It will take more research to find out, but
 
 ####Contextual vs. Formality Analysis
 
-When analyzing language, researchers often examine formality and context. Formality is a measure of how contextualized a person's language use. The more formal, the less ambiguous words are standing on there own and vice versa. Thus, complex issues, like those litigated in Courts, often require a high degree of formality. qdap uses an algorithm developed by Heylighen & Dewaele (2002) to calculate and measure formality in speech by finding the difference of all of the formal parts of speech (nouns, adjectives, prepositions, articles) and contextual parts of speech (pronouns, verbs, adverbs, interjections) divided by the sum of all formal & contextual speech plus conjunctions. This quotient is added to one and multiplied by 50 to ensure a measure between 0 and 1, with scores closer to 100 being more formal and those approaching 0 being more contextual.
+When analyzing language, researchers often examine formality and context. Formality is a measure of how contextualized a person's language use. The more formal, the less ambiguous words are standing on there own and vice versa. Thus, complex issues, like those litigated in courts, often require a high degree of formality. qdap uses an algorithm developed by Heylighen & Dewaele (2002) to calculate and measure formality in speech by finding the difference of all of the formal parts of speech (nouns, adjectives, prepositions, articles) and contextual parts of speech (pronouns, verbs, adverbs, interjections) divided by the sum of all formal & contextual speech plus conjunctions. This quotient is added to one and multiplied by 50 to ensure a measure between 0 and 1, with scores closer to 100 being more formal and those approaching 0 being more contextual.
 
-While this analysis could, at the expense of human sanity, be done by hand, it can quickly and efficiently be performed in R with relatively little effort with the following:
+While this analysis could, theoretically and at the expense of human sanity, be done by hand, it can quickly and efficiently be performed in R with relatively little effort with the following:
 
 ```{r}
 #parallel about 1:20 on 8 GB ram 8 core i7 machine
