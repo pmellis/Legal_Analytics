@@ -101,24 +101,24 @@ Given our five transcripts, we must import the data into our statistical system,
 ```{r}
 library(qdap)
 dat <- read.transcript("ENTER TRANSCRIPT FROM WORKING DIRECTORY", col.names=c("person", "dialogue"))
-truncdf(dat)
-left.just(dat)
+truncdf(data)
+left.just(data)
 # qprep wrapper for several lower level qdap functions
 # removes brackets & dashes; replaces numbers, symbols & abbreviations
-dat$dialogue <- qprep(dat$dialogue)  
+data$dialogue <- qprep(data$dialogue)  
 ```
 
 We then break the transcript down into sentences:
 
 ```{r}
 # sentSplit splits turns of talk into sentences
-dat2 <- sentSplit(dat, "dialogue", stem.col=FALSE) 
+data2 <- sentSplit(data, "dialogue", stem.col=FALSE) 
 ```
 
 And take a peek at our refined transcript:
 
 ```{r}
-htruncdf(dat2)   #view a truncated version of the data(see also truncdf)
+htruncdf(data2)   #view a truncated version of the data(see also truncdf)
 ```
 
 ```
@@ -146,7 +146,7 @@ The ABA Journal recently published an [article](http://www.abajournal.com/magazi
 Just as maps of legal precedent tell a story, so can visualizations of oral arguments. Using R and qdap, we can explore these stories in a way that may help us better understand the ebb and flow of argument, and potentially provide insight into how the justices behave. The following function allows us to produce the plots to follow:
 
 ```{r}
-with(dat2, gantt_plot(dialogue, person, title = "U.S. Department of Health and Human Services v. Florida",  
+with(data2, gantt_plot(dialogue, person, title = "U.S. Department of Health and Human Services v. Florida",  
 xlab = "Argument Duration", ylab = "Speaker", x.tick=TRUE, minor.line.freq = NULL, major.line.freq = NULL, 
 rm.horiz.lines = FALSE))
 ```
@@ -163,7 +163,7 @@ rm.horiz.lines = FALSE))
 These visualizations may be a bit overwhelming, but they do convey a lot of information (speaking patterns, length of questions and exchanges, and are just plain fun to look at). Note, Justice Thomas is not listed on any of the graphs as he has not asked a question in seven years, with [one minor exception](http://usnews.nbcnews.com/_news/2013/01/14/16510953-for-first-time-in-nearly-seven-years-justice-clarence-thomas-talks-during-court-arguments?lite). At first glance, does anything jump out? Aside from Justice Breyer's long stretches of color, it *appears* that Justice Kennedy is more active in the *Windsor* argument. Of course, we know that Justice Kennedy voted with the "liberal" wing of the Court in that case, and my identification of extra-activity may simply be a case of apophenia, the experience of seeing patterns or connections in random or meaningless data, more commonly called a Type I error. Without further research and a larger sample of cases, it is impossible to tell. But, just for fun, we can "zoom in" on the data and see if Justice Kennedy did in fact talk more in the *Windsor* argument using the following function:
 
 ```{r}
-print(windsor_dat)
+print(windsor_data)
 ```
 
 ```
@@ -196,15 +196,15 @@ While this analysis could, at the expense of human sanity, be done by hand, it c
 
 ```{r}
 #parallel about 1:20 on 8 GB ram 8 core i7 machine
-v1 <- with(dat2, formality(dialogue, person, parallel=TRUE))
+v1 <- with(data2, formality(dialogue, person, parallel=TRUE))
 plot(v1)
 #about 4 minutes on 8GB ram i7 machine
-v2 <- with(dat2, formality(dialogue, person)) 
+v2 <- with(data2, formality(dialogue, person)) 
 plot(v2)
 # note you can resupply the output from formality back
 # to formality and change arguments.  This avoids the need for
 # openNLP, saving time.
-v3 <- with(dat2, formality(v1, person))
+v3 <- with(data2, formality(v1, person))
 plot(v3, bar.colors=c("Dark2"))
 ```
 
